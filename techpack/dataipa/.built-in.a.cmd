@@ -1,0 +1,1 @@
+cmd_techpack/dataipa/built-in.a := rm -f techpack/dataipa/built-in.a.symversions; for i in  techpack/dataipa/drivers/platform/msm/built-in.a; do cat $$i.symversions >> techpack/dataipa/built-in.a.symversions; done; rm -f techpack/dataipa/built-in.a; llvm-ar cDPrST techpack/dataipa/built-in.a techpack/dataipa/drivers/platform/msm/built-in.a

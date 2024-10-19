@@ -1,0 +1,5 @@
+__crc_snd_compr_use_pause_in_draining = 0x88bcef8c;
+__crc_snd_compr_stop_error = 0x2f89eba5;
+__crc_snd_compress_new = 0x7a421740;
+__crc_snd_compress_register = 0x414fa04b;
+__crc_snd_compress_deregister = 0xc321c6ee;

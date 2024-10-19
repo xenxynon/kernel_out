@@ -1,0 +1,40 @@
+!<thin>
+//                                              324       `
+qcom-spmi-temp-alarm.o/
+adc-tm.o/
+adc-tm-common.o/
+adc-tm5.o/
+adc-tm7.o/
+thermal_sensor_service_v01.o/
+qmi_sensors.o/
+thermal_mitigation_device_service_v01.o/
+qmi_cooling.o/
+cpu_isolate.o/
+cpu_hotplug.o/
+bcl_pmic5.o/
+bcl_soc.o/
+msm_lmh_dcvs.o/
+cpu_voltage_cooling.o/
+policy_engine.o/
+sdpm_clk.o/
+ddr_cdev.o/
+max31760_fan.o/
+/0              0           0     0     644     14176     `
+/24             0           0     0     644     17744     `
+/34             0           0     0     644     11680     `
+/51             0           0     0     644     20048     `
+/62             0           0     0     644     15612     `
+/73             0           0     0     644     3068      `
+/103            0           0     0     644     23752     `
+/118            0           0     0     644     3720      `
+/159            0           0     0     644     19836     `
+/174            0           0     0     644     18300     `
+/189            0           0     0     644     11300     `
+/204            0           0     0     644     21788     `
+/217            0           0     0     644     10132     `
+/228            0           0     0     644     17208     `
+/244            0           0     0     644     16256     `
+/267            0           0     0     644     10156     `
+/284            0           0     0     644     13108     `
+/296            0           0     0     644     9120      `
+/308            0           0     0     644     13732     `

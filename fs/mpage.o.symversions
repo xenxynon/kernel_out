@@ -1,0 +1,8 @@
+__crc___tracepoint_android_fs_datawrite_start = 0x6151ba3e;
+__crc___tracepoint_android_fs_datawrite_end = 0x098eb802;
+__crc___tracepoint_android_fs_dataread_start = 0xcbcf5396;
+__crc___tracepoint_android_fs_dataread_end = 0xc842528b;
+__crc_mpage_readpages = 0x67f7c0fa;
+__crc_mpage_readpage = 0xca68fbc1;
+__crc_mpage_writepages = 0x6d1bcaa2;
+__crc_mpage_writepage = 0x3de90954;

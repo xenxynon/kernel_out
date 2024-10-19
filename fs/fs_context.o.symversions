@@ -1,0 +1,9 @@
+__crc_vfs_parse_fs_param = 0xe914a91c;
+__crc_vfs_parse_fs_string = 0xc961c4a2;
+__crc_generic_parse_monolithic = 0x64024346;
+__crc_fs_context_for_mount = 0xc56aba80;
+__crc_fs_context_for_reconfigure = 0xf4aa7bec;
+__crc_fs_context_for_submount = 0xa4acc64d;
+__crc_vfs_dup_fs_context = 0x9669fcfa;
+__crc_logfc = 0x33c73b34;
+__crc_put_fs_context = 0x4f3435ea;

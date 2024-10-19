@@ -1,0 +1,5 @@
+__crc_pci_read_vpd = 0xc73f4b1a;
+__crc_pci_write_vpd = 0xe133fd1c;
+__crc_pci_set_vpd_size = 0xd90e2152;
+__crc_pci_vpd_find_tag = 0xf1361941;
+__crc_pci_vpd_find_info_keyword = 0x85a49dc7;

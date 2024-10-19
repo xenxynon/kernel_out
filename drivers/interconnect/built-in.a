@@ -1,0 +1,14 @@
+!<thin>
+//                                              90        `
+core.o/
+qcom/yupik.o/
+qcom/bcm-voter.o/
+qcom/icc-rpmh.o/
+qcom/qnoc-qos.o/
+qcom/epss-l3.o/
+/0              0           0     0     644     41072     `
+/8              0           0     0     644     64416     `
+/22             0           0     0     644     15232     `
+/40             0           0     0     644     11728     `
+/57             0           0     0     644     4788      `
+/74             0           0     0     644     12912     `

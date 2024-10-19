@@ -1,0 +1,10 @@
+__crc_iptun_encaps = 0x057d1b06;
+__crc_ip6tun_encaps = 0xaa0d40ed;
+__crc_iptunnel_xmit = 0x09ddade3;
+__crc___iptunnel_pull_header = 0x5c90943c;
+__crc_iptunnel_metadata_reply = 0x8305096b;
+__crc_iptunnel_handle_offloads = 0xcd0dd54b;
+__crc_ip_tunnel_get_stats64 = 0x976be568;
+__crc_ip_tunnel_metadata_cnt = 0x66628bf3;
+__crc_ip_tunnel_need_metadata = 0x7f7cbc64;
+__crc_ip_tunnel_unneed_metadata = 0xc0f0458a;

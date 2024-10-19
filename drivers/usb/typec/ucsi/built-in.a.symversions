@@ -1,0 +1,12 @@
+__crc_ucsi_send_command = 0x035a92ad;
+__crc_ucsi_resume = 0xe6edb550;
+__crc_ucsi_connector_change = 0x7e4b9e18;
+__crc_ucsi_init = 0x5bff8b32;
+__crc_ucsi_get_drvdata = 0x7d6a4941;
+__crc_ucsi_set_drvdata = 0x5ce732a5;
+__crc_ucsi_create = 0xf6048530;
+__crc_ucsi_destroy = 0x488bf0e7;
+__crc_ucsi_register = 0xa64f08cf;
+__crc_ucsi_unregister = 0xf0514dbd;
+__crc_register_ucsi_glink_notifier = 0x69ea286a;
+__crc_unregister_ucsi_glink_notifier = 0xf8c1938f;

@@ -1,0 +1,1 @@
+cmd_techpack/display/built-in.a := rm -f techpack/display/built-in.a.symversions; for i in  techpack/display/msm/built-in.a; do cat $$i.symversions >> techpack/display/built-in.a.symversions; done; rm -f techpack/display/built-in.a; llvm-ar cDPrST techpack/display/built-in.a techpack/display/msm/built-in.a

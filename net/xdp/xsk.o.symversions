@@ -1,0 +1,11 @@
+__crc_xsk_umem_has_addrs = 0x0b199e34;
+__crc_xsk_umem_peek_addr = 0x87857c02;
+__crc_xsk_umem_discard_addr = 0x56619ce8;
+__crc_xsk_set_rx_need_wakeup = 0x77963187;
+__crc_xsk_set_tx_need_wakeup = 0xeb79cd9b;
+__crc_xsk_clear_rx_need_wakeup = 0x37438ddc;
+__crc_xsk_clear_tx_need_wakeup = 0xabac71c0;
+__crc_xsk_umem_uses_need_wakeup = 0xc4747d53;
+__crc_xsk_umem_complete_tx = 0x93f9ca48;
+__crc_xsk_umem_consume_tx_done = 0x263ecf4a;
+__crc_xsk_umem_consume_tx = 0xdfc19453;

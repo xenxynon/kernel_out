@@ -1,0 +1,10 @@
+__crc_crypto_default_rng = 0xd2413734;
+__crc_crypto_rng_reset = 0xa9241b45;
+__crc_crypto_alloc_rng = 0x9a693cd8;
+__crc_crypto_get_default_rng = 0x6ff607b6;
+__crc_crypto_put_default_rng = 0x668402aa;
+__crc_crypto_del_default_rng = 0x5bd0748f;
+__crc_crypto_register_rng = 0x60a446ec;
+__crc_crypto_unregister_rng = 0x50e5be4a;
+__crc_crypto_register_rngs = 0xcb9c7ee7;
+__crc_crypto_unregister_rngs = 0x839e8a9f;

@@ -1,0 +1,6 @@
+__crc_tcf_em_register = 0x0af5fab4;
+__crc_tcf_em_unregister = 0xabe4cbfc;
+__crc_tcf_em_tree_validate = 0x945b335d;
+__crc_tcf_em_tree_destroy = 0xffaf0d5b;
+__crc_tcf_em_tree_dump = 0xdb4d0a07;
+__crc___tcf_em_tree_match = 0x27a95346;

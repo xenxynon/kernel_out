@@ -1,0 +1,21 @@
+!<thin>
+//                                              246       `
+reset/msm-poweroff.o/
+reset/qcom-dload-mode.o/
+reset/qcom-reboot-reason.o/
+supply/power_supply_core.o/
+supply/power_supply_sysfs.o/
+supply/power_supply_leds.o/
+supply/power_supply_hwmon.o/
+supply/qti_battery_charger.o/
+supply/qti_typec_class.o/
+
+/0              0           0     0     644     21844     `
+/22             0           0     0     644     15856     `
+/47             0           0     0     644     7544      `
+/75             0           0     0     644     56656     `
+/103            0           0     0     644     23592     `
+/132            0           0     0     644     6004      `
+/160            0           0     0     644     9780      `
+/189            0           0     0     644     59420     `
+/219            0           0     0     644     4368      `

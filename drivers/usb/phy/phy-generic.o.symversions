@@ -1,0 +1,5 @@
+__crc_usb_phy_generic_register = 0xee481248;
+__crc_usb_phy_generic_unregister = 0x27fb694b;
+__crc_usb_gen_phy_init = 0x96aecabf;
+__crc_usb_gen_phy_shutdown = 0xb4112820;
+__crc_usb_phy_gen_create_phy = 0xd22e96f9;

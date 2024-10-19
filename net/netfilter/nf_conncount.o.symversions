@@ -1,0 +1,7 @@
+__crc_nf_conncount_add = 0xe4492e25;
+__crc_nf_conncount_list_init = 0x8c4cb9c3;
+__crc_nf_conncount_gc_list = 0x5840f032;
+__crc_nf_conncount_count = 0x3b7aed99;
+__crc_nf_conncount_init = 0x2125a4ec;
+__crc_nf_conncount_cache_free = 0x3ff55ad3;
+__crc_nf_conncount_destroy = 0x13aa2d94;

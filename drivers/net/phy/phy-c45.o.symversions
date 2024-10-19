@@ -1,0 +1,14 @@
+__crc_genphy_c45_pma_setup_forced = 0x46f5667c;
+__crc_genphy_c45_an_config_aneg = 0x010d817c;
+__crc_genphy_c45_an_disable_aneg = 0xd1740fc7;
+__crc_genphy_c45_restart_aneg = 0xd9ad64af;
+__crc_genphy_c45_check_and_restart_aneg = 0xbaa95c0c;
+__crc_genphy_c45_aneg_done = 0xf3c37af4;
+__crc_genphy_c45_read_link = 0x0d343e54;
+__crc_genphy_c45_read_lpa = 0xbaff1e46;
+__crc_genphy_c45_read_pma = 0xbdf4e7c8;
+__crc_genphy_c45_read_mdix = 0xe5848fc3;
+__crc_genphy_c45_pma_read_abilities = 0xbc81b107;
+__crc_genphy_c45_read_status = 0xba5e4cf2;
+__crc_genphy_c45_config_aneg = 0xd0517e90;
+__crc_gen10g_config_aneg = 0x5486b826;

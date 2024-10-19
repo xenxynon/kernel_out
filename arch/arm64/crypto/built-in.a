@@ -1,0 +1,35 @@
+!<thin>
+//                                              262       `
+sha1-ce-glue.o/
+sha1-ce-core.o/
+sha2-ce-glue.o/
+sha2-ce-core.o/
+aes-ce-core.o/
+aes-ce-glue.o/
+aes-glue-ce.o/
+aes-ce.o/
+sha256-glue.o/
+sha256-core.o/
+chacha-neon-core.o/
+chacha-neon-glue.o/
+poly1305-core.o/
+poly1305-glue.o/
+aes-cipher-core.o/
+aes-cipher-glue.o/
+
+/0              0           0     0     644     17164     `
+/16             0           0     0     644     1456      `
+/32             0           0     0     644     19164     `
+/48             0           0     0     644     1840      `
+/64             0           0     0     644     800       `
+/79             0           0     0     644     14220     `
+/94             0           0     0     644     36016     `
+/109            0           0     0     644     9352      `
+/119            0           0     0     644     18588     `
+/134            0           0     0     644     7856      `
+/149            0           0     0     644     3632      `
+/169            0           0     0     644     23824     `
+/189            0           0     0     644     2928      `
+/206            0           0     0     644     17368     `
+/223            0           0     0     644     3104      `
+/242            0           0     0     644     5636      `

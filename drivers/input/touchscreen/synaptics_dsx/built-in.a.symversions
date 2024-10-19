@@ -1,0 +1,4 @@
+__crc_synaptics_rmi4_bus_init = 0x1d269f60;
+__crc_synaptics_rmi4_bus_exit = 0x1dbf5e30;
+__crc_synaptics_rmi4_new_function = 0xdbc0f7f6;
+__crc_synaptics_fw_updater = 0x8313d594;

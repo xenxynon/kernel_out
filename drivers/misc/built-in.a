@@ -1,0 +1,12 @@
+!<thin>
+//                                              70        `
+sram.o/
+hdcp_qseecom.o/
+uid_sys_stats.o/
+qseecom.o/
+compat_qseecom.o/
+/0              0           0     0     644     15648     `
+/8              0           0     0     644     38456     `
+/24             0           0     0     644     32300     `
+/41             0           0     0     644     269560    `
+/52             0           0     0     644     232840    `

@@ -1,0 +1,3 @@
+__crc_br_fdb_find_port = 0xd9b6f2d9;
+__crc_br_fdb_find_rcu = 0x9290a9b6;
+__crc_br_fdb_clear_offload = 0x4551fa07;

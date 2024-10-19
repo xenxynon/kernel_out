@@ -1,0 +1,4 @@
+__crc_ipv6_ext_hdr = 0x452ba683;
+__crc_ipv6_skip_exthdr = 0xc27c4249;
+__crc_ipv6_find_tlv = 0x379cd64c;
+__crc_ipv6_find_hdr = 0xfc43609e;

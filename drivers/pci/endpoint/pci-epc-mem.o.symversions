@@ -1,0 +1,4 @@
+__crc___pci_epc_mem_init = 0x683de2d9;
+__crc_pci_epc_mem_exit = 0x8ae1d79b;
+__crc_pci_epc_mem_alloc_addr = 0x3d974bb4;
+__crc_pci_epc_mem_free_addr = 0xbcc3f33a;

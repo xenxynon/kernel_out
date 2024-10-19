@@ -1,0 +1,6 @@
+__crc_ttm_mem_glob = 0x95833f6b;
+__crc_ttm_mem_global_free = 0xf628e352;
+__crc_ttm_check_under_lowerlimit = 0xa1e2914b;
+__crc_ttm_mem_global_alloc = 0x6c76bc1a;
+__crc_ttm_round_pot = 0x6052860c;
+__crc_ttm_get_kernel_zone_memory_size = 0x0de271ca;

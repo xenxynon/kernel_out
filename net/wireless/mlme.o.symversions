@@ -1,0 +1,10 @@
+__crc_cfg80211_rx_assoc_resp = 0xd5ee8ad5;
+__crc_cfg80211_rx_mlme_mgmt = 0x235ec6da;
+__crc_cfg80211_auth_timeout = 0xddd1e1b0;
+__crc_cfg80211_assoc_timeout = 0x4f0426ed;
+__crc_cfg80211_abandon_assoc = 0xfeb004e1;
+__crc_cfg80211_tx_mlme_mgmt = 0xd3e63a85;
+__crc_cfg80211_michael_mic_failure = 0x56385bd8;
+__crc_cfg80211_rx_mgmt = 0xd3b307ad;
+__crc_cfg80211_radar_event = 0x9d3ff812;
+__crc_cfg80211_cac_event = 0x300b5b06;

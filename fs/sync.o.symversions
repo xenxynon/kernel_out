@@ -1,0 +1,3 @@
+__crc_sync_filesystem = 0xadd5137d;
+__crc_vfs_fsync_range = 0x7fdb09aa;
+__crc_vfs_fsync = 0x62b8f5c3;

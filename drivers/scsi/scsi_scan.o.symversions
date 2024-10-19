@@ -1,0 +1,9 @@
+__crc_scsi_is_target_device = 0xe27589fc;
+__crc_scsi_sanitize_inquiry_string = 0x27756bc8;
+__crc___scsi_add_device = 0x0c66b31f;
+__crc_scsi_add_device = 0xc362c245;
+__crc_scsi_rescan_device = 0xc115bb40;
+__crc_scsi_scan_target = 0x7e463d22;
+__crc_scsi_scan_host = 0x04b7fdc4;
+__crc_scsi_get_host_dev = 0x0c0f4e33;
+__crc_scsi_free_host_dev = 0x2f12c030;

@@ -1,0 +1,1 @@
+cmd_sound/pcmcia/vx/built-in.a := rm -f sound/pcmcia/vx/built-in.a.symversions; for i in ; do cat $$i.symversions >> sound/pcmcia/vx/built-in.a.symversions; done; rm -f sound/pcmcia/vx/built-in.a; llvm-ar cDPrST sound/pcmcia/vx/built-in.a 

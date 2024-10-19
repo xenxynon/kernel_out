@@ -1,0 +1,21 @@
+!<thin>
+//                                              166       `
+led-core.o/
+led-class.o/
+led-class-flash.o/
+led-triggers.o/
+leds-qti-flash.o/
+leds-qti-tri-led.o/
+leds-qpnp-vibrator-ldo.o/
+trigger/ledtrig-timer.o/
+leds_aw210xx.o/
+
+/0              0           0     0     644     30572     `
+/12             0           0     0     644     18616     `
+/25             0           0     0     644     16652     `
+/44             0           0     0     644     21592     `
+/60             0           0     0     644     42640     `
+/78             0           0     0     644     17616     `
+/98             0           0     0     644     18948     `
+/124            0           0     0     644     8904      `
+/149            0           0     0     644     141444    `

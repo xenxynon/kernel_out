@@ -1,0 +1,3 @@
+__crc_sdio_signal_irq = 0x0ebbc10a;
+__crc_sdio_claim_irq = 0x4ab1db8b;
+__crc_sdio_release_irq = 0x33ee5ca2;

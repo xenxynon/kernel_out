@@ -1,0 +1,1 @@
+cmd_techpack/audio/asoc/codecs/rouleur/built-in.a := rm -f techpack/audio/asoc/codecs/rouleur/built-in.a.symversions; for i in ; do cat $$i.symversions >> techpack/audio/asoc/codecs/rouleur/built-in.a.symversions; done; rm -f techpack/audio/asoc/codecs/rouleur/built-in.a; llvm-ar cDPrST techpack/audio/asoc/codecs/rouleur/built-in.a 

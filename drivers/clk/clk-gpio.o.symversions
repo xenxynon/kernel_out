@@ -1,0 +1,6 @@
+__crc_clk_gpio_gate_ops = 0x671ac381;
+__crc_clk_gpio_mux_ops = 0x68ffb6b5;
+__crc_clk_hw_register_gpio_gate = 0x84b7279c;
+__crc_clk_register_gpio_gate = 0x05b5b0d8;
+__crc_clk_hw_register_gpio_mux = 0x3a089e21;
+__crc_clk_register_gpio_mux = 0x678cae44;

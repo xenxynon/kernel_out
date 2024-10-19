@@ -1,0 +1,12 @@
+__crc_drm_modeset_lock_all = 0xceea5403;
+__crc_drm_modeset_unlock_all = 0xd698def3;
+__crc_drm_warn_on_modeset_not_all_locked = 0xbf76107e;
+__crc_drm_modeset_acquire_init = 0xf6dee721;
+__crc_drm_modeset_acquire_fini = 0xfe3f28cd;
+__crc_drm_modeset_drop_locks = 0xa14c773e;
+__crc_drm_modeset_backoff = 0x51f29494;
+__crc_drm_modeset_lock_init = 0x76dd4c0c;
+__crc_drm_modeset_lock = 0x70d2adfa;
+__crc_drm_modeset_lock_single_interruptible = 0xab0c3a95;
+__crc_drm_modeset_unlock = 0xae826563;
+__crc_drm_modeset_lock_all_ctx = 0xc8aac8f0;

@@ -1,0 +1,2 @@
+__crc_platform_msi_domain_alloc_irqs = 0x1bb1d28e;
+__crc_platform_msi_domain_free_irqs = 0xb18e6c3b;

@@ -1,0 +1,26 @@
+!<thin>
+//                                              220       `
+uvc/uvc_driver.o/
+uvc/uvc_queue.o/
+uvc/uvc_v4l2.o/
+uvc/uvc_video.o/
+uvc/uvc_ctrl.o/
+uvc/uvc_status.o/
+uvc/uvc_isight.o/
+uvc/uvc_debugfs.o/
+uvc/uvc_metadata.o/
+uvc/uvc_entity.o/
+gspca/gspca.o/
+gspca/autogain_functions.o/
+/0              0           0     0     644     64548     `
+/18             0           0     0     644     12764     `
+/35             0           0     0     644     50864     `
+/51             0           0     0     644     39920     `
+/68             0           0     0     644     49868     `
+/84             0           0     0     644     10956     `
+/102            0           0     0     644     6104      `
+/120            0           0     0     644     5040      `
+/139            0           0     0     644     9300      `
+/159            0           0     0     644     5836      `
+/177            0           0     0     644     43884     `
+/192            0           0     0     644     7952      `

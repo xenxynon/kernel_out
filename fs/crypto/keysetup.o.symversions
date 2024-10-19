@@ -1,0 +1,4 @@
+__crc_fscrypt_get_encryption_info = 0x044edd4f;
+__crc_fscrypt_put_encryption_info = 0xcee1bae1;
+__crc_fscrypt_free_inode = 0xa219bfb5;
+__crc_fscrypt_drop_inode = 0x8a0a6d7e;

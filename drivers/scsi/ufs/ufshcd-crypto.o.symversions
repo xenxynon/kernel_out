@@ -1,0 +1,7 @@
+__crc_ufshcd_crypto_cap_find = 0x9089ac57;
+__crc_ufshcd_crypto_enable_spec = 0xf22c7565;
+__crc_ufshcd_crypto_disable_spec = 0x699c9ba4;
+__crc_ufshcd_hba_init_crypto_spec = 0xbd9075a0;
+__crc_ufshcd_crypto_setup_rq_keyslot_manager_spec = 0xd8ca3203;
+__crc_ufshcd_crypto_destroy_rq_keyslot_manager_spec = 0x8c65d995;
+__crc_ufshcd_prepare_lrbp_crypto_spec = 0xc0834c23;

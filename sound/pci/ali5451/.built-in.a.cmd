@@ -1,0 +1,1 @@
+cmd_sound/pci/ali5451/built-in.a := rm -f sound/pci/ali5451/built-in.a.symversions; for i in ; do cat $$i.symversions >> sound/pci/ali5451/built-in.a.symversions; done; rm -f sound/pci/ali5451/built-in.a; llvm-ar cDPrST sound/pci/ali5451/built-in.a 

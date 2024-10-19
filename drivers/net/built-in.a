@@ -1,0 +1,92 @@
+!<thin>
+//                                              928       `
+dummy.o/
+mii.o/
+Space.o/
+loopback.o/
+phy/mdio-boardinfo.o/
+phy/phy.o/
+phy/phy-c45.o/
+phy/phy-core.o/
+phy/phy_device.o/
+phy/mdio_bus.o/
+phy/mdio_device.o/
+phy/swphy.o/
+phy/fixed_phy.o/
+phy/microchip.o/
+tun.o/
+veth.o/
+ppp/ppp_generic.o/
+ppp/bsd_comp.o/
+ppp/ppp_deflate.o/
+ppp/ppp_mppe.o/
+ppp/pppox.o/
+ppp/pptp.o/
+slip/slhc.o/
+wireless/cnss2/main.o/
+wireless/cnss2/bus.o/
+wireless/cnss2/debug.o/
+wireless/cnss2/pci.o/
+wireless/cnss2/power.o/
+wireless/cnss2/genl.o/
+wireless/cnss2/qmi.o/
+wireless/cnss2/coexistence_service_v01.o/
+wireless/cnss2/ip_multimedia_subsystem_private_service_v01.o/
+wireless/cnss_utils/cnss_utils.o/
+wireless/cnss_utils/wlan_firmware_service_v01.o/
+wireless/cnss_utils/device_management_service_v01.o/
+wireless/cnss_genl/cnss_nl.o/
+wireless/cnss_prealloc/cnss_prealloc.o/
+usb/r8152.o/
+usb/lan78xx.o/
+usb/asix_devices.o/
+usb/asix_common.o/
+usb/ax88172a.o/
+usb/ax88179_178a.o/
+usb/cdc_ether.o/
+usb/usbnet.o/
+/0              0           0     0     644     13140     `
+/9              0           0     0     644     16804     `
+/16             0           0     0     644     4172      `
+/25             0           0     0     644     15652     `
+/37             0           0     0     644     8004      `
+/59             0           0     0     644     35752     `
+/70             0           0     0     644     17952     `
+/85             0           0     0     644     28800     `
+/101            0           0     0     644     84068     `
+/119            0           0     0     644     42484     `
+/135            0           0     0     644     12272     `
+/154            0           0     0     644     5320      `
+/167            0           0     0     644     17108     `
+/184            0           0     0     644     12428     `
+/201            0           0     0     644     163032    `
+/208            0           0     0     644     44552     `
+/216            0           0     0     644     119388    `
+/235            0           0     0     644     13688     `
+/251            0           0     0     644     11928     `
+/270            0           0     0     644     16724     `
+/286            0           0     0     644     21300     `
+/299            0           0     0     644     39192     `
+/311            0           0     0     644     16688     `
+/324            0           0     0     644     123424    `
+/347            0           0     0     644     27032     `
+/369            0           0     0     644     9044      `
+/393            0           0     0     644     217636    `
+/415            0           0     0     644     45424     `
+/439            0           0     0     644     12216     `
+/462            0           0     0     644     116648    `
+/484            0           0     0     644     2740      `
+/526            0           0     0     644     3436      `
+/588            0           0     0     644     18644     `
+/622            0           0     0     644     78356     `
+/671            0           0     0     644     4516      `
+/724            0           0     0     644     9788      `
+/754            0           0     0     644     14136     `
+/794            0           0     0     644     148440    `
+/807            0           0     0     644     112160    `
+/822            0           0     0     644     26068     `
+/842            0           0     0     644     28900     `
+/861            0           0     0     644     13876     `
+/877            0           0     0     644     42936     `
+/897            0           0     0     644     19276     `
+/914            0           0     0     644     92724     `

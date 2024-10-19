@@ -1,0 +1,7 @@
+__crc___scm_destroy = 0x1a58ad46;
+__crc___scm_send = 0xb668c146;
+__crc_put_cmsg = 0x4c42b7c7;
+__crc_put_cmsg_scm_timestamping64 = 0xef6900ab;
+__crc_put_cmsg_scm_timestamping = 0xbef1ea17;
+__crc_scm_detach_fds = 0x8ef9b48b;
+__crc_scm_fp_dup = 0xefaa99bc;

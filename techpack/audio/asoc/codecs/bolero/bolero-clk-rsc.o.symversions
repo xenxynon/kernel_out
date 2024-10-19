@@ -1,0 +1,4 @@
+__crc_bolero_rsc_clk_reset = 0x8b2dc0be;
+__crc_bolero_clk_rsc_enable_all_clocks = 0xe1137d31;
+__crc_bolero_clk_rsc_fs_gen_request = 0xefb2d214;
+__crc_bolero_clk_rsc_request_clock = 0xc702890f;

@@ -1,0 +1,72 @@
+!<thin>
+//                                              708       `
+wcd938x/wcd938x.o/
+wcd938x/wcd938x-regmap.o/
+wcd938x/wcd938x-tables.o/
+wcd938x/wcd938x-mbhc.o/
+wcd938x/wcd938x-slave.o/
+bolero/bolero-cdc.o/
+bolero/bolero-cdc-utils.o/
+bolero/bolero-cdc-regmap.o/
+bolero/bolero-cdc-tables.o/
+bolero/bolero-clk-rsc.o/
+bolero/wsa-macro.o/
+bolero/va-macro.o/
+bolero/tx-macro.o/
+bolero/rx-macro.o/
+wsa883x/wsa883x.o/
+wsa883x/wsa883x-regmap.o/
+wsa883x/wsa883x-tables.o/
+tfa98xx/tfa98xx.o/
+tfa98xx/tfa_container.o/
+tfa98xx/tfa_dsp.o/
+tfa98xx/tfa_init.o/
+wcd9xxx-core-init.o/
+msm-cdc-pinctrl.o/
+msm-cdc-supply.o/
+wcd-irq.o/
+wcd-clsh.o/
+wcdcal-hwdep.o/
+wcd9xxx-soc-init.o/
+audio-ext-clk-up.o/
+swr-dmic.o/
+msm_stub.o/
+wcd-mbhc-v2.o/
+wcd-mbhc-adc.o/
+msm_hdmi_codec_rx.o/
+swr-haptics.o/
+/0              0           0     0     644     114620    `
+/19             0           0     0     644     7840      `
+/45             0           0     0     644     3544      `
+/71             0           0     0     644     30676     `
+/95             0           0     0     644     7792      `
+/120            0           0     0     644     48652     `
+/141            0           0     0     644     7756      `
+/168            0           0     0     644     11256     `
+/196            0           0     0     644     6440      `
+/224            0           0     0     644     22340     `
+/249            0           0     0     644     71420     `
+/269            0           0     0     644     82104     `
+/288            0           0     0     644     87532     `
+/307            0           0     0     644     93396     `
+/326            0           0     0     644     47892     `
+/345            0           0     0     644     6508      `
+/371            0           0     0     644     3856      `
+/397            0           0     0     644     103888    `
+/416            0           0     0     644     49472     `
+/441            0           0     0     644     83544     `
+/460            0           0     0     644     31624     `
+/480            0           0     0     644     6472      `
+/501            0           0     0     644     18992     `
+/520            0           0     0     644     26312     `
+/538            0           0     0     644     10236     `
+/549            0           0     0     644     16240     `
+/561            0           0     0     644     36444     `
+/577            0           0     0     644     4572      `
+/597            0           0     0     644     19248     `
+/617            0           0     0     644     24084     `
+/629            0           0     0     644     6392      `
+/641            0           0     0     644     57872     `
+/656            0           0     0     644     23916     `
+/672            0           0     0     644     23500     `
+/693            0           0     0     644     21856     `

@@ -1,0 +1,1 @@
+cmd_sound/mips/built-in.a := rm -f sound/mips/built-in.a.symversions; for i in ; do cat $$i.symversions >> sound/mips/built-in.a.symversions; done; rm -f sound/mips/built-in.a; llvm-ar cDPrST sound/mips/built-in.a 

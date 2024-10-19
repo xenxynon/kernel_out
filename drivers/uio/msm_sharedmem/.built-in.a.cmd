@@ -1,0 +1,1 @@
+cmd_drivers/uio/msm_sharedmem/built-in.a := rm -f drivers/uio/msm_sharedmem/built-in.a.symversions; for i in  ; do cat $$i.symversions >> drivers/uio/msm_sharedmem/built-in.a.symversions; done; rm -f drivers/uio/msm_sharedmem/built-in.a; llvm-ar cDPrST drivers/uio/msm_sharedmem/built-in.a drivers/uio/msm_sharedmem/msm_sharedmem.o

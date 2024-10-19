@@ -1,0 +1,14 @@
+__crc_led_trigger_store = 0x87953cce;
+__crc_led_trigger_show = 0xdc61d7f1;
+__crc_led_trigger_set = 0xf52022fa;
+__crc_led_trigger_remove = 0x98268dca;
+__crc_led_trigger_set_default = 0xa3c021d5;
+__crc_led_trigger_rename_static = 0x7dce0171;
+__crc_led_trigger_register = 0x85dcaa9a;
+__crc_led_trigger_unregister = 0x13c39321;
+__crc_devm_led_trigger_register = 0x4bfdbf52;
+__crc_led_trigger_event = 0x2e4d40a0;
+__crc_led_trigger_blink = 0x6111e4d7;
+__crc_led_trigger_blink_oneshot = 0x82f0ff83;
+__crc_led_trigger_register_simple = 0x8b779dda;
+__crc_led_trigger_unregister_simple = 0xd557580d;

@@ -1,0 +1,3 @@
+__crc___ip4_datagram_connect = 0x9e3002d0;
+__crc_ip4_datagram_connect = 0xd9ca192b;
+__crc_ip4_datagram_release_cb = 0xb430587e;

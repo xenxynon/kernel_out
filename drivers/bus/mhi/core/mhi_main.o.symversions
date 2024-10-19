@@ -1,0 +1,14 @@
+__crc_mhi_get_exec_env = 0x70fe4267;
+__crc_mhi_get_mhi_state = 0xfaefd5bb;
+__crc_mhi_soc_reset = 0x6a4df17c;
+__crc_mhi_prepare_for_transfer = 0x0c7caeca;
+__crc_mhi_unprepare_from_transfer = 0xfc431b57;
+__crc_mhi_pause_transfer = 0x0b18cf07;
+__crc_mhi_resume_transfer = 0x79df4a51;
+__crc_mhi_get_no_free_descriptors = 0x9cc8dc51;
+__crc_mhi_bdf_to_controller = 0xe5308996;
+__crc_mhi_poll = 0x2c0575f1;
+__crc_mhi_get_remote_time_sync = 0x193575d7;
+__crc_mhi_get_remote_time = 0x547387ec;
+__crc_mhi_debug_reg_dump = 0xfd4e2695;
+__crc_mhi_get_restart_reason = 0x6719d75f;

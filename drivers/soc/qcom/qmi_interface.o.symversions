@@ -1,0 +1,11 @@
+__crc_qmi_add_lookup = 0xee3c8805;
+__crc_qmi_add_server = 0x7647277d;
+__crc_qmi_txn_init = 0xb9075e70;
+__crc_qmi_txn_wait = 0x7b1b060d;
+__crc_qmi_txn_cancel = 0x0396c473;
+__crc_qmi_set_sndtimeo = 0xf06c2caa;
+__crc_qmi_handle_init = 0x8ca695cb;
+__crc_qmi_handle_release = 0xc0a7e014;
+__crc_qmi_send_request = 0x62e1a355;
+__crc_qmi_send_response = 0x92e66789;
+__crc_qmi_send_indication = 0x5d5d7490;

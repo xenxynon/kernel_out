@@ -1,0 +1,1 @@
+cmd_drivers/net/dsa/b53/built-in.a := rm -f drivers/net/dsa/b53/built-in.a.symversions; for i in ; do cat $$i.symversions >> drivers/net/dsa/b53/built-in.a.symversions; done; rm -f drivers/net/dsa/b53/built-in.a; llvm-ar cDPrST drivers/net/dsa/b53/built-in.a 

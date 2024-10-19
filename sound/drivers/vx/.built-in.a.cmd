@@ -1,0 +1,1 @@
+cmd_sound/drivers/vx/built-in.a := rm -f sound/drivers/vx/built-in.a.symversions; for i in ; do cat $$i.symversions >> sound/drivers/vx/built-in.a.symversions; done; rm -f sound/drivers/vx/built-in.a; llvm-ar cDPrST sound/drivers/vx/built-in.a 

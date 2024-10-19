@@ -1,0 +1,6 @@
+__crc_bpf_offload_dev_match = 0xe956851f;
+__crc_bpf_offload_dev_netdev_register = 0x3254fb84;
+__crc_bpf_offload_dev_netdev_unregister = 0x8a9cca87;
+__crc_bpf_offload_dev_create = 0xd37d5e44;
+__crc_bpf_offload_dev_destroy = 0x352ec68b;
+__crc_bpf_offload_dev_priv = 0x1f563160;

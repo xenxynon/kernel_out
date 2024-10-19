@@ -1,0 +1,1 @@
+cmd_drivers/misc/mic/built-in.a := rm -f drivers/misc/mic/built-in.a.symversions; for i in  ; do cat $$i.symversions >> drivers/misc/mic/built-in.a.symversions; done; rm -f drivers/misc/mic/built-in.a; llvm-ar cDPrST drivers/misc/mic/built-in.a drivers/misc/mic/bus/built-in.a

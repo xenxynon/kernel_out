@@ -1,0 +1,3 @@
+__crc_make_bad_inode = 0x259e10a7;
+__crc_is_bad_inode = 0xf5a264fe;
+__crc_iget_failed = 0x38036b78;

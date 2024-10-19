@@ -1,0 +1,1 @@
+cmd_drivers/reset/hisilicon/built-in.a := rm -f drivers/reset/hisilicon/built-in.a.symversions; for i in ; do cat $$i.symversions >> drivers/reset/hisilicon/built-in.a.symversions; done; rm -f drivers/reset/hisilicon/built-in.a; llvm-ar cDPrST drivers/reset/hisilicon/built-in.a 

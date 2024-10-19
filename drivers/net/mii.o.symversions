@@ -1,0 +1,10 @@
+__crc_mii_link_ok = 0xeb4d7824;
+__crc_mii_nway_restart = 0x50399af1;
+__crc_mii_ethtool_gset = 0x4e44615c;
+__crc_mii_ethtool_get_link_ksettings = 0x87e1ea4e;
+__crc_mii_ethtool_sset = 0x357008bf;
+__crc_mii_ethtool_set_link_ksettings = 0x05f5e5e9;
+__crc_mii_check_link = 0x6a2b56ab;
+__crc_mii_check_media = 0xb5efd619;
+__crc_mii_check_gmii_support = 0x17d97d0b;
+__crc_generic_mii_ioctl = 0x4eb123dc;

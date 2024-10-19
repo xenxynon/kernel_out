@@ -1,0 +1,29 @@
+!<thin>
+//                                              270       `
+core/rmnet_config.o/
+core/rmnet_handlers.o/
+core/rmnet_descriptor.o/
+core/rmnet_genl.o/
+core/rmnet_map_command.o/
+core/rmnet_map_data.o/
+core/rmnet_vnd.o/
+core/qmi_rmnet.o/
+core/wda_qmi.o/
+core/dfc_qmi.o/
+core/dfc_qmap.o/
+core/rmnet_ctl_client.o/
+core/rmnet_ctl_ipa.o/
+
+/0              0           0     0     644     34428     `
+/21             0           0     0     644     64332     `
+/44             0           0     0     644     51544     `
+/69             0           0     0     644     9800      `
+/88             0           0     0     644     14988     `
+/114            0           0     0     644     32168     `
+/137            0           0     0     644     23452     `
+/155            0           0     0     644     51128     `
+/173            0           0     0     644     27736     `
+/189            0           0     0     644     72992     `
+/205            0           0     0     644     22304     `
+/222            0           0     0     644     11116     `
+/247            0           0     0     644     6928      `

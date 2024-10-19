@@ -1,0 +1,39 @@
+!<thin>
+//                                              252       `
+tty_io.o/
+n_tty.o/
+tty_ioctl.o/
+tty_ldisc.o/
+tty_buffer.o/
+tty_port.o/
+tty_mutex.o/
+tty_ldsem.o/
+tty_baudrate.o/
+tty_jobctrl.o/
+n_null.o/
+pty.o/
+tty_audit.o/
+sysrq.o/
+hvc/hvc_haven.o/
+hvc/hvc_console.o/
+serial/serial_core.o/
+serial/msm_geni_serial.o/
+
+/0              0           0     0     644     193060    `
+/10             0           0     0     644     81696     `
+/19             0           0     0     644     78372     `
+/32             0           0     0     644     31468     `
+/45             0           0     0     644     29352     `
+/59             0           0     0     644     40012     `
+/71             0           0     0     644     9916      `
+/84             0           0     0     644     18352     `
+/97             0           0     0     644     7264      `
+/113            0           0     0     644     33796     `
+/128            0           0     0     644     5456      `
+/138            0           0     0     644     39160     `
+/145            0           0     0     644     13204     `
+/158            0           0     0     644     48292     `
+/167            0           0     0     644     11288     `
+/184            0           0     0     644     29116     `
+/203            0           0     0     644     129488    `
+/225            0           0     0     644     80920     `

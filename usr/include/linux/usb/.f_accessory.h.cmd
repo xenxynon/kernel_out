@@ -1,0 +1,1 @@
+cmd_usr/include/linux/usb/f_accessory.h := sh /home/rayan/st/kernel/msm-5.4/scripts/headers_install.sh /home/rayan/st/kernel/msm-5.4/include/uapi/linux/usb/f_accessory.h usr/include/linux/usb/f_accessory.h

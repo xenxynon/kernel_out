@@ -1,0 +1,1 @@
+cmd_sound/pci/ice1712/built-in.a := rm -f sound/pci/ice1712/built-in.a.symversions; for i in ; do cat $$i.symversions >> sound/pci/ice1712/built-in.a.symversions; done; rm -f sound/pci/ice1712/built-in.a; llvm-ar cDPrST sound/pci/ice1712/built-in.a 

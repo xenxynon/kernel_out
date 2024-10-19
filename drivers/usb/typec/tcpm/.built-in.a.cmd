@@ -1,0 +1,1 @@
+cmd_drivers/usb/typec/tcpm/built-in.a := rm -f drivers/usb/typec/tcpm/built-in.a.symversions; for i in  drivers/usb/typec/tcpm/tcpm.o; do cat $$i.symversions >> drivers/usb/typec/tcpm/built-in.a.symversions; done; rm -f drivers/usb/typec/tcpm/built-in.a; llvm-ar cDPrST drivers/usb/typec/tcpm/built-in.a drivers/usb/typec/tcpm/tcpm.o

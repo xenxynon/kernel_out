@@ -1,0 +1,8 @@
+__crc_policy_has_boost_freq = 0xdec58457;
+__crc_cpufreq_frequency_table_verify = 0xec774acb;
+__crc_cpufreq_generic_frequency_table_verify = 0xc289e46d;
+__crc_cpufreq_table_index_unsorted = 0xc5580dea;
+__crc_cpufreq_frequency_table_get_index = 0x9e6e9db5;
+__crc_cpufreq_freq_attr_scaling_available_freqs = 0x72cca796;
+__crc_cpufreq_freq_attr_scaling_boost_freqs = 0x33a3a11c;
+__crc_cpufreq_generic_attr = 0xada3a32c;

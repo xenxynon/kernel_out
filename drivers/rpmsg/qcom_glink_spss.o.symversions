@@ -1,0 +1,2 @@
+__crc_qcom_glink_spss_register = 0xb658f831;
+__crc_qcom_glink_spss_unregister = 0xf84e73d0;

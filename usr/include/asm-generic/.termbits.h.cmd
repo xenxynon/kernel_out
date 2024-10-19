@@ -1,0 +1,1 @@
+cmd_usr/include/asm-generic/termbits.h := sh /home/rayan/st/kernel/msm-5.4/scripts/headers_install.sh /home/rayan/st/kernel/msm-5.4/include/uapi/asm-generic/termbits.h usr/include/asm-generic/termbits.h

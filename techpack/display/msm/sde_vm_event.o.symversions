@@ -1,0 +1,2 @@
+__crc_msm_register_vm_event = 0x0d856d31;
+__crc_msm_unregister_vm_event = 0x5de4fb68;

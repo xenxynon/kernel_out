@@ -1,0 +1,14 @@
+__crc_inet_put_port = 0xf1248fe1;
+__crc___inet_inherit_port = 0xe0f5a698;
+__crc___inet_lookup_listener = 0x429f770e;
+__crc_sock_gen_put = 0x975d2d5c;
+__crc_sock_edemux = 0x8a301e3a;
+__crc___inet_lookup_established = 0xd6b97d64;
+__crc_inet_ehash_nolisten = 0xf716c75d;
+__crc___inet_hash = 0xa3c52956;
+__crc_inet_hash = 0xb8556ac9;
+__crc_inet_unhash = 0xd6917a70;
+__crc_inet_hash_connect = 0xd3b93a79;
+__crc_inet_hashinfo_init = 0x7ec814de;
+__crc_inet_hashinfo2_init_mod = 0xe338c5ac;
+__crc_inet_ehash_locks_alloc = 0x60069ee1;

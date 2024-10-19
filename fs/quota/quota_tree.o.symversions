@@ -1,0 +1,6 @@
+__crc_qtree_entry_unused = 0xc8f3e782;
+__crc_qtree_write_dquot = 0xe3e415cd;
+__crc_qtree_delete_dquot = 0xc183e157;
+__crc_qtree_read_dquot = 0xc4de9e4a;
+__crc_qtree_release_dquot = 0xc0df4506;
+__crc_qtree_get_next_id = 0x0e35f830;

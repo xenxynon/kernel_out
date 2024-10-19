@@ -1,0 +1,1 @@
+cmd_sound/usb/6fire/built-in.a := rm -f sound/usb/6fire/built-in.a.symversions; for i in ; do cat $$i.symversions >> sound/usb/6fire/built-in.a.symversions; done; rm -f sound/usb/6fire/built-in.a; llvm-ar cDPrST sound/usb/6fire/built-in.a 

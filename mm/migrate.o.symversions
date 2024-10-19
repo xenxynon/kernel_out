@@ -1,0 +1,5 @@
+__crc_migrate_page_move_mapping = 0xc57c7492;
+__crc_migrate_page_states = 0x4ad8d59e;
+__crc_migrate_page_copy = 0x003851e7;
+__crc_migrate_page = 0x9a1cc722;
+__crc_buffer_migrate_page = 0x72d0b6bf;

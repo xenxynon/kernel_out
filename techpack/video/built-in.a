@@ -1,0 +1,41 @@
+!<thin>
+//                                              514       `
+msm/vidc/msm_v4l2_vidc.o/
+msm/vidc/msm_vidc_platform.o/
+msm/vidc/msm_vidc_common.o/
+msm/vidc/msm_vidc.o/
+msm/vidc/msm_vdec.o/
+msm/vidc/msm_venc.o/
+msm/vidc/msm_smem.o/
+msm/vidc/msm_vidc_debug.o/
+msm/vidc/msm_vidc_res_parse.o/
+msm/vidc/hfi_common.o/
+msm/vidc/hfi_ar50_lt.o/
+msm/vidc/hfi_iris2.o/
+msm/vidc/hfi_response_handler.o/
+msm/vidc/hfi_packetization.o/
+msm/vidc/vidc_hfi.o/
+msm/vidc/msm_vidc_clocks.o/
+msm/vidc/msm_vidc_bus_ar50lite.o/
+msm/vidc/msm_vidc_bus_iris2.o/
+msm/vidc/msm_vidc_buffer_calculations.o/
+
+/0              0           0     0     644     66092     `
+/26             0           0     0     644     27412     `
+/56             0           0     0     644     669432    `
+/84             0           0     0     644     177100    `
+/105            0           0     0     644     95724     `
+/126            0           0     0     644     350280    `
+/147            0           0     0     644     68444     `
+/168            0           0     0     644     74904     `
+/195            0           0     0     644     122368    `
+/226            0           0     0     644     367884    `
+/249            0           0     0     644     22176     `
+/273            0           0     0     644     41436     `
+/295            0           0     0     644     103372    `
+/328            0           0     0     644     44080     `
+/358            0           0     0     644     13236     `
+/379            0           0     0     644     97764     `
+/407            0           0     0     644     14628     `
+/441            0           0     0     644     21640     `
+/472            0           0     0     644     46152     `

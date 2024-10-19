@@ -1,0 +1,5 @@
+__crc_fwnode_connection_find_match = 0xd26a60e5;
+__crc_device_connection_find_match = 0x8ef33c9b;
+__crc_device_connection_find = 0x38b446be;
+__crc_device_connection_add = 0x0f74a67c;
+__crc_device_connection_remove = 0x1c706eb7;

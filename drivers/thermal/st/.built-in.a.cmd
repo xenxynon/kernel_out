@@ -1,0 +1,1 @@
+cmd_drivers/thermal/st/built-in.a := rm -f drivers/thermal/st/built-in.a.symversions; for i in ; do cat $$i.symversions >> drivers/thermal/st/built-in.a.symversions; done; rm -f drivers/thermal/st/built-in.a; llvm-ar cDPrST drivers/thermal/st/built-in.a 

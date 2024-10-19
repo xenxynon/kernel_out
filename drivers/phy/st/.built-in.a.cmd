@@ -1,0 +1,1 @@
+cmd_drivers/phy/st/built-in.a := rm -f drivers/phy/st/built-in.a.symversions; for i in ; do cat $$i.symversions >> drivers/phy/st/built-in.a.symversions; done; rm -f drivers/phy/st/built-in.a; llvm-ar cDPrST drivers/phy/st/built-in.a 

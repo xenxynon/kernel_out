@@ -1,0 +1,4 @@
+__crc_ipt_alloc_initial_table = 0xf9ba8fda;
+__crc_ipt_register_table = 0x8ed9ee25;
+__crc_ipt_unregister_table = 0xa13df855;
+__crc_ipt_do_table = 0xc291031a;

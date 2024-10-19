@@ -1,0 +1,1 @@
+cmd_drivers/staging/iio/resolver/built-in.a := rm -f drivers/staging/iio/resolver/built-in.a.symversions; for i in ; do cat $$i.symversions >> drivers/staging/iio/resolver/built-in.a.symversions; done; rm -f drivers/staging/iio/resolver/built-in.a; llvm-ar cDPrST drivers/staging/iio/resolver/built-in.a 

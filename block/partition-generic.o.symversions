@@ -1,0 +1,4 @@
+__crc_bdevname = 0x697b500e;
+__crc_bio_devname = 0x7e01d5b6;
+__crc___bdevname = 0xe569f4be;
+__crc_read_dev_sector = 0xa88d177f;

@@ -1,0 +1,5 @@
+__crc___cookie_v4_init_sequence = 0xe7eee3d5;
+__crc___cookie_v4_check = 0xdaf5c16e;
+__crc_tcp_get_cookie_sock = 0x252d43af;
+__crc_cookie_timestamp_decode = 0x80502b80;
+__crc_cookie_ecn_ok = 0x90ca3bb0;

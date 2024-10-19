@@ -1,0 +1,17 @@
+__crc_default_qdisc_ops = 0xa35d449c;
+__crc_dev_trans_start = 0xd17c1cd5;
+__crc___netdev_watchdog_up = 0x0dca5ca2;
+__crc_netif_carrier_on = 0xa8908d8c;
+__crc_netif_carrier_off = 0xdaaa053a;
+__crc_noop_qdisc = 0x99a766aa;
+__crc_pfifo_fast_ops = 0xac57789b;
+__crc_qdisc_create_dflt = 0xad31ec6a;
+__crc_qdisc_reset = 0x01b97f74;
+__crc_qdisc_put = 0xaa95a963;
+__crc_qdisc_put_unlocked = 0x6b2f08bb;
+__crc_dev_graft_qdisc = 0x619db066;
+__crc_dev_activate = 0xca99b386;
+__crc_dev_deactivate = 0xd6eb1854;
+__crc_psched_ratecfg_precompute = 0xb6e36ce2;
+__crc_mini_qdisc_pair_swap = 0x5336ec01;
+__crc_mini_qdisc_pair_init = 0x1189fe9c;

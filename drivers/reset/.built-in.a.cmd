@@ -1,0 +1,1 @@
+cmd_drivers/reset/built-in.a := rm -f drivers/reset/built-in.a.symversions; for i in  drivers/reset/core.o    ; do cat $$i.symversions >> drivers/reset/built-in.a.symversions; done; rm -f drivers/reset/built-in.a; llvm-ar cDPrST drivers/reset/built-in.a drivers/reset/core.o drivers/reset/hisilicon/built-in.a drivers/reset/reset-scmi.o

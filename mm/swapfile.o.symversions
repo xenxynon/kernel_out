@@ -1,0 +1,4 @@
+__crc_nr_swap_pages = 0xa0d3456d;
+__crc_add_swap_extent = 0x32d647a2;
+__crc___page_file_mapping = 0x39c08791;
+__crc___page_file_index = 0x82104118;

@@ -1,0 +1,6 @@
+__crc_clk_branch_ops = 0xc5056a9e;
+__crc_clk_branch2_ops = 0x70ff2769;
+__crc_clk_branch2_aon_ops = 0xd157a608;
+__crc_clk_branch2_force_off_ops = 0x1c4b7abb;
+__crc_clk_branch2_hw_ctl_ops = 0xe51ad86e;
+__crc_clk_branch_simple_ops = 0xea509cf6;

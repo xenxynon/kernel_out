@@ -1,0 +1,1 @@
+cmd_techpack/datarmnet/built-in.a := rm -f techpack/datarmnet/built-in.a.symversions; for i in  techpack/datarmnet/core/built-in.a; do cat $$i.symversions >> techpack/datarmnet/built-in.a.symversions; done; rm -f techpack/datarmnet/built-in.a; llvm-ar cDPrST techpack/datarmnet/built-in.a techpack/datarmnet/core/built-in.a

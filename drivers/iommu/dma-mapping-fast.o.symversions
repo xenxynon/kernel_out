@@ -1,0 +1,2 @@
+__crc_fast_smmu_put_dma_cookie = 0xbd49f767;
+__crc_fast_smmu_init_mapping = 0x5f32037a;

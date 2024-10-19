@@ -1,0 +1,4 @@
+__crc_probe_kernel_read = 0x2e1da9fb;
+__crc_probe_user_read = 0x13b65f27;
+__crc_probe_kernel_write = 0x6aaa02eb;
+__crc_probe_user_write = 0x65f131b6;

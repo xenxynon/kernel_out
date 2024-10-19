@@ -1,0 +1,14 @@
+__crc_of_icc_xlate_onecell = 0x21500105;
+__crc_of_icc_get = 0x1bc17e26;
+__crc_icc_set_tag = 0xf75b20c7;
+__crc_icc_set_bw = 0x5740f3bd;
+__crc_icc_get = 0x644ccd70;
+__crc_icc_put = 0xa921ac42;
+__crc_icc_node_create = 0x1709d7f2;
+__crc_icc_node_destroy = 0xc58a3ee6;
+__crc_icc_link_create = 0xc0b485de;
+__crc_icc_link_destroy = 0x5479bd54;
+__crc_icc_node_add = 0x8a251cbc;
+__crc_icc_node_del = 0x3b13cfc2;
+__crc_icc_provider_add = 0x5068adcf;
+__crc_icc_provider_del = 0xc13144b5;

@@ -1,0 +1,12 @@
+__crc_pil_do_ramdump = 0xa9d79529;
+__crc_pil_assign_mem_to_subsys = 0x825e5308;
+__crc_pil_assign_mem_to_linux = 0xfe8efa59;
+__crc_pil_assign_mem_to_subsys_and_linux = 0xdf4a0c16;
+__crc_pil_reclaim_mem = 0x49691727;
+__crc_pil_get_entry_addr = 0x0a784660;
+__crc_pil_boot = 0xaa4ec77a;
+__crc_pil_shutdown = 0x42d94494;
+__crc_pil_free_memory = 0x7cb187d4;
+__crc_pil_is_timeout_disabled = 0x563041fb;
+__crc_pil_desc_init = 0x56e8d127;
+__crc_pil_desc_release = 0x2c7c3a58;

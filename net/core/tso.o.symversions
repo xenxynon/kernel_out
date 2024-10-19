@@ -1,0 +1,4 @@
+__crc_tso_count_descs = 0x6cfe5dc6;
+__crc_tso_build_hdr = 0x532aa9b7;
+__crc_tso_build_data = 0x7d44c07b;
+__crc_tso_start = 0x9f2e33ab;

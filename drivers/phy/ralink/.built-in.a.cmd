@@ -1,0 +1,1 @@
+cmd_drivers/phy/ralink/built-in.a := rm -f drivers/phy/ralink/built-in.a.symversions; for i in ; do cat $$i.symversions >> drivers/phy/ralink/built-in.a.symversions; done; rm -f drivers/phy/ralink/built-in.a; llvm-ar cDPrST drivers/phy/ralink/built-in.a 

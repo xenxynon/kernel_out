@@ -1,0 +1,8 @@
+__crc_of_pci_find_child_device = 0xb77c65ad;
+__crc_of_pci_get_devfn = 0xecfcf40f;
+__crc_of_pci_parse_bus_range = 0xf01a15ca;
+__crc_of_get_pci_domain_nr = 0x8ad194d0;
+__crc_of_pci_check_probe_only = 0x759139cb;
+__crc_devm_of_pci_get_host_bridge_resources = 0x07c90b2f;
+__crc_of_irq_parse_and_map_pci = 0x2cea0f70;
+__crc_of_pci_get_max_link_speed = 0x1680dbd7;

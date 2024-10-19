@@ -1,0 +1,11 @@
+__crc_ppp_register_net_channel = 0xf80ef9e5;
+__crc_ppp_register_channel = 0xa578bbe7;
+__crc_ppp_unregister_channel = 0x9aa44539;
+__crc_ppp_channel_index = 0x08cecb70;
+__crc_ppp_unit_number = 0xa443f809;
+__crc_ppp_dev_name = 0xa000bca9;
+__crc_ppp_input = 0xbfc8df31;
+__crc_ppp_input_error = 0x9b83edd5;
+__crc_ppp_output_wakeup = 0x783b514a;
+__crc_ppp_register_compressor = 0xdebe44ce;
+__crc_ppp_unregister_compressor = 0x98fecc0a;

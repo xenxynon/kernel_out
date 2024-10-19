@@ -1,0 +1,8 @@
+__crc_tcp_timewait_state_process = 0xf165c3d7;
+__crc_tcp_time_wait = 0x1327d092;
+__crc_tcp_twsk_destructor = 0x353110d4;
+__crc_tcp_openreq_init_rwin = 0xc22a431e;
+__crc_tcp_ca_openreq_child = 0xba400203;
+__crc_tcp_create_openreq_child = 0xc4eed90b;
+__crc_tcp_check_req = 0xe4006ebd;
+__crc_tcp_child_process = 0x871102d4;

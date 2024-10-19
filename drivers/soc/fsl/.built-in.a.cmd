@@ -1,0 +1,1 @@
+cmd_drivers/soc/fsl/built-in.a := rm -f drivers/soc/fsl/built-in.a.symversions; for i in ; do cat $$i.symversions >> drivers/soc/fsl/built-in.a.symversions; done; rm -f drivers/soc/fsl/built-in.a; llvm-ar cDPrST drivers/soc/fsl/built-in.a 

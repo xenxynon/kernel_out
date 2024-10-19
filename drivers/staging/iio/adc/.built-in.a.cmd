@@ -1,0 +1,1 @@
+cmd_drivers/staging/iio/adc/built-in.a := rm -f drivers/staging/iio/adc/built-in.a.symversions; for i in ; do cat $$i.symversions >> drivers/staging/iio/adc/built-in.a.symversions; done; rm -f drivers/staging/iio/adc/built-in.a; llvm-ar cDPrST drivers/staging/iio/adc/built-in.a 

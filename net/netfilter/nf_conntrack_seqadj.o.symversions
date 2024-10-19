@@ -1,0 +1,5 @@
+__crc_nf_ct_seqadj_init = 0xcb2584b1;
+__crc_nf_ct_seqadj_set = 0xf1774133;
+__crc_nf_ct_tcp_seqadj_set = 0xabc87b16;
+__crc_nf_ct_seq_adjust = 0x07883c37;
+__crc_nf_ct_seq_offset = 0x661151c9;

@@ -1,0 +1,4 @@
+__crc_msm_dma_map_sg_attrs = 0x299d08ef;
+__crc_msm_dma_unmap_sg_attrs = 0x4e2fc3eb;
+__crc_msm_dma_unmap_all_for_dev = 0x3cff2d17;
+__crc_msm_dma_buf_freed = 0x289dd773;

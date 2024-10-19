@@ -1,0 +1,2 @@
+__crc_fat_getattr = 0xee651e50;
+__crc_fat_setattr = 0x2dc262a1;

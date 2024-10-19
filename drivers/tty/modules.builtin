@@ -1,0 +1,3 @@
+drivers/tty/hvc/hvc_haven.ko
+drivers/tty/serial/serial_core.ko
+drivers/tty/serial/msm_geni_serial.ko

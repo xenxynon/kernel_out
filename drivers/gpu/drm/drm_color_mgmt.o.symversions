@@ -1,0 +1,5 @@
+__crc_drm_color_lut_extract = 0xede2149c;
+__crc_drm_crtc_enable_color_mgmt = 0x3230a509;
+__crc_drm_mode_crtc_set_gamma_size = 0x8fe45eec;
+__crc_drm_plane_create_color_properties = 0xde8333d0;
+__crc_drm_color_lut_check = 0xedceeae2;

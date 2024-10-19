@@ -1,0 +1,12 @@
+__crc_rmnet_get_frag_descriptor = 0xd62a90e8;
+__crc_rmnet_recycle_frag_descriptor = 0xe7c7b993;
+__crc_rmnet_frag_pull = 0x8f9acce8;
+__crc_rmnet_frag_trim = 0xc16c6707;
+__crc_rmnet_frag_header_ptr = 0x7e31707a;
+__crc_rmnet_frag_descriptor_add_frag = 0xd43069c0;
+__crc_rmnet_frag_descriptor_add_frags_from = 0x4455075d;
+__crc_rmnet_frag_ipv6_skip_exthdr = 0xd4ead6a6;
+__crc_rmnet_frag_flow_command = 0x571effc0;
+__crc_rmnet_frag_deliver = 0xa4b5d345;
+__crc_rmnet_perf_desc_entry = 0x9b823d04;
+__crc_rmnet_perf_chain_end = 0x4b87f955;

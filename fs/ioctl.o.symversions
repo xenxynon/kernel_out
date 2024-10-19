@@ -1,0 +1,6 @@
+__crc_vfs_ioctl = 0xe0fb45a0;
+__crc_fiemap_fill_next_extent = 0x605790dc;
+__crc_fiemap_check_flags = 0x5e78d1ad;
+__crc___generic_block_fiemap = 0xa6e632d1;
+__crc_generic_block_fiemap = 0x9155cf51;
+__crc_compat_ptr_ioctl = 0xe25d7570;

@@ -1,0 +1,13 @@
+__crc_backlight_device_set_brightness = 0x76bf6b90;
+__crc_backlight_force_update = 0x0c0eaa53;
+__crc_backlight_device_register = 0x4f3f095f;
+__crc_backlight_device_get_by_type = 0x9e9c11f6;
+__crc_backlight_device_unregister = 0x2569e8c3;
+__crc_backlight_register_notifier = 0xdc512134;
+__crc_backlight_unregister_notifier = 0x9939eba0;
+__crc_devm_backlight_device_register = 0x5c2e63dc;
+__crc_devm_backlight_device_unregister = 0x490f4790;
+__crc_of_find_backlight_by_node = 0xa037d7a8;
+__crc_of_find_backlight = 0x5b13811d;
+__crc_devm_of_find_backlight = 0xcd52cf22;
+__crc_wled_flash_led_prepare = 0x8990dd35;

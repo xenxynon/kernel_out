@@ -1,0 +1,14 @@
+__crc_nf_ct_expect_hsize = 0xc18ac88d;
+__crc_nf_ct_expect_hash = 0xec8beba6;
+__crc_nf_ct_unlink_expect_report = 0x48918939;
+__crc_nf_ct_remove_expect = 0x4a6456a7;
+__crc___nf_ct_expect_find = 0x72c1b5f3;
+__crc_nf_ct_expect_find_get = 0x21c80352;
+__crc_nf_ct_remove_expectations = 0xdf57f2f9;
+__crc_nf_ct_unexpect_related = 0x8e49d2e0;
+__crc_nf_ct_expect_alloc = 0x5438c2a2;
+__crc_nf_ct_expect_init = 0x1af1c31d;
+__crc_nf_ct_expect_put = 0xd430adc9;
+__crc_nf_ct_expect_related_report = 0xc34c4635;
+__crc_nf_ct_expect_iterate_destroy = 0x5dbfedec;
+__crc_nf_ct_expect_iterate_net = 0x3286c512;

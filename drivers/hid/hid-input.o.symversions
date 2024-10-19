@@ -1,0 +1,7 @@
+__crc_hidinput_calc_abs_res = 0xecf6ccb5;
+__crc_hidinput_report_event = 0xe8175bfd;
+__crc_hidinput_find_field = 0xc33e723f;
+__crc_hidinput_get_led_field = 0x7006ba69;
+__crc_hidinput_count_leds = 0x95eed62b;
+__crc_hidinput_connect = 0xe178e6aa;
+__crc_hidinput_disconnect = 0xdf4cd7c2;

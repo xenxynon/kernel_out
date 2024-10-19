@@ -1,0 +1,7 @@
+__crc_touchscreen_parse_properties = 0xd4aaa28c;
+__crc_touchscreen_set_mt_pos = 0xcf9b558d;
+__crc_touchscreen_report_pos = 0x7e424860;
+__crc_synaptics_rmi4_bus_init = 0x1d269f60;
+__crc_synaptics_rmi4_bus_exit = 0x1dbf5e30;
+__crc_synaptics_rmi4_new_function = 0xdbc0f7f6;
+__crc_synaptics_fw_updater = 0x8313d594;

@@ -1,0 +1,24 @@
+!<thin>
+//                                              162       `
+msm_ext_display.o/
+ipa_fmwk/ipa_fmwk.o/
+msm-geni-se.o/
+usb_bam.o/
+sps/bam.o/
+sps/sps_bam.o/
+sps/sps.o/
+sps/sps_dma.o/
+sps/sps_map.o/
+sps/sps_mem.o/
+sps/sps_rm.o/
+/0              0           0     0     644     19820     `
+/19             0           0     0     644     186788    `
+/40             0           0     0     644     61864     `
+/55             0           0     0     644     61892     `
+/66             0           0     0     644     77076     `
+/77             0           0     0     644     31472     `
+/92             0           0     0     644     58128     `
+/103            0           0     0     644     2124      `
+/118            0           0     0     644     5260      `
+/133            0           0     0     644     6332      `
+/148            0           0     0     644     14280     `

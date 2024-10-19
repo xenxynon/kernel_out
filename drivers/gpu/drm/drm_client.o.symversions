@@ -1,0 +1,8 @@
+__crc_drm_client_init = 0x3c0c9110;
+__crc_drm_client_register = 0x686b34c9;
+__crc_drm_client_release = 0xb7abf24f;
+__crc_drm_client_dev_hotplug = 0xbedad318;
+__crc_drm_client_buffer_vmap = 0x07b77365;
+__crc_drm_client_buffer_vunmap = 0x2fef8c07;
+__crc_drm_client_framebuffer_create = 0x45998f2e;
+__crc_drm_client_framebuffer_delete = 0xf54839da;

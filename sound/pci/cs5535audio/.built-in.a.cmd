@@ -1,0 +1,1 @@
+cmd_sound/pci/cs5535audio/built-in.a := rm -f sound/pci/cs5535audio/built-in.a.symversions; for i in ; do cat $$i.symversions >> sound/pci/cs5535audio/built-in.a.symversions; done; rm -f sound/pci/cs5535audio/built-in.a; llvm-ar cDPrST sound/pci/cs5535audio/built-in.a 

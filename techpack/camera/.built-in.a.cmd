@@ -1,0 +1,1 @@
+cmd_techpack/camera/built-in.a := rm -f techpack/camera/built-in.a.symversions; for i in  techpack/camera/drivers/built-in.a; do cat $$i.symversions >> techpack/camera/built-in.a.symversions; done; rm -f techpack/camera/built-in.a; llvm-ar cDPrST techpack/camera/built-in.a techpack/camera/drivers/built-in.a

@@ -1,0 +1,1 @@
+cmd_drivers/bus/mhi/devices/built-in.a := rm -f drivers/bus/mhi/devices/built-in.a.symversions; for i in  ; do cat $$i.symversions >> drivers/bus/mhi/devices/built-in.a.symversions; done; rm -f drivers/bus/mhi/devices/built-in.a; llvm-ar cDPrST drivers/bus/mhi/devices/built-in.a drivers/bus/mhi/devices/mhi_uci.o

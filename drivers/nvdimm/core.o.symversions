@@ -1,0 +1,10 @@
+__crc_nvdimm_bus_lock = 0x05e5d0a3;
+__crc_nvdimm_bus_unlock = 0x969f6eff;
+__crc_is_nvdimm_bus_locked = 0x59877f8c;
+__crc_devm_nvdimm_memremap = 0x95e63634;
+__crc_nd_fletcher64 = 0xaf076aec;
+__crc_to_nd_desc = 0x9814ea3e;
+__crc_to_nvdimm_bus_dev = 0x22598950;
+__crc_nvdimm_bus_attribute_group = 0x1babc7e8;
+__crc_nvdimm_bus_add_badrange = 0x7276d898;
+__crc_nd_integrity_init = 0x7c4a1071;

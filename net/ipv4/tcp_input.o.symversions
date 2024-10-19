@@ -1,0 +1,9 @@
+__crc_tcp_initialize_rcv_mss = 0x1a80441b;
+__crc_tcp_enter_cwr = 0xcc30c29f;
+__crc_tcp_simple_retransmit = 0x08031485;
+__crc_tcp_parse_options = 0x968b78ef;
+__crc_tcp_rcv_established = 0xfc08d520;
+__crc_tcp_rcv_state_process = 0x2d6158d0;
+__crc_inet_reqsk_alloc = 0x068ac0c8;
+__crc_tcp_get_syncookie_mss = 0x0346d95b;
+__crc_tcp_conn_request = 0xc51561c6;

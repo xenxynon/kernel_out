@@ -1,0 +1,6 @@
+__crc_of_dma_controller_register = 0x98252e7d;
+__crc_of_dma_controller_free = 0x61d32922;
+__crc_of_dma_router_register = 0x5b397af1;
+__crc_of_dma_request_slave_channel = 0xebfe37a4;
+__crc_of_dma_simple_xlate = 0xc7f5d23d;
+__crc_of_dma_xlate_by_chan_id = 0x280d5c68;

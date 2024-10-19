@@ -1,0 +1,2 @@
+drivers/nothing_stability/nothing_bootloader_log.ko
+drivers/nothing_stability/nothing_writeback_kmsg.ko

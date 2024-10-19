@@ -1,0 +1,4 @@
+__crc_nf_ct_ext_destroy = 0x292b5f5a;
+__crc_nf_ct_ext_add = 0xd7c7109b;
+__crc_nf_ct_extend_register = 0x470de2cb;
+__crc_nf_ct_extend_unregister = 0xcc6dc37b;

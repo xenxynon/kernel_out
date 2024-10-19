@@ -1,0 +1,33 @@
+!<thin>
+//                                              296       `
+devfreq.o/
+devfreq-event.o/
+governor_simpleondemand.o/
+governor_performance.o/
+governor_powersave.o/
+governor_userspace.o/
+governor_passive.o/
+governor_cpufreq.o/
+bimc-bwmon.o/
+arm-memlat-mon.o/
+governor_bw_hwmon.o/
+governor_memlat.o/
+devfreq_icc.o/
+devfreq_simple_dev.o/
+devfreq_qcom_qoslat.o/
+
+/0              0           0     0     644     67084     `
+/11             0           0     0     644     23384     `
+/28             0           0     0     644     6724      `
+/55             0           0     0     644     6356      `
+/79             0           0     0     644     6332      `
+/101            0           0     0     644     8924      `
+/123            0           0     0     644     8400      `
+/143            0           0     0     644     22780     `
+/163            0           0     0     644     37260     `
+/177            0           0     0     644     28736     `
+/195            0           0     0     644     30268     `
+/216            0           0     0     644     19184     `
+/235            0           0     0     644     14824     `
+/250            0           0     0     644     10792     `
+/272            0           0     0     644     10260     `

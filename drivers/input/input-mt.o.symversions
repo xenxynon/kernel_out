@@ -1,0 +1,9 @@
+__crc_input_mt_init_slots = 0xb8a20116;
+__crc_input_mt_destroy_slots = 0xec9ffb43;
+__crc_input_mt_report_slot_state = 0x8feefa3f;
+__crc_input_mt_report_finger_count = 0xa70e56d8;
+__crc_input_mt_report_pointer_emulation = 0x5cb73da3;
+__crc_input_mt_drop_unused = 0x307f2798;
+__crc_input_mt_sync_frame = 0x5c09a04f;
+__crc_input_mt_assign_slots = 0xe4f9c9bb;
+__crc_input_mt_get_slot_by_key = 0x966ee640;

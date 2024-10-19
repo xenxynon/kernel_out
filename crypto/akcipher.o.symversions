@@ -1,0 +1,5 @@
+__crc_crypto_grab_akcipher = 0xcc9f43e5;
+__crc_crypto_alloc_akcipher = 0xb2df9d94;
+__crc_crypto_register_akcipher = 0xf7fa50e0;
+__crc_crypto_unregister_akcipher = 0xa426fea7;
+__crc_akcipher_register_instance = 0x65c15515;

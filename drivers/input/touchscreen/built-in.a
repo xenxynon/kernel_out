@@ -1,0 +1,71 @@
+!<thin>
+//                                              976       `
+of_touchscreen.o/
+atmel_mxt_ts.o/
+usbtouchscreen.o/
+st/fts.o/
+st/fts_gui.o/
+st/fts_driver_test.o/
+st/fts_aoi_event.o/
+st/fts_lib/ftsCompensation.o/
+st/fts_lib/ftsCrossCompile.o/
+st/fts_lib/ftsError.o/
+st/fts_lib/ftsFrame.o/
+st/fts_lib/ftsIO.o/
+st/fts_lib/ftsTest.o/
+st/fts_lib/ftsTime.o/
+st/fts_lib/ftsTool.o/
+st/fts_lib/ftsFlash.o/
+st/fts_lib/ftsGesture.o/
+focaltech_nothing/focaltech_core.o/
+focaltech_nothing/focaltech_ex_fun.o/
+focaltech_nothing/focaltech_ex_mode.o/
+focaltech_nothing/focaltech_gesture.o/
+focaltech_nothing/focaltech_esdcheck.o/
+focaltech_nothing/focaltech_point_report_check.o/
+focaltech_nothing/focaltech_flash.o/
+focaltech_nothing/focaltech_spi.o/
+synaptics_dsx/synaptics_dsx_i2c.o/
+synaptics_dsx/synaptics_dsx_core.o/
+synaptics_dsx/synaptics_dsx_rmi_dev.o/
+synaptics_dsx/synaptics_dsx_fw_update.o/
+synaptics_dsx/synaptics_dsx_test_reporting.o/
+nt36xxx/nt36xxx.o/
+nt36xxx/nt36xxx_fw_update.o/
+nt36xxx/nt36xxx_ext_proc.o/
+nt36xxx/nt36xxx_mp_ctrlram.o/
+
+/0              0           0     0     644     10456     `
+/18             0           0     0     644     59160     `
+/34             0           0     0     644     32004     `
+/52             0           0     0     644     108908    `
+/62             0           0     0     644     2132      `
+/76             0           0     0     644     27284     `
+/98             0           0     0     644     7544      `
+/118            0           0     0     644     25948     `
+/148            0           0     0     644     5428      `
+/178            0           0     0     644     10200     `
+/201            0           0     0     644     19028     `
+/224            0           0     0     644     14804     `
+/244            0           0     0     644     112728    `
+/266            0           0     0     644     4716      `
+/288            0           0     0     644     44348     `
+/310            0           0     0     644     27776     `
+/333            0           0     0     644     19928     `
+/358            0           0     0     644     43656     `
+/394            0           0     0     644     60212     `
+/432            0           0     0     644     10572     `
+/471            0           0     0     644     15852     `
+/510            0           0     0     644     11272     `
+/550            0           0     0     644     7448      `
+/600            0           0     0     644     145692    `
+/637            0           0     0     644     17180     `
+/672            0           0     0     644     20944     `
+/707            0           0     0     644     73852     `
+/743            0           0     0     644     45504     `
+/782            0           0     0     644     58084     `
+/823            0           0     0     644     64944     `
+/869            0           0     0     644     71064     `
+/888            0           0     0     644     25724     `
+/917            0           0     0     644     14176     `
+/945            0           0     0     644     65556     `

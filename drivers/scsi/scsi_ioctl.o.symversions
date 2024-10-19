@@ -1,0 +1,3 @@
+__crc_scsi_set_medium_removal = 0x3013ef26;
+__crc_scsi_ioctl = 0x1bdc93c7;
+__crc_scsi_ioctl_block_when_processing_errors = 0xa6af061d;

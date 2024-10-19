@@ -1,0 +1,11 @@
+__crc_devm_clk_get = 0x799c9cf0;
+__crc_devm_clk_get_prepared = 0x93a0be5c;
+__crc_devm_clk_get_enabled = 0x151b5447;
+__crc_devm_clk_get_optional = 0x4c2f0125;
+__crc_devm_clk_get_optional_prepared = 0x3c9fd829;
+__crc_devm_clk_get_optional_enabled = 0x20666dee;
+__crc_devm_clk_bulk_get = 0x22149cac;
+__crc_devm_clk_bulk_get_optional = 0x5d9fff92;
+__crc_devm_clk_bulk_get_all = 0x0f6e5bfe;
+__crc_devm_clk_put = 0xcbc9b660;
+__crc_devm_get_clk_from_child = 0x3220ca65;

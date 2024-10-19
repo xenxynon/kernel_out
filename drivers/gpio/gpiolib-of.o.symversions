@@ -1,0 +1,4 @@
+__crc_of_get_named_gpio_flags = 0x2a74439c;
+__crc_gpiod_get_from_of_node = 0xa25fefcb;
+__crc_of_mm_gpiochip_add_data = 0x36bce98b;
+__crc_of_mm_gpiochip_remove = 0x0dd2efba;

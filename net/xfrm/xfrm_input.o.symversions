@@ -1,0 +1,7 @@
+__crc_xfrm_input_register_afinfo = 0xf5a06dc7;
+__crc_xfrm_input_unregister_afinfo = 0x0102ceb8;
+__crc_secpath_set = 0xab1720e2;
+__crc_xfrm_parse_spi = 0xc622f8d2;
+__crc_xfrm_input = 0xe8e9f47b;
+__crc_xfrm_input_resume = 0x59a6a1a0;
+__crc_xfrm_trans_queue = 0xd0484255;

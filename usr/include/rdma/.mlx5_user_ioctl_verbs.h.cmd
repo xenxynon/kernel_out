@@ -1,0 +1,1 @@
+cmd_usr/include/rdma/mlx5_user_ioctl_verbs.h := sh /home/rayan/st/kernel/msm-5.4/scripts/headers_install.sh /home/rayan/st/kernel/msm-5.4/include/uapi/rdma/mlx5_user_ioctl_verbs.h usr/include/rdma/mlx5_user_ioctl_verbs.h

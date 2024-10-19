@@ -1,0 +1,17 @@
+__crc_pingv6_ops = 0xf36e4627;
+__crc_ping_hash = 0xda752759;
+__crc_ping_get_port = 0x93e9533a;
+__crc_ping_unhash = 0xa9b169f9;
+__crc_ping_init_sock = 0xf883fe2b;
+__crc_ping_close = 0x8feb8dda;
+__crc_ping_bind = 0xb2a75fbb;
+__crc_ping_err = 0x260f82bd;
+__crc_ping_getfrag = 0x6ab29116;
+__crc_ping_common_sendmsg = 0xa8fd4a43;
+__crc_ping_recvmsg = 0x4fc26ba8;
+__crc_ping_queue_rcv_skb = 0xa44dfa95;
+__crc_ping_rcv = 0x79408e3f;
+__crc_ping_prot = 0x525f8c81;
+__crc_ping_seq_start = 0x8321ca43;
+__crc_ping_seq_next = 0xe12138dd;
+__crc_ping_seq_stop = 0x45ef5bf5;

@@ -1,0 +1,5 @@
+__crc_nf_reject_ip6_tcphdr_get = 0xab4236bb;
+__crc_nf_reject_ip6hdr_put = 0x950574b2;
+__crc_nf_reject_ip6_tcphdr_put = 0xb0bdf25b;
+__crc_nf_send_reset6 = 0x6046bc57;
+__crc_nf_send_unreach6 = 0xf5c5ca94;

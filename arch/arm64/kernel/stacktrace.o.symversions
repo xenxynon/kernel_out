@@ -1,0 +1,3 @@
+__crc_save_stack_trace_regs = 0x92d55b5c;
+__crc_save_stack_trace_tsk = 0xd10aa9da;
+__crc_save_stack_trace = 0x361e2bcc;

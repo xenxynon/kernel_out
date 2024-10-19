@@ -1,0 +1,4 @@
+__crc_snd_device_new = 0x243ff656;
+__crc_snd_device_disconnect = 0x5fe901e8;
+__crc_snd_device_free = 0x02bf9ca8;
+__crc_snd_device_register = 0xed1773d9;

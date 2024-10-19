@@ -1,0 +1,10 @@
+__crc_mmc_retune_pause = 0xa71d08a6;
+__crc_mmc_retune_unpause = 0x1857a673;
+__crc_mmc_retune_timer_stop = 0x5f43f81d;
+__crc_mmc_retune_release = 0x9a6982b8;
+__crc_mmc_of_parse = 0x48c961cb;
+__crc_mmc_of_parse_voltage = 0xb5ef571c;
+__crc_mmc_alloc_host = 0xa309c218;
+__crc_mmc_add_host = 0x2a812858;
+__crc_mmc_remove_host = 0xd050dfd9;
+__crc_mmc_free_host = 0xcb4ece90;

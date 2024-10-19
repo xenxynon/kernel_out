@@ -1,0 +1,1 @@
+cmd_drivers/phy/freescale/built-in.a := rm -f drivers/phy/freescale/built-in.a.symversions; for i in ; do cat $$i.symversions >> drivers/phy/freescale/built-in.a.symversions; done; rm -f drivers/phy/freescale/built-in.a; llvm-ar cDPrST drivers/phy/freescale/built-in.a 

@@ -1,0 +1,7 @@
+__crc_msm_audio_effects_is_effmodule_supp_in_top = 0x0d5c1e5d;
+__crc_msm_audio_effects_virtualizer_handler = 0xfb89ae43;
+__crc_msm_audio_effects_reverb_handler = 0xd21dff02;
+__crc_msm_audio_effects_bass_boost_handler = 0x9cea0741;
+__crc_msm_audio_effects_pbe_handler = 0x07ab354d;
+__crc_msm_audio_effects_popless_eq_handler = 0xbbb30434;
+__crc_msm_audio_effects_volume_handler_v2 = 0xc84453c1;

@@ -1,0 +1,7 @@
+__crc_v4l2_fh_init = 0xedfc7baf;
+__crc_v4l2_fh_add = 0x452f6575;
+__crc_v4l2_fh_open = 0xf325f6ba;
+__crc_v4l2_fh_del = 0xed4d7da3;
+__crc_v4l2_fh_exit = 0x9251d90f;
+__crc_v4l2_fh_release = 0x8a6fe53a;
+__crc_v4l2_fh_is_singular = 0xc99ab154;

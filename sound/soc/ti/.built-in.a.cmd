@@ -1,0 +1,1 @@
+cmd_sound/soc/ti/built-in.a := rm -f sound/soc/ti/built-in.a.symversions; for i in ; do cat $$i.symversions >> sound/soc/ti/built-in.a.symversions; done; rm -f sound/soc/ti/built-in.a; llvm-ar cDPrST sound/soc/ti/built-in.a 

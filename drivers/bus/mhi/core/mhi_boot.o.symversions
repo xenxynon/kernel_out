@@ -1,0 +1,4 @@
+__crc_mhi_dump_sfr = 0xaa6a77c7;
+__crc_mhi_scan_rddm_cookie = 0x3c8c98d7;
+__crc_mhi_download_rddm_img = 0xe83728ea;
+__crc_mhi_force_reset = 0xfd75b183;

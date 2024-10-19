@@ -1,0 +1,1 @@
+cmd_drivers/ras/built-in.a := rm -f drivers/ras/built-in.a.symversions; for i in  drivers/ras/ras.o; do cat $$i.symversions >> drivers/ras/built-in.a.symversions; done; rm -f drivers/ras/built-in.a; llvm-ar cDPrST drivers/ras/built-in.a drivers/ras/ras.o

@@ -1,0 +1,1 @@
+cmd_net/packet/built-in.a := rm -f net/packet/built-in.a.symversions; for i in  net/packet/af_packet.o; do cat $$i.symversions >> net/packet/built-in.a.symversions; done; rm -f net/packet/built-in.a; llvm-ar cDPrST net/packet/built-in.a net/packet/af_packet.o

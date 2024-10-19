@@ -1,0 +1,1 @@
+cmd_drivers/macintosh/built-in.a := rm -f drivers/macintosh/built-in.a.symversions; for i in ; do cat $$i.symversions >> drivers/macintosh/built-in.a.symversions; done; rm -f drivers/macintosh/built-in.a; llvm-ar cDPrST drivers/macintosh/built-in.a 

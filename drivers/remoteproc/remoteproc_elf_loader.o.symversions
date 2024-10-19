@@ -1,0 +1,5 @@
+__crc_rproc_elf_sanity_check = 0xf3555f0c;
+__crc_rproc_elf_get_boot_addr = 0xdd0fe29e;
+__crc_rproc_elf_load_segments = 0xd2ccd068;
+__crc_rproc_elf_load_rsc_table = 0x10d81027;
+__crc_rproc_elf_find_loaded_rsc_table = 0x0131c0ae;

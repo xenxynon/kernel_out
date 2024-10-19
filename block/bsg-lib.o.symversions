@@ -1,0 +1,5 @@
+__crc_bsg_job_put = 0x59870c7f;
+__crc_bsg_job_get = 0x94653dd4;
+__crc_bsg_job_done = 0xc02c75cb;
+__crc_bsg_remove_queue = 0x76883efa;
+__crc_bsg_setup_queue = 0xae9e9f5e;

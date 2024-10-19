@@ -1,0 +1,7 @@
+__crc_snd_soc_component_read = 0xf90e3bfa;
+__crc_snd_soc_component_read32 = 0x1461a1fd;
+__crc_snd_soc_component_write = 0x5f16eb81;
+__crc_snd_soc_component_update_bits = 0x228bad8e;
+__crc_snd_soc_component_update_bits_async = 0xab13f21d;
+__crc_snd_soc_component_async_complete = 0x82219d98;
+__crc_snd_soc_component_test_bits = 0x2bc84d1d;

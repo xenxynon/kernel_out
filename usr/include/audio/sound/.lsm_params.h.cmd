@@ -1,0 +1,1 @@
+cmd_usr/include/audio/sound/lsm_params.h := sh /home/rayan/st/kernel/msm-5.4/scripts/headers_install.sh /home/rayan/st/kernel/msm-5.4/techpack/audio/include/uapi/audio/sound/lsm_params.h usr/include/audio/sound/lsm_params.h

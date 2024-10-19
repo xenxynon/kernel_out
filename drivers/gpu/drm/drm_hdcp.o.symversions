@@ -1,0 +1,3 @@
+__crc_drm_hdcp_check_ksvs_revoked = 0x1fdad557;
+__crc_drm_connector_attach_content_protection_property = 0x1b5a7e52;
+__crc_drm_hdcp_update_content_protection = 0x79e78aa3;

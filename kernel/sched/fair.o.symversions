@@ -1,0 +1,8 @@
+__crc_sched_trace_cfs_rq_avg = 0xefdc8f3c;
+__crc_sched_trace_cfs_rq_path = 0x3eb03cd1;
+__crc_sched_trace_cfs_rq_cpu = 0xdac2bd8f;
+__crc_sched_trace_rq_avg_rt = 0x82e87327;
+__crc_sched_trace_rq_avg_dl = 0x1c45e86a;
+__crc_sched_trace_rq_avg_irq = 0x25320d22;
+__crc_sched_trace_rq_cpu = 0x181f4aaa;
+__crc_sched_trace_rd_span = 0x0b887986;

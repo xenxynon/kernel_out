@@ -1,0 +1,6 @@
+__crc_roccat_common2_receive = 0xc6d86b0c;
+__crc_roccat_common2_send = 0x643b3537;
+__crc_roccat_common2_send_with_status = 0xc295c174;
+__crc_roccat_common2_device_init_struct = 0x136e6c5a;
+__crc_roccat_common2_sysfs_read = 0x8cc96664;
+__crc_roccat_common2_sysfs_write = 0xaad11984;

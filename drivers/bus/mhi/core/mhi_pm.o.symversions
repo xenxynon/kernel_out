@@ -1,0 +1,13 @@
+__crc_mhi_async_power_up = 0x66bdd220;
+__crc_mhi_control_error = 0x958958de;
+__crc_mhi_power_down = 0x5afdfded;
+__crc_mhi_sync_power_up = 0xe10edf09;
+__crc_mhi_pm_suspend = 0xce77267b;
+__crc_mhi_pm_fast_suspend = 0xdec287fc;
+__crc_mhi_pm_resume = 0xe2d17699;
+__crc_mhi_pm_fast_resume = 0x1643ec08;
+__crc_mhi_device_get = 0x7fa24ba7;
+__crc_mhi_device_get_sync = 0x8c885a8b;
+__crc_mhi_device_get_sync_atomic = 0x063a543d;
+__crc_mhi_device_put = 0x1cb6e825;
+__crc_mhi_force_rddm_mode = 0x9c2a1312;

@@ -1,0 +1,8 @@
+__crc_pmem_should_map_pages = 0x7585b0d7;
+__crc_pmem_sector_size = 0xf3b587fa;
+__crc_nvdimm_namespace_disk_name = 0x59563d0f;
+__crc_nd_dev_to_uuid = 0x7812f435;
+__crc_nd_namespace_blk_validate = 0x759a30c8;
+__crc_nvdimm_namespace_capacity = 0xfc3f5ba4;
+__crc_nvdimm_namespace_locked = 0xd9d51c1d;
+__crc_nvdimm_namespace_common_probe = 0xc12314dd;

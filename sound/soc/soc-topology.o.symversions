@@ -1,0 +1,5 @@
+__crc_snd_soc_tplg_widget_bind_event = 0x568d6d4e;
+__crc_snd_soc_tplg_component_load = 0xed90c3fe;
+__crc_snd_soc_tplg_widget_remove = 0x3a3bbc29;
+__crc_snd_soc_tplg_widget_remove_all = 0x50a89694;
+__crc_snd_soc_tplg_component_remove = 0x199db4cc;

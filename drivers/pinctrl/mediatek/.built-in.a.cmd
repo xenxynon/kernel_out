@@ -1,0 +1,1 @@
+cmd_drivers/pinctrl/mediatek/built-in.a := rm -f drivers/pinctrl/mediatek/built-in.a.symversions; for i in ; do cat $$i.symversions >> drivers/pinctrl/mediatek/built-in.a.symversions; done; rm -f drivers/pinctrl/mediatek/built-in.a; llvm-ar cDPrST drivers/pinctrl/mediatek/built-in.a 

@@ -1,0 +1,13 @@
+__crc_tcf_action_check_ctrlact = 0x0a65f63a;
+__crc_tcf_action_set_ctrlact = 0xa55d9e26;
+__crc___tcf_idr_release = 0x0e63dccc;
+__crc_tcf_generic_walker = 0x7a4d5a30;
+__crc_tcf_idr_search = 0xbf88d090;
+__crc_tcf_idr_create = 0xa9098db3;
+__crc_tcf_idr_cleanup = 0x4cd2f665;
+__crc_tcf_idr_check_alloc = 0x4043374a;
+__crc_tcf_idrinfo_destroy = 0xc7e1400a;
+__crc_tcf_register_action = 0x08a5c0c6;
+__crc_tcf_unregister_action = 0x4e109046;
+__crc_tcf_action_exec = 0x052bb7ac;
+__crc_tcf_action_dump_1 = 0x46351b75;

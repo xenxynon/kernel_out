@@ -1,0 +1,12 @@
+__crc_sk_filter_trim_cap = 0x4e0f3f59;
+__crc_bpf_prog_create = 0x380e3792;
+__crc_bpf_prog_create_from_user = 0xa17e2076;
+__crc_bpf_prog_destroy = 0x1745a5a2;
+__crc_sk_attach_filter = 0x96f54014;
+__crc_bpf_redirect_info = 0x298bffab;
+__crc_xdp_do_flush_map = 0x559b27f8;
+__crc_xdp_do_redirect = 0xe9b0fbcc;
+__crc_xdp_do_generic_redirect = 0xee0d5b63;
+__crc_ipv6_bpf_stub = 0x7be8725e;
+__crc_bpf_warn_invalid_xdp_action = 0x5c2bcd37;
+__crc_sk_detach_filter = 0xc533c9a3;

@@ -1,0 +1,1 @@
+cmd_drivers/pinctrl/ti/built-in.a := rm -f drivers/pinctrl/ti/built-in.a.symversions; for i in ; do cat $$i.symversions >> drivers/pinctrl/ti/built-in.a.symversions; done; rm -f drivers/pinctrl/ti/built-in.a; llvm-ar cDPrST drivers/pinctrl/ti/built-in.a 

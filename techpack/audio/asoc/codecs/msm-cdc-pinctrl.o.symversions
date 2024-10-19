@@ -1,0 +1,6 @@
+__crc_msm_cdc_get_gpio_state = 0x80763827;
+__crc_msm_cdc_pinctrl_select_sleep_state = 0xc5a4b6ff;
+__crc_msm_cdc_pinctrl_select_alt_active_state = 0x82545891;
+__crc_msm_cdc_pinctrl_select_active_state = 0x3e4e4a48;
+__crc_msm_cdc_pinctrl_get_state = 0x8160a247;
+__crc_msm_cdc_pinctrl_set_wakeup_capable = 0xa26dc903;

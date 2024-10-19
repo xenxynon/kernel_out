@@ -1,0 +1,1 @@
+cmd_usr/include/misc/wigig_sensing_uapi.h := sh /home/rayan/st/kernel/msm-5.4/scripts/headers_install.sh /home/rayan/st/kernel/msm-5.4/include/uapi/misc/wigig_sensing_uapi.h usr/include/misc/wigig_sensing_uapi.h

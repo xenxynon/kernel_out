@@ -1,0 +1,10 @@
+__crc_neuron_channel_add = 0x37d4eb2d;
+__crc_neuron_register_channel_driver = 0x231df8d8;
+__crc_neuron_unregister_channel_driver = 0xe212cd2d;
+__crc_neuron_protocol_add = 0x6766c0c2;
+__crc_neuron_register_protocol_driver = 0x8c2f0f05;
+__crc_neuron_unregister_protocol_driver = 0x01f7ab5a;
+__crc_neuron_app_add = 0x96b558f2;
+__crc_neuron_register_app_driver = 0x942422c2;
+__crc_neuron_unregister_app_driver = 0x7044fa4f;
+__crc_protocol_server_block_driver = 0xd98d7077;

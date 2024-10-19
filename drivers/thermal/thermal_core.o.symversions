@@ -1,0 +1,13 @@
+__crc_thermal_zone_device_update_temp = 0xe46066b0;
+__crc_thermal_zone_device_update = 0x8e49fcef;
+__crc_thermal_notify_framework = 0x52302d1a;
+__crc_thermal_zone_bind_cooling_device = 0x5437a116;
+__crc_thermal_zone_unbind_cooling_device = 0x1599a174;
+__crc_thermal_cooling_device_register = 0x44605bec;
+__crc_thermal_of_cooling_device_register = 0x69656e84;
+__crc_devm_thermal_of_cooling_device_register = 0xd0a11701;
+__crc_thermal_cooling_device_unregister = 0xf47432fa;
+__crc_thermal_zone_device_register = 0x36251b1d;
+__crc_thermal_zone_device_unregister = 0x8ab1feba;
+__crc_thermal_zone_get_zone_by_name = 0x1794b835;
+__crc_thermal_generate_netlink_event = 0xd0bb90fc;

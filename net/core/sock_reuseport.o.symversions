@@ -1,0 +1,6 @@
+__crc_reuseport_alloc = 0x40ddf463;
+__crc_reuseport_add_sock = 0x9e067714;
+__crc_reuseport_detach_sock = 0x9339a496;
+__crc_reuseport_select_sock = 0x160aed17;
+__crc_reuseport_attach_prog = 0xb9f73b25;
+__crc_reuseport_detach_prog = 0xef99401a;

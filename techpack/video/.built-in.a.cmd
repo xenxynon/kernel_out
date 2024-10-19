@@ -1,0 +1,1 @@
+cmd_techpack/video/built-in.a := rm -f techpack/video/built-in.a.symversions; for i in  techpack/video/msm/built-in.a; do cat $$i.symversions >> techpack/video/built-in.a.symversions; done; rm -f techpack/video/built-in.a; llvm-ar cDPrST techpack/video/built-in.a techpack/video/msm/built-in.a

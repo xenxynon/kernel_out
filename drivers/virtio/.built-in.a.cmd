@@ -1,0 +1,1 @@
+cmd_drivers/virtio/built-in.a := rm -f drivers/virtio/built-in.a.symversions; for i in  drivers/virtio/virtio.o  drivers/virtio/virtio_ring.o; do cat $$i.symversions >> drivers/virtio/built-in.a.symversions; done; rm -f drivers/virtio/built-in.a; llvm-ar cDPrST drivers/virtio/built-in.a drivers/virtio/virtio.o drivers/virtio/virtio_ring.o

@@ -1,0 +1,18 @@
+!<thin>
+//                                              154       `
+rmnet_shs_config.o/
+rmnet_shs_main.o/
+rmnet_shs_common.o/
+rmnet_shs_wq.o/
+rmnet_shs_freq.o/
+rmnet_shs_wq_mem.o/
+rmnet_shs_wq_genl.o/
+rmnet_shs_modules.o/
+/0              0           0     0     644     15436     `
+/20             0           0     0     644     70696     `
+/38             0           0     0     644     27644     `
+/58             0           0     0     644     65456     `
+/74             0           0     0     644     11556     `
+/92             0           0     0     644     31660     `
+/112            0           0     0     644     15752     `
+/133            0           0     0     644     33824     `

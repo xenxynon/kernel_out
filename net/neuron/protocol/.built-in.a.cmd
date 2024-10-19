@@ -1,0 +1,1 @@
+cmd_net/neuron/protocol/built-in.a := rm -f net/neuron/protocol/built-in.a.symversions; for i in  net/neuron/protocol/prot_block_server.o; do cat $$i.symversions >> net/neuron/protocol/built-in.a.symversions; done; rm -f net/neuron/protocol/built-in.a; llvm-ar cDPrST net/neuron/protocol/built-in.a net/neuron/protocol/prot_block_server.o

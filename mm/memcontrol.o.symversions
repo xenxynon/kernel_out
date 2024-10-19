@@ -1,0 +1,8 @@
+__crc_memory_cgrp_subsys = 0x26865b4f;
+__crc_memcg_kmem_enabled_key = 0xd3543063;
+__crc_mem_cgroup_from_task = 0x27fde8be;
+__crc_get_mem_cgroup_from_mm = 0x221975c0;
+__crc_get_mem_cgroup_from_page = 0xc3aab9b6;
+__crc_lock_page_memcg = 0x609dc0c8;
+__crc_unlock_page_memcg = 0xa902fa9e;
+__crc_memcg_sockets_enabled_key = 0x3dabf271;

@@ -1,0 +1,1 @@
+cmd_drivers/virt/built-in.a := rm -f drivers/virt/built-in.a.symversions; for i in    drivers/virt/haven/built-in.a; do cat $$i.symversions >> drivers/virt/built-in.a.symversions; done; rm -f drivers/virt/built-in.a; llvm-ar cDPrST drivers/virt/built-in.a drivers/virt/vboxguest/built-in.a drivers/virt/haven/built-in.a

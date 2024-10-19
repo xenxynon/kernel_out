@@ -1,0 +1,18 @@
+!<thin>
+//                                              170       `
+focaltech_core.o/
+focaltech_ex_fun.o/
+focaltech_ex_mode.o/
+focaltech_gesture.o/
+focaltech_esdcheck.o/
+focaltech_point_report_check.o/
+focaltech_flash.o/
+focaltech_spi.o/
+/0              0           0     0     644     43656     `
+/18             0           0     0     644     60212     `
+/38             0           0     0     644     10572     `
+/59             0           0     0     644     15852     `
+/80             0           0     0     644     11272     `
+/102            0           0     0     644     7448      `
+/134            0           0     0     644     145692    `
+/153            0           0     0     644     17180     `

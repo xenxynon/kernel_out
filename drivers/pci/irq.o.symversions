@@ -1,0 +1,3 @@
+__crc_pci_lost_interrupt = 0x622b9d0b;
+__crc_pci_request_irq = 0x110a829a;
+__crc_pci_free_irq = 0xf7cf8221;

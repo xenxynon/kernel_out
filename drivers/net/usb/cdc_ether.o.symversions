@@ -1,0 +1,5 @@
+__crc_usbnet_generic_cdc_bind = 0x45711b07;
+__crc_usbnet_ether_cdc_bind = 0xdaf1a6c4;
+__crc_usbnet_cdc_unbind = 0xe345e58d;
+__crc_usbnet_cdc_status = 0x438aab96;
+__crc_usbnet_cdc_bind = 0x35890e99;

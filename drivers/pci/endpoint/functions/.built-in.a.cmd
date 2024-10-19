@@ -1,0 +1,1 @@
+cmd_drivers/pci/endpoint/functions/built-in.a := rm -f drivers/pci/endpoint/functions/built-in.a.symversions; for i in ; do cat $$i.symversions >> drivers/pci/endpoint/functions/built-in.a.symversions; done; rm -f drivers/pci/endpoint/functions/built-in.a; llvm-ar cDPrST drivers/pci/endpoint/functions/built-in.a 

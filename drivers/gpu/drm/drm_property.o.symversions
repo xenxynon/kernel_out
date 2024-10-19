@@ -1,0 +1,15 @@
+__crc_drm_property_create = 0xe9957fd1;
+__crc_drm_property_create_enum = 0x5ebb3a5e;
+__crc_drm_property_create_bitmask = 0xf328ee4b;
+__crc_drm_property_create_range = 0xa999f4c9;
+__crc_drm_property_create_signed_range = 0x23fcdc74;
+__crc_drm_property_create_object = 0xffcaa5ac;
+__crc_drm_property_create_bool = 0x35bc16f8;
+__crc_drm_property_add_enum = 0x381fe405;
+__crc_drm_property_destroy = 0x6ab88290;
+__crc_drm_property_create_blob = 0x332161ed;
+__crc_drm_property_blob_put = 0x6984a304;
+__crc_drm_property_blob_get = 0xc7fbe103;
+__crc_drm_property_lookup_blob = 0x8a38f37a;
+__crc_drm_property_replace_global_blob = 0xf869c0aa;
+__crc_drm_property_replace_blob = 0xed4198a8;

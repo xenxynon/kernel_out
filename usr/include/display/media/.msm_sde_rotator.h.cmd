@@ -1,0 +1,1 @@
+cmd_usr/include/display/media/msm_sde_rotator.h := sh /home/rayan/st/kernel/msm-5.4/scripts/headers_install.sh /home/rayan/st/kernel/msm-5.4/techpack/display/include/uapi/display/media/msm_sde_rotator.h usr/include/display/media/msm_sde_rotator.h

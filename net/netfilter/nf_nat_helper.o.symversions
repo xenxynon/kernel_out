@@ -1,0 +1,3 @@
+__crc___nf_nat_mangle_tcp_packet = 0x69c20d24;
+__crc_nf_nat_mangle_udp_packet = 0x78898e20;
+__crc_nf_nat_follow_master = 0x6cf2da55;

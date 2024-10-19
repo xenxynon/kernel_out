@@ -1,0 +1,3 @@
+__crc_rmnet_map_flow_command = 0x7dc05a3b;
+__crc_rmnet_map_dl_ind_register = 0x96371d90;
+__crc_rmnet_map_dl_ind_deregister = 0x7b65976c;

@@ -1,0 +1,14 @@
+__crc___tracepoint_wbc_writepage = 0x8348e4f0;
+__crc___inode_attach_wb = 0xd5f59110;
+__crc_wbc_attach_and_unlock_inode = 0x54ce8200;
+__crc_wbc_detach_inode = 0x73c63bca;
+__crc_wbc_account_cgroup_owner = 0x6e338bc6;
+__crc_inode_congested = 0xb540bc76;
+__crc___mark_inode_dirty = 0x7f334499;
+__crc_writeback_inodes_sb_nr = 0x758d953d;
+__crc_writeback_inodes_sb = 0x16c26402;
+__crc_try_to_writeback_inodes_sb = 0xcb4ea42b;
+__crc_sync_inodes_sb = 0xb2f5ba50;
+__crc_write_inode_now = 0x4056fa38;
+__crc_sync_inode = 0x0290afe0;
+__crc_sync_inode_metadata = 0xf983976f;

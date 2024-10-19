@@ -1,0 +1,5 @@
+__crc_kernfs_path_from_node = 0x33a17b01;
+__crc_kernfs_get = 0x567ac32c;
+__crc_kernfs_put = 0xdffa17a4;
+__crc_kernfs_find_and_get_ns = 0xdb3dd1d6;
+__crc_kernfs_notify = 0x5420773e;

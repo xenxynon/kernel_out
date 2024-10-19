@@ -1,0 +1,14 @@
+__crc_drm_gem_cma_create = 0x2344f0a5;
+__crc_drm_gem_cma_free_object = 0x58ee1312;
+__crc_drm_gem_cma_dumb_create_internal = 0xbfea8512;
+__crc_drm_gem_cma_dumb_create = 0x38a47c5b;
+__crc_drm_gem_cma_vm_ops = 0xdfcfbed7;
+__crc_drm_gem_cma_mmap = 0xc84371fe;
+__crc_drm_gem_cma_print_info = 0x0b380906;
+__crc_drm_gem_cma_prime_get_sg_table = 0xaa361d16;
+__crc_drm_gem_cma_prime_import_sg_table = 0x64167815;
+__crc_drm_gem_cma_prime_mmap = 0x518aeebf;
+__crc_drm_gem_cma_prime_vmap = 0xf4d4eb85;
+__crc_drm_gem_cma_prime_vunmap = 0xad0dca94;
+__crc_drm_cma_gem_create_object_default_funcs = 0xd009bde6;
+__crc_drm_gem_cma_prime_import_sg_table_vmap = 0x5ffd516e;

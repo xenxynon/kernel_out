@@ -1,0 +1,11 @@
+__crc_typec_altmode_notify = 0x88496a8e;
+__crc_typec_altmode_enter = 0x1bb0b9a1;
+__crc_typec_altmode_exit = 0xdcad92ce;
+__crc_typec_altmode_attention = 0x1387e792;
+__crc_typec_altmode_vdm = 0x8ace7534;
+__crc_typec_altmode_get_partner = 0x7a951397;
+__crc_typec_altmode_get_plug = 0x9d0a953b;
+__crc_typec_altmode_put_plug = 0xd998c4e9;
+__crc___typec_altmode_register_driver = 0x67d9cdf2;
+__crc_typec_altmode_unregister_driver = 0x30de29d8;
+__crc_typec_match_altmode = 0x15b3b08e;

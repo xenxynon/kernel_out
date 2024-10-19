@@ -1,0 +1,17 @@
+__crc_crypto_alg_list = 0x457594fa;
+__crc_crypto_alg_sem = 0xf32f316e;
+__crc_crypto_chain = 0x61f81d19;
+__crc_crypto_mod_get = 0x6e7517e8;
+__crc_crypto_mod_put = 0x535b6872;
+__crc_crypto_larval_alloc = 0x8acfc45d;
+__crc_crypto_larval_kill = 0xb1c46649;
+__crc_crypto_probing_notify = 0x5a7bfe41;
+__crc_crypto_alg_mod_lookup = 0x17db7406;
+__crc___crypto_alloc_tfm = 0x9111c10f;
+__crc_crypto_alloc_base = 0xb48bda7d;
+__crc_crypto_create_tfm = 0x7901c14c;
+__crc_crypto_find_alg = 0x04a609eb;
+__crc_crypto_alloc_tfm = 0x6de7118a;
+__crc_crypto_destroy_tfm = 0xd2dac18f;
+__crc_crypto_has_alg = 0x951a2773;
+__crc_crypto_req_done = 0x0a92d483;

@@ -1,0 +1,1 @@
+cmd_drivers/tty/serial/built-in.a := rm -f drivers/tty/serial/built-in.a.symversions; for i in  drivers/tty/serial/serial_core.o  ; do cat $$i.symversions >> drivers/tty/serial/built-in.a.symversions; done; rm -f drivers/tty/serial/built-in.a; llvm-ar cDPrST drivers/tty/serial/built-in.a drivers/tty/serial/serial_core.o drivers/tty/serial/msm_geni_serial.o

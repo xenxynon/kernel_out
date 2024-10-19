@@ -1,0 +1,12 @@
+__crc_iomap_readpage = 0x24fec485;
+__crc_iomap_readpages = 0x6a4c0373;
+__crc_iomap_is_partially_uptodate = 0x78cd0e07;
+__crc_iomap_releasepage = 0x6abddedb;
+__crc_iomap_invalidatepage = 0x1b44d440;
+__crc_iomap_migrate_page = 0xe7d78651;
+__crc_iomap_set_page_dirty = 0xf7b4d057;
+__crc_iomap_file_buffered_write = 0xcd8b860e;
+__crc_iomap_file_dirty = 0x2197be83;
+__crc_iomap_zero_range = 0x9fdbe3f5;
+__crc_iomap_truncate_page = 0x68685570;
+__crc_iomap_page_mkwrite = 0x01aa448a;

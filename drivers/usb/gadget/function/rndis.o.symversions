@@ -1,0 +1,14 @@
+__crc_rndis_signal_connect = 0x5cf87450;
+__crc_rndis_signal_disconnect = 0xdf87d3a7;
+__crc_rndis_uninit = 0x7ef8fa53;
+__crc_rndis_set_host_mac = 0xb4a1f2b4;
+__crc_rndis_msg_parser = 0xe32d2045;
+__crc_rndis_register = 0xb69356af;
+__crc_rndis_deregister = 0xec482259;
+__crc_rndis_set_param_dev = 0x14321e43;
+__crc_rndis_set_param_vendor = 0x8374c4af;
+__crc_rndis_set_param_medium = 0xfe4fd4c9;
+__crc_rndis_add_hdr = 0x78a21713;
+__crc_rndis_free_response = 0xf7ce91c1;
+__crc_rndis_get_next_response = 0xf1751d5d;
+__crc_rndis_rm_hdr = 0x1903c4dd;

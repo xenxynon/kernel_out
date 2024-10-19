@@ -1,0 +1,2 @@
+__crc_sdio_register_driver = 0xf7734eda;
+__crc_sdio_unregister_driver = 0x3be883bc;

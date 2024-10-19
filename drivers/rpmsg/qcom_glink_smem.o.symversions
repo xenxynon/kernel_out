@@ -1,0 +1,2 @@
+__crc_qcom_glink_smem_register = 0xaf56a465;
+__crc_qcom_glink_smem_unregister = 0x72dd75d9;

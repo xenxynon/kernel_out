@@ -1,0 +1,9 @@
+__crc_cgroup_bpf_enabled_key = 0xf4b2b86e;
+__crc___cgroup_bpf_run_filter_skb = 0x2212cfac;
+__crc___cgroup_bpf_run_filter_sk = 0xcc988b44;
+__crc___cgroup_bpf_run_filter_sock_addr = 0x78e64aff;
+__crc___cgroup_bpf_run_filter_sock_ops = 0x168b72af;
+__crc___cgroup_bpf_check_dev_permission = 0x9dc5e8c2;
+__crc___cgroup_bpf_run_filter_sysctl = 0x641ea55d;
+__crc___cgroup_bpf_run_filter_setsockopt = 0xa0679f84;
+__crc___cgroup_bpf_run_filter_getsockopt = 0xc7277bfa;

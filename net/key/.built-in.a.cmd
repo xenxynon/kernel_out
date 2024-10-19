@@ -1,0 +1,1 @@
+cmd_net/key/built-in.a := rm -f net/key/built-in.a.symversions; for i in  ; do cat $$i.symversions >> net/key/built-in.a.symversions; done; rm -f net/key/built-in.a; llvm-ar cDPrST net/key/built-in.a net/key/af_key.o

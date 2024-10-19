@@ -1,0 +1,20 @@
+!<thin>
+//                                              176       `
+hdmi.o/
+backlight/backlight.o/
+backlight/generic_bl.o/
+backlight/qcom-spmi-wled.o/
+fbdev/core/fb_cmdline.o/
+display_timing.o/
+videomode.o/
+of_display_timing.o/
+of_videomode.o/
+/0              0           0     0     644     51004     `
+/8              0           0     0     644     27376     `
+/31             0           0     0     644     7972      `
+/55             0           0     0     644     50480     `
+/83             0           0     0     644     6384      `
+/108            0           0     0     644     3852      `
+/126            0           0     0     644     4948      `
+/139            0           0     0     644     11784     `
+/160            0           0     0     644     4344      `

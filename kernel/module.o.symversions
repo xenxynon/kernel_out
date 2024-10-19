@@ -1,0 +1,13 @@
+__crc_module_mutex = 0xa9bc8b74;
+__crc_is_module_sig_enforced = 0xd6fde043;
+__crc_register_module_notifier = 0xf353a698;
+__crc_unregister_module_notifier = 0x6a5ecb18;
+__crc___module_put_and_exit = 0xb09b9977;
+__crc_find_module = 0x19e08ff0;
+__crc___tracepoint_module_get = 0x6e019034;
+__crc_module_refcount = 0x4b2d3cfe;
+__crc_symbol_put_addr = 0x66d87d38;
+__crc___module_get = 0x891abcfe;
+__crc_try_module_get = 0x84e07588;
+__crc_module_put = 0x1be7b540;
+__crc_module_layout = 0x3c39412e;

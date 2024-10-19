@@ -1,0 +1,1 @@
+cmd_net/bluetooth/hidp/built-in.a := rm -f net/bluetooth/hidp/built-in.a.symversions; for i in  net/bluetooth/hidp/core.o  ; do cat $$i.symversions >> net/bluetooth/hidp/built-in.a.symversions; done; rm -f net/bluetooth/hidp/built-in.a; llvm-ar cDPrST net/bluetooth/hidp/built-in.a net/bluetooth/hidp/core.o net/bluetooth/hidp/sock.o

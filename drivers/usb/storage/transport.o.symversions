@@ -1,0 +1,10 @@
+__crc_usb_stor_control_msg = 0x5764011a;
+__crc_usb_stor_clear_halt = 0x845ecb88;
+__crc_usb_stor_ctrl_transfer = 0xb46f70f6;
+__crc_usb_stor_bulk_transfer_buf = 0xa28b5506;
+__crc_usb_stor_bulk_srb = 0x74867ddb;
+__crc_usb_stor_bulk_transfer_sg = 0x74e03085;
+__crc_usb_stor_CB_transport = 0xa93383ae;
+__crc_usb_stor_Bulk_transport = 0x2ce6a9ae;
+__crc_usb_stor_CB_reset = 0x57434506;
+__crc_usb_stor_Bulk_reset = 0x3c80384d;

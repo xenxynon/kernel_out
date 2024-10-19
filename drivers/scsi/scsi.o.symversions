@@ -1,0 +1,14 @@
+__crc_scsi_sd_pm_domain = 0xcaf2c603;
+__crc_scsi_change_queue_depth = 0x0e4bc27b;
+__crc_scsi_track_queue_full = 0x3a67f232;
+__crc_scsi_get_vpd_page = 0x6a2b7153;
+__crc_scsi_report_opcode = 0x7dbb0755;
+__crc_scsi_device_get = 0x4f7f7b41;
+__crc_scsi_device_put = 0x10e0d1fd;
+__crc___scsi_iterate_devices = 0x9563f6db;
+__crc_starget_for_each_device = 0xd268f302;
+__crc___starget_for_each_device = 0x37403318;
+__crc___scsi_device_lookup_by_target = 0x34b80711;
+__crc_scsi_device_lookup_by_target = 0x10865754;
+__crc___scsi_device_lookup = 0x57589166;
+__crc_scsi_device_lookup = 0xf1f62a41;

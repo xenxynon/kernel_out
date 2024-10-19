@@ -1,0 +1,12 @@
+__crc_ip6_tnl_parse_tlv_enc_lim = 0x8c66c623;
+__crc_ip6_tnl_get_cap = 0x23ad79bf;
+__crc_ip6_tnl_rcv_ctl = 0x1b97d22d;
+__crc_ip6_tnl_rcv = 0x196bfb6d;
+__crc_ip6_tnl_xmit_ctl = 0xa3424cb4;
+__crc_ip6_tnl_xmit = 0xfef93755;
+__crc_ip6_tnl_change_mtu = 0xfe7ee442;
+__crc_ip6_tnl_get_iflink = 0x1f70072b;
+__crc_ip6_tnl_encap_add_ops = 0x86b4f904;
+__crc_ip6_tnl_encap_del_ops = 0xbd097f44;
+__crc_ip6_tnl_encap_setup = 0x6a30515e;
+__crc_ip6_tnl_get_link_net = 0xd523b9d6;

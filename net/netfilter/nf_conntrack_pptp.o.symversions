@@ -1,0 +1,4 @@
+__crc_nf_nat_pptp_hook_outbound = 0x17a3e419;
+__crc_nf_nat_pptp_hook_inbound = 0xbe249b41;
+__crc_nf_nat_pptp_hook_exp_gre = 0x2e601c52;
+__crc_nf_nat_pptp_hook_expectfn = 0xb89b04e7;

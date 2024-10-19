@@ -1,0 +1,1 @@
+cmd_drivers/nfc/qti/built-in.a := rm -f drivers/nfc/qti/built-in.a.symversions; for i in    ; do cat $$i.symversions >> drivers/nfc/qti/built-in.a.symversions; done; rm -f drivers/nfc/qti/built-in.a; llvm-ar cDPrST drivers/nfc/qti/built-in.a drivers/nfc/qti/nfc_common.o drivers/nfc/qti/nfc_i2c_drv.o
