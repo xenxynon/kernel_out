@@ -1,0 +1,32 @@
+!<thin>
+//                                              398       `
+offload/rmnet_offload_state.o/
+offload/rmnet_offload_main.o/
+offload/rmnet_offload_engine.o/
+offload/rmnet_offload_tcp.o/
+offload/rmnet_offload_udp.o/
+offload/rmnet_offload_stats.o/
+offload/rmnet_offload_knob.o/
+shs/rmnet_shs_config.o/
+shs/rmnet_shs_main.o/
+shs/rmnet_shs_common.o/
+shs/rmnet_shs_wq.o/
+shs/rmnet_shs_freq.o/
+shs/rmnet_shs_wq_mem.o/
+shs/rmnet_shs_wq_genl.o/
+shs/rmnet_shs_modules.o/
+/0              0           0     0     644     18220     `
+/31             0           0     0     644     20968     `
+/61             0           0     0     644     16956     `
+/93             0           0     0     644     9284      `
+/122            0           0     0     644     7912      `
+/151            0           0     0     644     7320      `
+/182            0           0     0     644     10960     `
+/212            0           0     0     644     23800     `
+/236            0           0     0     644     91968     `
+/258            0           0     0     644     37948     `
+/282            0           0     0     644     84424     `
+/302            0           0     0     644     18328     `
+/324            0           0     0     644     46764     `
+/348            0           0     0     644     22956     `
+/373            0           0     0     644     35068     `

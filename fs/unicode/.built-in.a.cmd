@@ -1,0 +1,1 @@
+cmd_fs/unicode/built-in.a := rm -f fs/unicode/built-in.a.symversions; for i in  fs/unicode/utf8-norm.o  fs/unicode/utf8-core.o; do cat $$i.symversions >> fs/unicode/built-in.a.symversions; done; rm -f fs/unicode/built-in.a; /home/rayan/r/prebuilts/clang/host/linux-x86/clang-r522817/bin/llvm-ar cDPrST fs/unicode/built-in.a fs/unicode/utf8-norm.o fs/unicode/utf8-core.o

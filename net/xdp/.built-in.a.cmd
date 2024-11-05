@@ -1,0 +1,1 @@
+cmd_net/xdp/built-in.a := rm -f net/xdp/built-in.a.symversions; for i in  net/xdp/xsk.o  net/xdp/xdp_umem.o  net/xdp/xsk_queue.o; do cat $$i.symversions >> net/xdp/built-in.a.symversions; done; rm -f net/xdp/built-in.a; /home/rayan/r/prebuilts/clang/host/linux-x86/clang-r522817/bin/llvm-ar cDPrST net/xdp/built-in.a net/xdp/xsk.o net/xdp/xdp_umem.o net/xdp/xsk_queue.o

@@ -1,0 +1,10 @@
+__crc_snd_soc_card_jack_new = 0x26e8ce1d;
+__crc_snd_soc_jack_report = 0x5edc0107;
+__crc_snd_soc_jack_add_zones = 0xeea335f3;
+__crc_snd_soc_jack_get_type = 0x2f316315;
+__crc_snd_soc_jack_add_pins = 0xe939d3b3;
+__crc_snd_soc_jack_notifier_register = 0x8dcbe8d3;
+__crc_snd_soc_jack_notifier_unregister = 0xfe7d1aee;
+__crc_snd_soc_jack_add_gpios = 0x6871cc59;
+__crc_snd_soc_jack_add_gpiods = 0x4b4de142;
+__crc_snd_soc_jack_free_gpios = 0xe4a8e1c8;

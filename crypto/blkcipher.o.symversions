@@ -1,0 +1,6 @@
+__crc_blkcipher_walk_done = 0xbae062a6;
+__crc_blkcipher_walk_virt = 0x57029799;
+__crc_blkcipher_walk_phys = 0xfc83d095;
+__crc_blkcipher_walk_virt_block = 0xc6adab0d;
+__crc_blkcipher_aead_walk_virt_block = 0x2f5dea3e;
+__crc_crypto_blkcipher_type = 0xd5d074fa;

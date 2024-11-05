@@ -1,0 +1,3 @@
+__crc_ieee80211_scan_completed = 0x3db56f8d;
+__crc_ieee80211_sched_scan_results = 0xa0fb80ab;
+__crc_ieee80211_sched_scan_stopped = 0xcecf2d8a;

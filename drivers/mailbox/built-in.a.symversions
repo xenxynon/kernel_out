@@ -1,0 +1,13 @@
+__crc_mbox_chan_received_data = 0x3c85b5ec;
+__crc_mbox_chan_txdone = 0x213de99c;
+__crc_mbox_client_txdone = 0x0ec91668;
+__crc_mbox_client_peek_data = 0x07372c59;
+__crc_mbox_send_message = 0x05f087dc;
+__crc_mbox_flush = 0xaa90238e;
+__crc_mbox_request_channel = 0x61aa88c4;
+__crc_mbox_request_channel_byname = 0xf86e60b1;
+__crc_mbox_free_channel = 0xe3d67d19;
+__crc_mbox_controller_register = 0x5e5d65ae;
+__crc_mbox_controller_unregister = 0xd4940fe2;
+__crc_devm_mbox_controller_register = 0x8b46d5f7;
+__crc_devm_mbox_controller_unregister = 0x14c3949b;

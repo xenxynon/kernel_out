@@ -1,0 +1,5 @@
+__crc_is_nd_btt = 0xe830f33d;
+__crc_to_nd_btt = 0x7e37c9eb;
+__crc_nd_btt_arena_is_valid = 0x1a77de31;
+__crc_nd_btt_version = 0xcafc5326;
+__crc_nd_btt_probe = 0xeff26554;

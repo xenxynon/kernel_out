@@ -1,0 +1,13 @@
+__crc_recalc_sigpending = 0xfb6af58d;
+__crc_flush_signals = 0x2a84d269;
+__crc_dequeue_signal = 0xe4592bf8;
+__crc___lock_task_sighand = 0x5181c958;
+__crc_kill_pid_usb_asyncio = 0x1937540e;
+__crc_send_sig_info = 0x71d68e1a;
+__crc_send_sig = 0xa763fcc0;
+__crc_force_sig = 0x6ea9363b;
+__crc_send_sig_mceerr = 0x5ffc6ed1;
+__crc_kill_pgrp = 0x64fa6496;
+__crc_kill_pid = 0x9a2efa0c;
+__crc_sigprocmask = 0x6a5fa363;
+__crc_kernel_sigaction = 0x6df1aaf1;

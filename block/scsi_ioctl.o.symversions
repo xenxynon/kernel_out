@@ -1,0 +1,7 @@
+__crc_scsi_command_size_tbl = 0x0334da4e;
+__crc_blk_verify_command = 0x27639220;
+__crc_sg_scsi_ioctl = 0x3177029b;
+__crc_scsi_cmd_ioctl = 0xe9444a0d;
+__crc_scsi_verify_blk_ioctl = 0x2ece8918;
+__crc_scsi_cmd_blk_ioctl = 0xc28f5dae;
+__crc_scsi_req_init = 0xe2ffeef3;

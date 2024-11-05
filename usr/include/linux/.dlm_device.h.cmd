@@ -1,0 +1,1 @@
+cmd_usr/include/linux/dlm_device.h := sh /home/rayan/r/kernel/nothing/sm7325/scripts/headers_install.sh /home/rayan/r/kernel/nothing/sm7325/include/uapi/linux/dlm_device.h usr/include/linux/dlm_device.h

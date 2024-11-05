@@ -1,0 +1,1 @@
+cmd_usr/include/linux/hdlc/ioctl.h := sh /home/rayan/r/kernel/nothing/sm7325/scripts/headers_install.sh /home/rayan/r/kernel/nothing/sm7325/include/uapi/linux/hdlc/ioctl.h usr/include/linux/hdlc/ioctl.h

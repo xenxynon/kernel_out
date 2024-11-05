@@ -1,0 +1,5 @@
+__crc_pci_remove_bus = 0x0d5b4b7b;
+__crc_pci_stop_and_remove_bus_device = 0x7a2e79af;
+__crc_pci_stop_and_remove_bus_device_locked = 0x4198ba32;
+__crc_pci_stop_root_bus = 0x7e60325d;
+__crc_pci_remove_root_bus = 0xd1a5c20e;

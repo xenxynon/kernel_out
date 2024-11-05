@@ -1,0 +1,1 @@
+cmd_net/rfkill/built-in.a := rm -f net/rfkill/built-in.a.symversions; for i in  net/rfkill/core.o; do cat $$i.symversions >> net/rfkill/built-in.a.symversions; done; rm -f net/rfkill/built-in.a; /home/rayan/r/prebuilts/clang/host/linux-x86/clang-r522817/bin/llvm-ar cDPrST net/rfkill/built-in.a net/rfkill/core.o

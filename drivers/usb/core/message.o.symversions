@@ -1,0 +1,16 @@
+__crc_usb_control_msg = 0x472cd423;
+__crc_usb_interrupt_msg = 0x1efe6a56;
+__crc_usb_bulk_msg = 0x2873686b;
+__crc_usb_sg_init = 0x26740d0a;
+__crc_usb_sg_wait = 0xf18a8e62;
+__crc_usb_sg_cancel = 0x3a567c42;
+__crc_usb_get_descriptor = 0x9cb40b5b;
+__crc_usb_string = 0x12cc5154;
+__crc_usb_get_status = 0x8ba3bfb7;
+__crc_usb_clear_halt = 0xf6404604;
+__crc_usb_reset_endpoint = 0x83ce367c;
+__crc_usb_set_interface = 0x803042d3;
+__crc_usb_reset_configuration = 0xffd6ec69;
+__crc_usb_set_configuration = 0x7661c476;
+__crc_usb_driver_set_configuration = 0x08dbef37;
+__crc_cdc_parse_cdc_header = 0xe1397703;

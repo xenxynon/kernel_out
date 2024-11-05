@@ -1,0 +1,1 @@
+cmd_drivers/mailbox/built-in.a := rm -f drivers/mailbox/built-in.a.symversions; for i in  drivers/mailbox/mailbox.o  ; do cat $$i.symversions >> drivers/mailbox/built-in.a.symversions; done; rm -f drivers/mailbox/built-in.a; /home/rayan/r/prebuilts/clang/host/linux-x86/clang-r522817/bin/llvm-ar cDPrST drivers/mailbox/built-in.a drivers/mailbox/mailbox.o drivers/mailbox/msm_qmp.o

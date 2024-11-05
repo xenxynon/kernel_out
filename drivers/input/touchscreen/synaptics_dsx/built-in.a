@@ -1,0 +1,13 @@
+!<thin>
+//                                              128       `
+synaptics_dsx_i2c.o/
+synaptics_dsx_core.o/
+synaptics_dsx_rmi_dev.o/
+synaptics_dsx_fw_update.o/
+synaptics_dsx_test_reporting.o/
+
+/0              0           0     0     644     33524     `
+/21             0           0     0     644     104532    `
+/43             0           0     0     644     68112     `
+/68             0           0     0     644     72032     `
+/95             0           0     0     644     92348     `

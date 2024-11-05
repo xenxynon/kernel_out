@@ -1,0 +1,15 @@
+__crc_drm_bridge_add = 0x0869bcfb;
+__crc_drm_bridge_remove = 0x587f4aaa;
+__crc_drm_bridge_attach = 0x808ceba7;
+__crc_drm_bridge_mode_fixup = 0xae438c2c;
+__crc_drm_bridge_mode_valid = 0x77e7d609;
+__crc_drm_bridge_disable = 0xd9befda5;
+__crc_drm_bridge_post_disable = 0xbe51f99b;
+__crc_drm_bridge_mode_set = 0x96300c30;
+__crc_drm_bridge_pre_enable = 0x0d0e335c;
+__crc_drm_bridge_enable = 0x18f86de6;
+__crc_drm_atomic_bridge_disable = 0xdca82da9;
+__crc_drm_atomic_bridge_post_disable = 0xa3ee5bfa;
+__crc_drm_atomic_bridge_pre_enable = 0xd2099731;
+__crc_drm_atomic_bridge_enable = 0xe31f119a;
+__crc_of_drm_find_bridge = 0x96219df1;

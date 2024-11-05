@@ -1,0 +1,101 @@
+!<thin>
+//                                              2330      `
+drivers/platform/msm/gsi/gsi.o/
+drivers/platform/msm/ipa/ipa_rm.o/
+drivers/platform/msm/ipa/ipa_rm_dependency_graph.o/
+drivers/platform/msm/ipa/ipa_rm_peers_list.o/
+drivers/platform/msm/ipa/ipa_rm_resource.o/
+drivers/platform/msm/ipa/ipa_rm_inactivity_timer.o/
+drivers/platform/msm/ipa/ipa_v3/ipa.o/
+drivers/platform/msm/ipa/ipa_v3/ipa_debugfs.o/
+drivers/platform/msm/ipa/ipa_v3/ipa_hdr.o/
+drivers/platform/msm/ipa/ipa_v3/ipa_flt.o/
+drivers/platform/msm/ipa/ipa_v3/ipa_rt.o/
+drivers/platform/msm/ipa/ipa_v3/ipa_dp.o/
+drivers/platform/msm/ipa/ipa_v3/ipa_client.o/
+drivers/platform/msm/ipa/ipa_v3/ipa_utils.o/
+drivers/platform/msm/ipa/ipa_v3/ipa_nat.o/
+drivers/platform/msm/ipa/ipa_v3/ipa_intf.o/
+drivers/platform/msm/ipa/ipa_v3/teth_bridge.o/
+drivers/platform/msm/ipa/ipa_v3/ipa_interrupts.o/
+drivers/platform/msm/ipa/ipa_v3/ipa_uc.o/
+drivers/platform/msm/ipa/ipa_v3/ipa_uc_wdi.o/
+drivers/platform/msm/ipa/ipa_v3/ipa_dma.o/
+drivers/platform/msm/ipa/ipa_v3/ipa_uc_mhi.o/
+drivers/platform/msm/ipa/ipa_v3/ipa_mhi.o/
+drivers/platform/msm/ipa/ipa_v3/ipa_uc_ntn.o/
+drivers/platform/msm/ipa/ipa_v3/ipa_hw_stats.o/
+drivers/platform/msm/ipa/ipa_v3/ipa_pm.o/
+drivers/platform/msm/ipa/ipa_v3/ipa_wdi3_i.o/
+drivers/platform/msm/ipa/ipa_v3/ipa_odl.o/
+drivers/platform/msm/ipa/ipa_v3/ipa_wigig_i.o/
+drivers/platform/msm/ipa/ipa_v3/ipa_uc_holb_monitor.o/
+drivers/platform/msm/ipa/ipa_v3/ipahal/ipahal.o/
+drivers/platform/msm/ipa/ipa_v3/ipahal/ipahal_reg.o/
+drivers/platform/msm/ipa/ipa_v3/ipahal/ipahal_fltrt.o/
+drivers/platform/msm/ipa/ipa_v3/ipahal/ipahal_hw_stats.o/
+drivers/platform/msm/ipa/ipa_v3/ipahal/ipahal_nat.o/
+drivers/platform/msm/ipa/ipa_v3/rmnet_ipa.o/
+drivers/platform/msm/ipa/ipa_v3/ipa_qmi_service_v01.o/
+drivers/platform/msm/ipa/ipa_v3/ipa_qmi_service.o/
+drivers/platform/msm/ipa/ipa_v3/rmnet_ctl_ipa.o/
+drivers/platform/msm/ipa/ipa_v3/rmnet_ipa_fd_ioctl.o/
+drivers/platform/msm/ipa/ipa_v3/dump/ipa_reg_dump.o/
+drivers/platform/msm/ipa/ipa_clients/rndis_ipa.o/
+drivers/platform/msm/ipa/ipa_clients/ipa_clients_manager.o/
+drivers/platform/msm/ipa/ipa_clients/ipa_usb.o/
+drivers/platform/msm/ipa/ipa_clients/ipa_wdi3.o/
+drivers/platform/msm/ipa/ipa_clients/ipa_gsb.o/
+drivers/platform/msm/ipa/ipa_clients/ipa_uc_offload.o/
+drivers/platform/msm/ipa/ipa_clients/ipa_wigig.o/
+drivers/platform/msm/ipa/ipa_clients/ipa_mhi_client.o/
+
+/0              0           0     0     644     232564    `
+/32             0           0     0     644     43240     `
+/67             0           0     0     644     15340     `
+/119            0           0     0     644     16976     `
+/165            0           0     0     644     40252     `
+/209            0           0     0     644     3332      `
+/261            0           0     0     644     563972    `
+/300            0           0     0     644     6684      `
+/347            0           0     0     644     70380     `
+/390            0           0     0     644     93732     `
+/433            0           0     0     644     109248    `
+/475            0           0     0     644     253620    `
+/517            0           0     0     644     107772    `
+/563            0           0     0     644     279964    `
+/608            0           0     0     644     107520    `
+/651            0           0     0     644     51548     `
+/695            0           0     0     644     24040     `
+/742            0           0     0     644     37972     `
+/792            0           0     0     644     83996     `
+/834            0           0     0     644     139812    `
+/880            0           0     0     644     55880     `
+/923            0           0     0     644     37224     `
+/969            0           0     0     644     52484     `
+/1012           0           0     0     644     47136     `
+/1058           0           0     0     644     74668     `
+/1106           0           0     0     644     64172     `
+/1148           0           0     0     644     70152     `
+/1194           0           0     0     644     68388     `
+/1237           0           0     0     644     106992    `
+/1284           0           0     0     644     16980     `
+/1339           0           0     0     644     73084     `
+/1388           0           0     0     644     110240    `
+/1441           0           0     0     644     130796    `
+/1496           0           0     0     644     41924     `
+/1554           0           0     0     644     36632     `
+/1607           0           0     0     644     242056    `
+/1652           0           0     0     644     14588     `
+/1707           0           0     0     644     114676    `
+/1758           0           0     0     644     38692     `
+/1807           0           0     0     644     44772     `
+/1861           0           0     0     644     100328    `
+/1914           0           0     0     644     107648    `
+/1964           0           0     0     644     6688      `
+/2024           0           0     0     644     96216     `
+/2072           0           0     0     644     53432     `
+/2121           0           0     0     644     61088     `
+/2169           0           0     0     644     42360     `
+/2224           0           0     0     644     86348     `
+/2274           0           0     0     644     104312    `

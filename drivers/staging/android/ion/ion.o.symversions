@@ -1,0 +1,5 @@
+__crc_ion_alloc = 0xc1fac81d;
+__crc_ion_free = 0x325002cb;
+__crc_ion_query_heaps_kernel = 0xa4abc39a;
+__crc___ion_device_add_heap = 0xc6ff54b1;
+__crc_ion_device_remove_heap = 0xf67c0ea8;

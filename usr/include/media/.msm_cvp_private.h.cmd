@@ -1,0 +1,1 @@
+cmd_usr/include/media/msm_cvp_private.h := sh /home/rayan/r/kernel/nothing/sm7325/scripts/headers_install.sh /home/rayan/r/kernel/nothing/sm7325/include/uapi/media/msm_cvp_private.h usr/include/media/msm_cvp_private.h

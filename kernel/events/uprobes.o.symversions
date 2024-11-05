@@ -1,0 +1,3 @@
+__crc_uprobe_unregister = 0x2a5847cb;
+__crc_uprobe_register = 0xa5c429ea;
+__crc_uprobe_register_refctr = 0xfaa7463a;

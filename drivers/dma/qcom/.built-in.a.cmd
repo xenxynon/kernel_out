@@ -1,0 +1,1 @@
+cmd_drivers/dma/qcom/built-in.a := rm -f drivers/dma/qcom/built-in.a.symversions; for i in  drivers/dma/qcom/gpi.o; do cat $$i.symversions >> drivers/dma/qcom/built-in.a.symversions; done; rm -f drivers/dma/qcom/built-in.a; /home/rayan/r/prebuilts/clang/host/linux-x86/clang-r522817/bin/llvm-ar cDPrST drivers/dma/qcom/built-in.a drivers/dma/qcom/gpi.o

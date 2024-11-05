@@ -1,0 +1,4 @@
+__crc_msm_ext_disp_register_audio_codec = 0xbfe852c3;
+__crc_msm_ext_disp_select_audio_codec = 0x2c0a76c8;
+__crc_msm_ext_disp_register_intf = 0xa99a561c;
+__crc_msm_ext_disp_deregister_intf = 0x57178429;

@@ -1,0 +1,9 @@
+__crc_transport_class_register = 0x47041dd6;
+__crc_transport_class_unregister = 0x9de80886;
+__crc_anon_transport_class_register = 0x46233b46;
+__crc_anon_transport_class_unregister = 0x41140b12;
+__crc_transport_setup_device = 0xdd36ca7a;
+__crc_transport_add_device = 0xaeef59e4;
+__crc_transport_configure_device = 0x03bfd7ac;
+__crc_transport_remove_device = 0x9f4328b6;
+__crc_transport_destroy_device = 0x35afc08a;

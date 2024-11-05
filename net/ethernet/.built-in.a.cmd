@@ -1,0 +1,1 @@
+cmd_net/ethernet/built-in.a := rm -f net/ethernet/built-in.a.symversions; for i in  net/ethernet/eth.o; do cat $$i.symversions >> net/ethernet/built-in.a.symversions; done; rm -f net/ethernet/built-in.a; /home/rayan/r/prebuilts/clang/host/linux-x86/clang-r522817/bin/llvm-ar cDPrST net/ethernet/built-in.a net/ethernet/eth.o

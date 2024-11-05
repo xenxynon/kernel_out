@@ -1,0 +1,8 @@
+__crc_driver_set_override = 0x850937a9;
+__crc_driver_for_each_device = 0x199f04b0;
+__crc_driver_find_device = 0x0d3bf545;
+__crc_driver_create_file = 0x45a947ac;
+__crc_driver_remove_file = 0xb799af20;
+__crc_driver_register = 0xc66531ca;
+__crc_driver_unregister = 0x22a73f0b;
+__crc_driver_find = 0x5e548edd;

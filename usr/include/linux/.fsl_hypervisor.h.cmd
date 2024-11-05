@@ -1,0 +1,1 @@
+cmd_usr/include/linux/fsl_hypervisor.h := sh /home/rayan/r/kernel/nothing/sm7325/scripts/headers_install.sh /home/rayan/r/kernel/nothing/sm7325/include/uapi/linux/fsl_hypervisor.h usr/include/linux/fsl_hypervisor.h

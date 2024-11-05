@@ -1,0 +1,4 @@
+__crc_pci_disable_link_state_locked = 0xe5efb973;
+__crc_pci_disable_link_state = 0x21bf5c85;
+__crc_pcie_aspm_enabled = 0x51bddf42;
+__crc_pcie_aspm_support_enabled = 0x63187451;

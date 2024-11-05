@@ -1,0 +1,1 @@
+cmd_drivers/media/pci/intel/built-in.a := rm -f drivers/media/pci/intel/built-in.a.symversions; for i in  ; do cat $$i.symversions >> drivers/media/pci/intel/built-in.a.symversions; done; rm -f drivers/media/pci/intel/built-in.a; /home/rayan/r/prebuilts/clang/host/linux-x86/clang-r522817/bin/llvm-ar cDPrST drivers/media/pci/intel/built-in.a drivers/media/pci/intel/ipu3/built-in.a

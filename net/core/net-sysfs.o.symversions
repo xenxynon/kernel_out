@@ -1,0 +1,4 @@
+__crc_net_ns_type_operations = 0xf32114c5;
+__crc_of_find_net_device_by_node = 0x1c10ccd7;
+__crc_netdev_class_create_file_ns = 0xb35c3246;
+__crc_netdev_class_remove_file_ns = 0xc21185c1;

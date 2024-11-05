@@ -1,0 +1,8 @@
+__crc_free_task = 0xfc3dafb7;
+__crc___mmdrop = 0x6a47b4be;
+__crc___put_task_struct = 0xd22535b7;
+__crc___put_task_struct_rcu_cb = 0x94160518;
+__crc_mmput = 0x0b0e0534;
+__crc_get_mm_exe_file = 0x3cdd2dc5;
+__crc_get_task_exe_file = 0x78ca7c74;
+__crc_get_task_mm = 0xc75768d0;

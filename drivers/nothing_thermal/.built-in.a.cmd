@@ -1,0 +1,1 @@
+cmd_drivers/nothing_thermal/built-in.a := rm -f drivers/nothing_thermal/built-in.a.symversions; for i in  ; do cat $$i.symversions >> drivers/nothing_thermal/built-in.a.symversions; done; rm -f drivers/nothing_thermal/built-in.a; /home/rayan/r/prebuilts/clang/host/linux-x86/clang-r522817/bin/llvm-ar cDPrST drivers/nothing_thermal/built-in.a drivers/nothing_thermal/simulated_ntc.o

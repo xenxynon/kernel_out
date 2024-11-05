@@ -1,0 +1,3 @@
+__crc_fsa4480_reg_notifier = 0xf91d620f;
+__crc_fsa4480_unreg_notifier = 0x5c2037d1;
+__crc_fsa4480_switch_event = 0xf11be785;

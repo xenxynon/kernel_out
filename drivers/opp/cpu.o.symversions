@@ -1,0 +1,5 @@
+__crc_dev_pm_opp_init_cpufreq_table = 0x94ee0068;
+__crc_dev_pm_opp_free_cpufreq_table = 0x3c37bdf8;
+__crc_dev_pm_opp_cpumask_remove_table = 0xe08e3f3c;
+__crc_dev_pm_opp_set_sharing_cpus = 0xd7257d9c;
+__crc_dev_pm_opp_get_sharing_cpus = 0x3adf897a;

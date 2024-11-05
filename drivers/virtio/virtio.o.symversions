@@ -1,0 +1,11 @@
+__crc_virtio_check_driver_offered_feature = 0x4b799f64;
+__crc_virtio_config_changed = 0xd051542b;
+__crc_virtio_config_disable = 0x0ac76d34;
+__crc_virtio_config_enable = 0xd7536fc0;
+__crc_virtio_add_status = 0x029cf63d;
+__crc_register_virtio_driver = 0xc392c038;
+__crc_unregister_virtio_driver = 0xe81c8c6a;
+__crc_register_virtio_device = 0x0b4daf3c;
+__crc_unregister_virtio_device = 0x05e81026;
+__crc_virtio_device_freeze = 0x0a7c8054;
+__crc_virtio_device_restore = 0xd2bcd703;

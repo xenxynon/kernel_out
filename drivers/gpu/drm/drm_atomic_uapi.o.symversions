@@ -1,0 +1,6 @@
+__crc_drm_atomic_set_mode_for_crtc = 0x9f97230d;
+__crc_drm_atomic_set_mode_prop_for_crtc = 0x644e27c4;
+__crc_drm_atomic_set_crtc_for_plane = 0x93b1538c;
+__crc_drm_atomic_set_fb_for_plane = 0x643ca880;
+__crc_drm_atomic_set_fence_for_plane = 0x885b2d38;
+__crc_drm_atomic_set_crtc_for_connector = 0xffe40d56;

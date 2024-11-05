@@ -1,0 +1,3 @@
+__crc_acc_ctrlrequest = 0x0586f178;
+__crc_acc_ctrlrequest_composite = 0xfa6810e5;
+__crc_acc_disconnect = 0x3980acd8;

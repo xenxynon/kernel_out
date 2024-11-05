@@ -1,0 +1,1 @@
+cmd_usr/include/rdma/vmw_pvrdma-abi.h := sh /home/rayan/r/kernel/nothing/sm7325/scripts/headers_install.sh /home/rayan/r/kernel/nothing/sm7325/include/uapi/rdma/vmw_pvrdma-abi.h usr/include/rdma/vmw_pvrdma-abi.h

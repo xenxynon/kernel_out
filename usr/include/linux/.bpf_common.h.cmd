@@ -1,0 +1,1 @@
+cmd_usr/include/linux/bpf_common.h := sh /home/rayan/r/kernel/nothing/sm7325/scripts/headers_install.sh /home/rayan/r/kernel/nothing/sm7325/include/uapi/linux/bpf_common.h usr/include/linux/bpf_common.h

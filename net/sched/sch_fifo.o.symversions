@@ -1,0 +1,4 @@
+__crc_pfifo_qdisc_ops = 0xfa810ab2;
+__crc_bfifo_qdisc_ops = 0x9b06114f;
+__crc_fifo_set_limit = 0x07156ee9;
+__crc_fifo_create_dflt = 0xcdc514d0;

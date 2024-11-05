@@ -1,0 +1,1 @@
+cmd_usr/include/linux/nilfs2_api.h := sh /home/rayan/r/kernel/nothing/sm7325/scripts/headers_install.sh /home/rayan/r/kernel/nothing/sm7325/include/uapi/linux/nilfs2_api.h usr/include/linux/nilfs2_api.h

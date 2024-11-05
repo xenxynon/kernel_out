@@ -1,0 +1,14 @@
+__crc_drm_debug = 0x20645642;
+__crc_drm_put_dev = 0x7058b1aa;
+__crc_drm_dev_enter = 0x9dc09d00;
+__crc_drm_dev_exit = 0xe8a034df;
+__crc_drm_dev_unplug = 0x30434e64;
+__crc_drm_dev_init = 0xb47997b6;
+__crc_devm_drm_dev_init = 0x3f8f18c1;
+__crc_drm_dev_fini = 0x290820ff;
+__crc_drm_dev_alloc = 0x169ab348;
+__crc_drm_dev_get = 0x48066b15;
+__crc_drm_dev_put = 0x468ae243;
+__crc_drm_dev_register = 0xf9b97630;
+__crc_drm_dev_unregister = 0xcfa8d761;
+__crc_drm_dev_set_unique = 0xae09d09c;

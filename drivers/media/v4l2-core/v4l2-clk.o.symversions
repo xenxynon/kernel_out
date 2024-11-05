@@ -1,0 +1,10 @@
+__crc_v4l2_clk_get = 0x5364012b;
+__crc_v4l2_clk_put = 0x59c312ef;
+__crc_v4l2_clk_enable = 0x7c872160;
+__crc_v4l2_clk_disable = 0x916e8757;
+__crc_v4l2_clk_get_rate = 0xd6f1ea32;
+__crc_v4l2_clk_set_rate = 0x64695cbc;
+__crc_v4l2_clk_register = 0x520f289a;
+__crc_v4l2_clk_unregister = 0xb9da83b4;
+__crc___v4l2_clk_register_fixed = 0x0f49fe55;
+__crc_v4l2_clk_unregister_fixed = 0xa2149ca5;

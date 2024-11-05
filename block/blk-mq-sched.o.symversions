@@ -1,0 +1,6 @@
+__crc_blk_mq_sched_free_hctx_data = 0xbbe19179;
+__crc_blk_mq_sched_mark_restart_hctx = 0x907dbeb3;
+__crc_blk_mq_sched_try_merge = 0x827a6e6c;
+__crc_blk_mq_bio_list_merge = 0x0dcbe2a0;
+__crc_blk_mq_sched_try_insert_merge = 0x9079a8f4;
+__crc_blk_mq_sched_request_inserted = 0x959e2d96;

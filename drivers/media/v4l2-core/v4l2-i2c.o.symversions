@@ -1,0 +1,6 @@
+__crc_v4l2_i2c_subdev_set_name = 0xb97aaf0b;
+__crc_v4l2_i2c_subdev_init = 0x5deef42d;
+__crc_v4l2_i2c_new_subdev_board = 0x8c47fc4e;
+__crc_v4l2_i2c_new_subdev = 0xfaf63d9d;
+__crc_v4l2_i2c_subdev_addr = 0xe9fcbc4b;
+__crc_v4l2_i2c_tuner_addrs = 0xf2a353ac;

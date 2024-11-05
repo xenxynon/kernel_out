@@ -1,0 +1,4 @@
+__crc_governor_sysfs_ops = 0x2e6b2391;
+__crc_gov_attr_set_init = 0x13bcdae1;
+__crc_gov_attr_set_get = 0x83e681c2;
+__crc_gov_attr_set_put = 0xfd25000d;

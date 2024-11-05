@@ -1,0 +1,1 @@
+cmd_lib/lz4/built-in.a := rm -f lib/lz4/built-in.a.symversions; for i in  lib/lz4/lz4_compress.o  lib/lz4/lz4_decompress.o; do cat $$i.symversions >> lib/lz4/built-in.a.symversions; done; rm -f lib/lz4/built-in.a; /home/rayan/r/prebuilts/clang/host/linux-x86/clang-r522817/bin/llvm-ar cDPrST lib/lz4/built-in.a lib/lz4/lz4_compress.o lib/lz4/lz4_decompress.o

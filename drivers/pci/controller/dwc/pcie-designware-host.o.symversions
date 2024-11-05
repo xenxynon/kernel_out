@@ -1,0 +1,4 @@
+__crc_dw_pcie_msi_init = 0x7f315878;
+__crc_dw_pcie_host_init = 0x609029ed;
+__crc_dw_pcie_host_deinit = 0xd7d51b00;
+__crc_dw_pcie_setup_rc = 0xe08b0e60;

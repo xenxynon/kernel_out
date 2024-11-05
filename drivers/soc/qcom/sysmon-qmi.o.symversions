@@ -1,0 +1,5 @@
+__crc_sysmon_send_event = 0x8227ba8f;
+__crc_sysmon_send_shutdown = 0xe46a9bab;
+__crc_sysmon_get_reason = 0xf62ed4cd;
+__crc_sysmon_notifier_register = 0xc1f4ce60;
+__crc_sysmon_notifier_unregister = 0x64f5270a;

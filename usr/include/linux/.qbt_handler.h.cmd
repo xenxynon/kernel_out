@@ -1,0 +1,1 @@
+cmd_usr/include/linux/qbt_handler.h := sh /home/rayan/r/kernel/nothing/sm7325/scripts/headers_install.sh /home/rayan/r/kernel/nothing/sm7325/include/uapi/linux/qbt_handler.h usr/include/linux/qbt_handler.h

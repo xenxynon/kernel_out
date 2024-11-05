@@ -1,0 +1,2 @@
+__crc_kgsl_devfreq_add_notifier = 0xb8d7205b;
+__crc_kgsl_devfreq_del_notifier = 0x4a1904c7;

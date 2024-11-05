@@ -1,0 +1,3 @@
+__crc_drm_mode_config_reset = 0xdb729ce6;
+__crc_drm_mode_config_init = 0x788a66c8;
+__crc_drm_mode_config_cleanup = 0x0b70cfab;

@@ -1,0 +1,5 @@
+__crc_unix_socket_table = 0x1d77b0f8;
+__crc_unix_table_lock = 0xad0f2b6c;
+__crc_unix_peer_get = 0x52b05e1a;
+__crc_unix_inq_len = 0x229e2f54;
+__crc_unix_outq_len = 0xcc98b4e9;

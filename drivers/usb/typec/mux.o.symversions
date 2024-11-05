@@ -1,0 +1,12 @@
+__crc_typec_switch_get = 0x0caddbb8;
+__crc_typec_switch_put = 0x719444fb;
+__crc_typec_switch_register = 0xaa6c39fa;
+__crc_typec_switch_unregister = 0xd0275fbe;
+__crc_typec_switch_set_drvdata = 0xe575b687;
+__crc_typec_switch_get_drvdata = 0x2ac2fde7;
+__crc_typec_mux_get = 0x26854764;
+__crc_typec_mux_put = 0x54209b71;
+__crc_typec_mux_register = 0x2e91a777;
+__crc_typec_mux_unregister = 0xb0e10071;
+__crc_typec_mux_set_drvdata = 0x5731fddb;
+__crc_typec_mux_get_drvdata = 0xbc28ce6f;

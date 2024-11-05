@@ -1,0 +1,1 @@
+cmd_usr/include/linux/am437x-vpfe.h := sh /home/rayan/r/kernel/nothing/sm7325/scripts/headers_install.sh /home/rayan/r/kernel/nothing/sm7325/include/uapi/linux/am437x-vpfe.h usr/include/linux/am437x-vpfe.h

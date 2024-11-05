@@ -1,0 +1,7 @@
+__crc_usb_role_switch_set_role = 0xd5474690;
+__crc_usb_role_switch_get_role = 0xff42c374;
+__crc_usb_role_switch_get = 0xd2b8c2ba;
+__crc_fwnode_usb_role_switch_get = 0x58ae2090;
+__crc_usb_role_switch_put = 0xc9fd634a;
+__crc_usb_role_switch_register = 0xcf616a4f;
+__crc_usb_role_switch_unregister = 0x2882d40e;

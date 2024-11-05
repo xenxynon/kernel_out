@@ -1,0 +1,1 @@
+cmd_net/l2tp/built-in.a := rm -f net/l2tp/built-in.a.symversions; for i in  net/l2tp/l2tp_core.o  ; do cat $$i.symversions >> net/l2tp/built-in.a.symversions; done; rm -f net/l2tp/built-in.a; /home/rayan/r/prebuilts/clang/host/linux-x86/clang-r522817/bin/llvm-ar cDPrST net/l2tp/built-in.a net/l2tp/l2tp_core.o net/l2tp/l2tp_ppp.o

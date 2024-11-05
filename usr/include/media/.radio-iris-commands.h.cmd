@@ -1,0 +1,1 @@
+cmd_usr/include/media/radio-iris-commands.h := sh /home/rayan/r/kernel/nothing/sm7325/scripts/headers_install.sh /home/rayan/r/kernel/nothing/sm7325/include/uapi/media/radio-iris-commands.h usr/include/media/radio-iris-commands.h

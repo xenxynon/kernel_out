@@ -1,0 +1,1 @@
+cmd_usr/include/linux/watch_queue.h := sh /home/rayan/r/kernel/nothing/sm7325/scripts/headers_install.sh /home/rayan/r/kernel/nothing/sm7325/include/uapi/linux/watch_queue.h usr/include/linux/watch_queue.h

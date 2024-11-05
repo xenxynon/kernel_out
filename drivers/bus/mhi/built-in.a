@@ -1,0 +1,15 @@
+!<thin>
+//                                              102       `
+core/mhi_init.o/
+core/mhi_main.o/
+core/mhi_pm.o/
+core/mhi_boot.o/
+core/mhi_dtr.o/
+devices/mhi_uci.o/
+
+/0              0           0     0     644     101148    `
+/17             0           0     0     644     133728    `
+/34             0           0     0     644     95540     `
+/49             0           0     0     644     51716     `
+/66             0           0     0     644     28660     `
+/82             0           0     0     644     53248     `

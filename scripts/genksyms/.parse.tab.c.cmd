@@ -1,0 +1,1 @@
+cmd_scripts/genksyms/parse.tab.c := /home/rayan/r/prebuilts/build-tools/linux-x86/bin/bison --version >/dev/null; /home/rayan/r/prebuilts/build-tools/linux-x86/bin/bison -o scripts/genksyms/parse.tab.c --defines=scripts/genksyms/parse.tab.h -t -l /home/rayan/r/kernel/nothing/sm7325/scripts/genksyms/parse.y 2>/dev/null

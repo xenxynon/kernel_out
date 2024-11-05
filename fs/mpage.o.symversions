@@ -1,0 +1,4 @@
+__crc_mpage_readpages = 0x3498df80;
+__crc_mpage_readpage = 0x2878c6b2;
+__crc_mpage_writepages = 0x43cd2f0d;
+__crc_mpage_writepage = 0x84d98059;

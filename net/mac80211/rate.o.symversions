@@ -1,0 +1,4 @@
+__crc_ieee80211_rate_control_register = 0x11fbf3d9;
+__crc_ieee80211_rate_control_unregister = 0xf3470879;
+__crc_ieee80211_get_tx_rates = 0x33e0d4b7;
+__crc_rate_control_set_rates = 0xb58fbea1;

@@ -1,0 +1,1 @@
+cmd_usr/include/linux/netfilter_arp/arp_tables.h := sh /home/rayan/r/kernel/nothing/sm7325/scripts/headers_install.sh /home/rayan/r/kernel/nothing/sm7325/include/uapi/linux/netfilter_arp/arp_tables.h usr/include/linux/netfilter_arp/arp_tables.h

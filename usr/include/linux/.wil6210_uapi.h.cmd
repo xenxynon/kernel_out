@@ -1,0 +1,1 @@
+cmd_usr/include/linux/wil6210_uapi.h := sh /home/rayan/r/kernel/nothing/sm7325/scripts/headers_install.sh /home/rayan/r/kernel/nothing/sm7325/include/uapi/linux/wil6210_uapi.h usr/include/linux/wil6210_uapi.h

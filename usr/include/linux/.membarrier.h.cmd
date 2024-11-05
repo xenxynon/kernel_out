@@ -1,0 +1,1 @@
+cmd_usr/include/linux/membarrier.h := sh /home/rayan/r/kernel/nothing/sm7325/scripts/headers_install.sh /home/rayan/r/kernel/nothing/sm7325/include/uapi/linux/membarrier.h usr/include/linux/membarrier.h

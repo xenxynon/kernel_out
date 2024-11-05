@@ -1,0 +1,1 @@
+cmd_net/netlink/built-in.a := rm -f net/netlink/built-in.a.symversions; for i in  net/netlink/af_netlink.o  net/netlink/genetlink.o; do cat $$i.symversions >> net/netlink/built-in.a.symversions; done; rm -f net/netlink/built-in.a; /home/rayan/r/prebuilts/clang/host/linux-x86/clang-r522817/bin/llvm-ar cDPrST net/netlink/built-in.a net/netlink/af_netlink.o net/netlink/genetlink.o

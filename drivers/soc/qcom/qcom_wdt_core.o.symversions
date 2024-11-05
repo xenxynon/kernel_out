@@ -1,0 +1,5 @@
+__crc_qcom_wdt_pet_suspend = 0x0d95f28a;
+__crc_qcom_wdt_pet_resume = 0x005729a8;
+__crc_qcom_wdt_remove = 0x185ff05e;
+__crc_qcom_wdt_trigger_bite = 0x1797245e;
+__crc_qcom_wdt_register = 0xa27596cf;

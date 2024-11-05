@@ -1,0 +1,7 @@
+__crc_usb_descriptor_fillbuf = 0xd2ea2134;
+__crc_usb_gadget_config_buf = 0xf474a207;
+__crc_usb_copy_descriptors = 0x2e09263f;
+__crc_usb_assign_descriptors = 0xcedd4f52;
+__crc_usb_free_all_descriptors = 0xcde90535;
+__crc_usb_otg_descriptor_alloc = 0xca85ed8c;
+__crc_usb_otg_descriptor_init = 0x99e3bc4d;

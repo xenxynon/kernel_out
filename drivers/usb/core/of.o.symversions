@@ -1,0 +1,3 @@
+__crc_usb_of_get_device_node = 0x84f706b4;
+__crc_usb_of_has_combined_node = 0xab53f01e;
+__crc_usb_of_get_interface_node = 0xcf623613;

@@ -1,0 +1,8 @@
+__crc_cleancache_register_ops = 0x8c2deb9c;
+__crc___cleancache_init_fs = 0x154489ab;
+__crc___cleancache_init_shared_fs = 0x96dee70c;
+__crc___cleancache_get_page = 0x24d9bac3;
+__crc___cleancache_put_page = 0xc5287ec2;
+__crc___cleancache_invalidate_page = 0x7e4f7b06;
+__crc___cleancache_invalidate_inode = 0xd74850f3;
+__crc___cleancache_invalidate_fs = 0x67768b05;

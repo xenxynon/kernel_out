@@ -1,0 +1,1 @@
+cmd_fs/tracefs/built-in.a := rm -f fs/tracefs/built-in.a.symversions; for i in  ; do cat $$i.symversions >> fs/tracefs/built-in.a.symversions; done; rm -f fs/tracefs/built-in.a; /home/rayan/r/prebuilts/clang/host/linux-x86/clang-r522817/bin/llvm-ar cDPrST fs/tracefs/built-in.a fs/tracefs/inode.o

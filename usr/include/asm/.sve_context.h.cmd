@@ -1,0 +1,1 @@
+cmd_usr/include/asm/sve_context.h := sh /home/rayan/r/kernel/nothing/sm7325/scripts/headers_install.sh /home/rayan/r/kernel/nothing/sm7325/arch/arm64/include/uapi/asm/sve_context.h usr/include/asm/sve_context.h

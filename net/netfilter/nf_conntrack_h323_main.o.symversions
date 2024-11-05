@@ -1,0 +1,10 @@
+__crc_get_h225_addr = 0xc2cb0675;
+__crc_set_h245_addr_hook = 0xe775aa03;
+__crc_set_h225_addr_hook = 0xff16c835;
+__crc_set_sig_addr_hook = 0xb046da70;
+__crc_set_ras_addr_hook = 0xc371b5d6;
+__crc_nat_rtp_rtcp_hook = 0x7b37c48c;
+__crc_nat_t120_hook = 0x7797e351;
+__crc_nat_h245_hook = 0xc2d99d99;
+__crc_nat_callforwarding_hook = 0xacba1f55;
+__crc_nat_q931_hook = 0x8947de4f;

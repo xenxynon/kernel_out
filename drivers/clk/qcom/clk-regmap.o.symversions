@@ -1,0 +1,12 @@
+__crc_clk_is_enabled_regmap = 0x0c7012be;
+__crc_clk_enable_regmap = 0x51a4ae5b;
+__crc_clk_disable_regmap = 0x06718a9c;
+__crc_clk_pre_change_regmap = 0xe65c95e3;
+__crc_clk_post_change_regmap = 0x9a7fe912;
+__crc_clk_prepare_regmap = 0xb51a4e38;
+__crc_clk_unprepare_regmap = 0x05625ae4;
+__crc_clk_is_regmap_clk = 0x089dcaa9;
+__crc_devm_clk_register_regmap = 0x7298ed79;
+__crc_devm_clk_regmap_list_node = 0x09753056;
+__crc_clk_runtime_get_regmap = 0x1f1f696a;
+__crc_clk_runtime_put_regmap = 0xb1bc0bc8;

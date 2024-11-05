@@ -1,0 +1,5 @@
+__crc_xhci_pci_setup = 0xb31cfcfa;
+__crc_xhci_pci_probe = 0xdebe4d0b;
+__crc_xhci_pci_remove = 0xae43c1b6;
+__crc_xhci_pci_suspend = 0xdbf639d9;
+__crc_xhci_pci_resume = 0x441aab1b;

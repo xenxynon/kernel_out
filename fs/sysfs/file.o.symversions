@@ -1,0 +1,14 @@
+__crc_sysfs_notify = 0xe0fd482a;
+__crc_sysfs_create_file_ns = 0x2d01d114;
+__crc_sysfs_create_files = 0xc67e96c7;
+__crc_sysfs_add_file_to_group = 0x6f0b24c1;
+__crc_sysfs_chmod_file = 0x9b0789fd;
+__crc_sysfs_break_active_protection = 0xe9528e36;
+__crc_sysfs_unbreak_active_protection = 0x03e03929;
+__crc_sysfs_remove_file_ns = 0xfd24b61b;
+__crc_sysfs_remove_files = 0xa0a34acd;
+__crc_sysfs_remove_file_from_group = 0x31616c90;
+__crc_sysfs_create_bin_file = 0x891cf9ee;
+__crc_sysfs_remove_bin_file = 0x52fb3934;
+__crc_sysfs_emit = 0xe783e261;
+__crc_sysfs_emit_at = 0x99f2d00a;

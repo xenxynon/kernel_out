@@ -1,0 +1,4 @@
+__crc_fscrypt_ioctl_add_key = 0x63cf238d;
+__crc_fscrypt_ioctl_remove_key = 0xbcd93763;
+__crc_fscrypt_ioctl_remove_key_all_users = 0xe9b0e014;
+__crc_fscrypt_ioctl_get_key_status = 0x6e277eb2;

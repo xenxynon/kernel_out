@@ -1,0 +1,6 @@
+__crc_qcom_icc_pre_aggregate = 0x950805b0;
+__crc_qcom_icc_aggregate = 0x7aa67d2f;
+__crc_qcom_icc_set = 0x5ae3371c;
+__crc_qcom_icc_bcm_init = 0x4fbe10dc;
+__crc_qcom_icc_enable_qos_deps = 0xf6a85f82;
+__crc_qcom_icc_disable_qos_deps = 0xf63d54a1;

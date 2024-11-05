@@ -1,0 +1,1 @@
+cmd_usr/include/linux/spss_utils.h := sh /home/rayan/r/kernel/nothing/sm7325/scripts/headers_install.sh /home/rayan/r/kernel/nothing/sm7325/include/uapi/linux/spss_utils.h usr/include/linux/spss_utils.h

@@ -1,0 +1,21 @@
+!<thin>
+//                                              288       `
+phy-core.o/
+qualcomm/phy-qcom-ufs.o/
+qualcomm/phy-qcom-ufs-qmp-v4-yupik.o/
+qualcomm/phy-qcom-ufs-qmp-v4-lahaina.o/
+qualcomm/phy-qcom-ufs-qmp-v4.o/
+qualcomm/phy-qcom-ufs-qmp-v3.o/
+qualcomm/phy-qcom-ufs-qmp-v3-660.o/
+qualcomm/phy-qcom-ufs-qmp-14nm.o/
+qualcomm/phy-qcom-ufs-qrbtc-sdm845.o/
+
+/0              0           0     0     644     62196     `
+/12             0           0     0     644     44868     `
+/37             0           0     0     644     21588     `
+/75             0           0     0     644     21736     `
+/115            0           0     0     644     21288     `
+/147            0           0     0     644     19748     `
+/179            0           0     0     644     18892     `
+/215            0           0     0     644     15552     `
+/249            0           0     0     644     14776     `

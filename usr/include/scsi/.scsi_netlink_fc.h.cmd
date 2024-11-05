@@ -1,0 +1,1 @@
+cmd_usr/include/scsi/scsi_netlink_fc.h := sh /home/rayan/r/kernel/nothing/sm7325/scripts/headers_install.sh /home/rayan/r/kernel/nothing/sm7325/include/uapi/scsi/scsi_netlink_fc.h usr/include/scsi/scsi_netlink_fc.h

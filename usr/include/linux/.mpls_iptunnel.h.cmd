@@ -1,0 +1,1 @@
+cmd_usr/include/linux/mpls_iptunnel.h := sh /home/rayan/r/kernel/nothing/sm7325/scripts/headers_install.sh /home/rayan/r/kernel/nothing/sm7325/include/uapi/linux/mpls_iptunnel.h usr/include/linux/mpls_iptunnel.h

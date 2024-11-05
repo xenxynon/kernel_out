@@ -1,0 +1,1 @@
+cmd_usr/include/linux/selinux_netlink.h := sh /home/rayan/r/kernel/nothing/sm7325/scripts/headers_install.sh /home/rayan/r/kernel/nothing/sm7325/include/uapi/linux/selinux_netlink.h usr/include/linux/selinux_netlink.h

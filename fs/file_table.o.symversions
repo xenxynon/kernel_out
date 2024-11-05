@@ -1,0 +1,5 @@
+__crc_get_max_files = 0x8abacc47;
+__crc_alloc_file_pseudo = 0x95251b80;
+__crc_flush_delayed_fput = 0x55339365;
+__crc_fput = 0x51799672;
+__crc___fput_sync = 0x5217d957;

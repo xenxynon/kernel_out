@@ -1,0 +1,1 @@
+cmd_drivers/platform/built-in.a := rm -f drivers/platform/built-in.a.symversions; for i in  drivers/platform/msm/built-in.a; do cat $$i.symversions >> drivers/platform/built-in.a.symversions; done; rm -f drivers/platform/built-in.a; /home/rayan/r/prebuilts/clang/host/linux-x86/clang-r522817/bin/llvm-ar cDPrST drivers/platform/built-in.a drivers/platform/msm/built-in.a

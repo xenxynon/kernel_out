@@ -1,0 +1,6 @@
+__crc_drm_plane_enable_fb_damage_clips = 0xaa198564;
+__crc_drm_atomic_helper_check_plane_damage = 0x19693875;
+__crc_drm_atomic_helper_dirtyfb = 0x2c64e8eb;
+__crc_drm_atomic_helper_damage_iter_init = 0x50d17ef5;
+__crc_drm_atomic_helper_damage_iter_next = 0x6b5c2b06;
+__crc_drm_atomic_helper_damage_merged = 0x4ec83995;

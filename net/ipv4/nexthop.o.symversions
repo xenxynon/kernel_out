@@ -1,0 +1,5 @@
+__crc_nexthop_free_rcu = 0xe05e2f85;
+__crc_nexthop_find_by_id = 0x6df3c459;
+__crc_nexthop_select_path = 0x7a4d6a7d;
+__crc_nexthop_for_each_fib6_nh = 0x5d0e7649;
+__crc_fib6_check_nexthop = 0xc6336b9e;

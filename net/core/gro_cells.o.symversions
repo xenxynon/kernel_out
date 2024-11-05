@@ -1,0 +1,3 @@
+__crc_gro_cells_receive = 0x556998f9;
+__crc_gro_cells_init = 0x01cc078c;
+__crc_gro_cells_destroy = 0x9f54ead7;

@@ -1,0 +1,1 @@
+cmd_usr/include/linux/fips_status.h := sh /home/rayan/r/kernel/nothing/sm7325/scripts/headers_install.sh /home/rayan/r/kernel/nothing/sm7325/include/uapi/linux/fips_status.h usr/include/linux/fips_status.h

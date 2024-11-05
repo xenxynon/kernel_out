@@ -1,0 +1,8 @@
+__crc_get_unused_fd_flags = 0xa843805a;
+__crc_put_unused_fd = 0x3f4547a7;
+__crc_fd_install = 0xec9674e7;
+__crc___close_fd = 0x6c683a37;
+__crc_fget = 0xc7e09206;
+__crc_fget_raw = 0xad11dfd5;
+__crc___fdget = 0xc1d8cfaf;
+__crc_iterate_fd = 0x36a9209d;

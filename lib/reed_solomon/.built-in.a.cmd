@@ -1,0 +1,1 @@
+cmd_lib/reed_solomon/built-in.a := rm -f lib/reed_solomon/built-in.a.symversions; for i in  lib/reed_solomon/reed_solomon.o; do cat $$i.symversions >> lib/reed_solomon/built-in.a.symversions; done; rm -f lib/reed_solomon/built-in.a; /home/rayan/r/prebuilts/clang/host/linux-x86/clang-r522817/bin/llvm-ar cDPrST lib/reed_solomon/built-in.a lib/reed_solomon/reed_solomon.o

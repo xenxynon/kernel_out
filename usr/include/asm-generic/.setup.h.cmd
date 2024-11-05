@@ -1,0 +1,1 @@
+cmd_usr/include/asm-generic/setup.h := sh /home/rayan/r/kernel/nothing/sm7325/scripts/headers_install.sh /home/rayan/r/kernel/nothing/sm7325/include/uapi/asm-generic/setup.h usr/include/asm-generic/setup.h

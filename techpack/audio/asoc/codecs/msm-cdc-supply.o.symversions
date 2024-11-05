@@ -1,0 +1,13 @@
+__crc_msm_cdc_is_ondemand_supply = 0x05c03c85;
+__crc_msm_cdc_set_supply_min_voltage = 0xf055ddd1;
+__crc_msm_cdc_disable_ondemand_supply = 0x4609d917;
+__crc_msm_cdc_enable_ondemand_supply = 0xbd73022d;
+__crc_msm_cdc_set_supplies_lpm_mode = 0xbe931576;
+__crc_msm_cdc_disable_static_supplies = 0xe94acfdd;
+__crc_msm_cdc_release_supplies = 0x3365c0a9;
+__crc_msm_cdc_enable_static_supplies = 0xa4fe7a71;
+__crc_msm_cdc_init_supplies = 0x3d7bf19c;
+__crc_msm_cdc_init_supplies_v2 = 0x5a82a4dc;
+__crc_msm_cdc_get_power_supplies = 0xa0fc3a0a;
+__crc_msm_cdc_init_wcd_supply = 0x9fb0fa10;
+__crc_msm_cdc_enable_wcd_supply = 0x7d38bcd1;

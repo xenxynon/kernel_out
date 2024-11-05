@@ -1,0 +1,6 @@
+__crc_clk_pll_ops = 0x1c32b55c;
+__crc_clk_pll_vote_ops = 0x5db4a8c2;
+__crc_clk_pll_configure_sr = 0x5f418cef;
+__crc_clk_pll_configure_sr_hpm_lp = 0xa3705cc6;
+__crc_clk_pll_sr2_ops = 0x91be45a1;
+__crc_clk_pll_hf_ops = 0x7761326c;

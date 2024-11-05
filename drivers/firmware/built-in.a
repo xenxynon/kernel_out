@@ -1,0 +1,57 @@
+!<thin>
+//                                              452       `
+arm_scpi.o/
+qcom_scm.o/
+qcom_scm-smc.o/
+qtee_shmbridge.o/
+arm_scmi/bus.o/
+arm_scmi/driver.o/
+arm_scmi/base.o/
+arm_scmi/clock.o/
+arm_scmi/perf.o/
+arm_scmi/power.o/
+arm_scmi/reset.o/
+arm_scmi/sensors.o/
+arm_scmi/memlat_vendor.o/
+arm_scmi/plh_vendor.o/
+psci/psci.o/
+efi/efi.o/
+efi/vars.o/
+efi/reboot.o/
+efi/memattr.o/
+efi/tpm.o/
+efi/capsule.o/
+efi/memmap.o/
+efi/esrt.o/
+efi/runtime-wrappers.o/
+efi/libstub/lib-ksyms.o/
+efi/arm-init.o/
+efi/arm-runtime.o/
+
+/0              0           0     0     644     50608     `
+/12             0           0     0     644     133888    `
+/24             0           0     0     644     86216     `
+/40             0           0     0     644     36080     `
+/58             0           0     0     644     23240     `
+/74             0           0     0     644     42112     `
+/93             0           0     0     644     11620     `
+/110            0           0     0     644     13504     `
+/128            0           0     0     644     24008     `
+/145            0           0     0     644     9680      `
+/163            0           0     0     644     10324     `
+/181            0           0     0     644     11388     `
+/201            0           0     0     644     11740     `
+/227            0           0     0     644     7872      `
+/250            0           0     0     644     29016     `
+/263            0           0     0     644     52436     `
+/274            0           0     0     644     49572     `
+/286            0           0     0     644     10788     `
+/300            0           0     0     644     13364     `
+/315            0           0     0     644     11344     `
+/326            0           0     0     644     18552     `
+/341            0           0     0     644     19912     `
+/355            0           0     0     644     28256     `
+/367            0           0     0     644     33904     `
+/391            0           0     0     644     552       `
+/416            0           0     0     644     19284     `
+/432            0           0     0     644     25292     `

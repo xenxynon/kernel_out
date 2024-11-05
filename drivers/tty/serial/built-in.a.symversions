@@ -1,0 +1,16 @@
+__crc_uart_update_timeout = 0x93e8618a;
+__crc_uart_get_baud_rate = 0x5106454e;
+__crc_uart_get_divisor = 0xc3f81293;
+__crc_uart_console_device = 0x8d4a4e9f;
+__crc_uart_match_port = 0x7847a811;
+__crc_uart_handle_dcd_change = 0xa3d21452;
+__crc_uart_handle_cts_change = 0x74c24550;
+__crc_uart_insert_char = 0x7a963ab3;
+__crc_uart_write_wakeup = 0x9dcfb751;
+__crc_uart_register_driver = 0x51bbef1f;
+__crc_uart_unregister_driver = 0x838adba4;
+__crc_uart_suspend_port = 0x48365f4b;
+__crc_uart_resume_port = 0x61e846e8;
+__crc_uart_add_one_port = 0x2917327a;
+__crc_uart_remove_one_port = 0x28b92132;
+__crc_uart_get_rs485_mode = 0xc59632a9;

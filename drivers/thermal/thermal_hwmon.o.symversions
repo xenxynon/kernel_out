@@ -1,0 +1,2 @@
+__crc_thermal_add_hwmon_sysfs = 0x867d9d2d;
+__crc_thermal_remove_hwmon_sysfs = 0x09a47a8b;

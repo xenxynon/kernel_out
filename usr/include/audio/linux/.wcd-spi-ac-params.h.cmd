@@ -1,0 +1,1 @@
+cmd_usr/include/audio/linux/wcd-spi-ac-params.h := sh /home/rayan/r/kernel/nothing/sm7325/scripts/headers_install.sh /home/rayan/r/kernel/nothing/sm7325/techpack/audio/include/uapi/audio/linux/wcd-spi-ac-params.h usr/include/audio/linux/wcd-spi-ac-params.h

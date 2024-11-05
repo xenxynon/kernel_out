@@ -1,0 +1,7 @@
+__crc_gspca_debug = 0x9670af2c;
+__crc_gspca_frame_add = 0x5af3c459;
+__crc_gspca_dev_probe2 = 0xf7e9407d;
+__crc_gspca_dev_probe = 0xe6d4258b;
+__crc_gspca_disconnect = 0x2abfafd9;
+__crc_gspca_suspend = 0x42422acd;
+__crc_gspca_resume = 0x2ed53e06;

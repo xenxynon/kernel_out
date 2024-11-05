@@ -1,0 +1,4 @@
+__crc_usb_ep_autoconfig_ss = 0x9742715e;
+__crc_usb_ep_autoconfig = 0x0f586cdd;
+__crc_usb_ep_autoconfig_release = 0xd5fdbdc1;
+__crc_usb_ep_autoconfig_reset = 0x33af31b4;

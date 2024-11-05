@@ -1,0 +1,1 @@
+cmd_fs/exportfs/built-in.a := rm -f fs/exportfs/built-in.a.symversions; for i in  fs/exportfs/expfs.o; do cat $$i.symversions >> fs/exportfs/built-in.a.symversions; done; rm -f fs/exportfs/built-in.a; /home/rayan/r/prebuilts/clang/host/linux-x86/clang-r522817/bin/llvm-ar cDPrST fs/exportfs/built-in.a fs/exportfs/expfs.o

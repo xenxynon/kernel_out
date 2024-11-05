@@ -1,0 +1,1 @@
+cmd_usr/include/linux/vm_sockets.h := sh /home/rayan/r/kernel/nothing/sm7325/scripts/headers_install.sh /home/rayan/r/kernel/nothing/sm7325/include/uapi/linux/vm_sockets.h usr/include/linux/vm_sockets.h

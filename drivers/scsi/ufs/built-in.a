@@ -1,0 +1,28 @@
+!<thin>
+//                                              190       `
+tc-dwc-g210-pltfrm.o/
+ufshcd-dwc.o/
+tc-dwc-g210.o/
+ufs-qcom.o/
+ufshcd.o/
+ufs-sysfs.o/
+ufs_bsg.o/
+ufsfeature.o/
+ufshid.o/
+ufshcd-crypto.o/
+ufshcd-pci.o/
+ufshcd-pltfrm.o/
+ufshcd-crypto-qti.o/
+/0              0           0     0     644     10440     `
+/22             0           0     0     644     12608     `
+/36             0           0     0     644     12900     `
+/51             0           0     0     644     144032    `
+/63             0           0     0     644     365464    `
+/73             0           0     0     644     153740    `
+/86             0           0     0     644     18900     `
+/97             0           0     0     644     16688     `
+/111            0           0     0     644     52080     `
+/121            0           0     0     644     32780     `
+/138            0           0     0     644     16520     `
+/152            0           0     0     644     30008     `
+/169            0           0     0     644     22608     `

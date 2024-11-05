@@ -1,0 +1,1 @@
+cmd_net/802/built-in.a := rm -f net/802/built-in.a.symversions; for i in  net/802/p8022.o  net/802/psnap.o  net/802/stp.o; do cat $$i.symversions >> net/802/built-in.a.symversions; done; rm -f net/802/built-in.a; /home/rayan/r/prebuilts/clang/host/linux-x86/clang-r522817/bin/llvm-ar cDPrST net/802/built-in.a net/802/p8022.o net/802/psnap.o net/802/stp.o

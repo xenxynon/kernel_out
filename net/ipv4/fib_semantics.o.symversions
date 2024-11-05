@@ -1,0 +1,5 @@
+__crc_fib_nh_common_release = 0xbc1fbad9;
+__crc_free_fib_info = 0x80b1feb8;
+__crc_fib_nh_common_init = 0xc956e178;
+__crc_fib_nexthop_info = 0xd2e9cad2;
+__crc_fib_add_nexthop = 0x38341a9e;

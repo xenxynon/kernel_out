@@ -1,0 +1,3 @@
+__crc_ipv6_flowlabel_exclusive = 0xc6a38448;
+__crc___fl6_sock_lookup = 0xd1f8b4cb;
+__crc_fl6_merge_options = 0x12fd0195;

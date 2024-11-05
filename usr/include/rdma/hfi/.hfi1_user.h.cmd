@@ -1,0 +1,1 @@
+cmd_usr/include/rdma/hfi/hfi1_user.h := sh /home/rayan/r/kernel/nothing/sm7325/scripts/headers_install.sh /home/rayan/r/kernel/nothing/sm7325/include/uapi/rdma/hfi/hfi1_user.h usr/include/rdma/hfi/hfi1_user.h

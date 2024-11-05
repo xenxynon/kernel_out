@@ -1,0 +1,1 @@
+cmd_usr/include/vidc/media/msm_vidc_utils.h := sh /home/rayan/r/kernel/nothing/sm7325/scripts/headers_install.sh /home/rayan/r/kernel/nothing/sm7325/techpack/video/include/uapi/vidc/media/msm_vidc_utils.h usr/include/vidc/media/msm_vidc_utils.h

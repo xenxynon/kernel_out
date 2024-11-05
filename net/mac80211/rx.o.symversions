@@ -1,0 +1,6 @@
+__crc_ieee80211_sta_ps_transition = 0x13b52f69;
+__crc_ieee80211_sta_pspoll = 0x60d01945;
+__crc_ieee80211_sta_uapsd_trigger = 0x9c23ef80;
+__crc_ieee80211_mark_rx_ba_filtered_frames = 0x8bd90fc6;
+__crc_ieee80211_rx_napi = 0x49439d0f;
+__crc_ieee80211_rx_irqsafe = 0x2563f3df;

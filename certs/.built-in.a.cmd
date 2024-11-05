@@ -1,0 +1,1 @@
+cmd_certs/built-in.a := rm -f certs/built-in.a.symversions; for i in  certs/system_keyring.o    ; do cat $$i.symversions >> certs/built-in.a.symversions; done; rm -f certs/built-in.a; /home/rayan/r/prebuilts/clang/host/linux-x86/clang-r522817/bin/llvm-ar cDPrST certs/built-in.a certs/system_keyring.o certs/system_certificates.o certs/common.o

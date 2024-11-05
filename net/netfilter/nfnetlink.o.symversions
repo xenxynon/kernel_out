@@ -1,0 +1,8 @@
+__crc_nfnl_lock = 0x5ce3b588;
+__crc_nfnl_unlock = 0xdb065657;
+__crc_nfnetlink_subsys_register = 0xbf20f4b3;
+__crc_nfnetlink_subsys_unregister = 0xda76c1f3;
+__crc_nfnetlink_has_listeners = 0x92e8a94e;
+__crc_nfnetlink_send = 0x9666523f;
+__crc_nfnetlink_set_err = 0xc080af78;
+__crc_nfnetlink_unicast = 0x6289a52d;

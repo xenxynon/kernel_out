@@ -1,0 +1,52 @@
+!<thin>
+//                                              352       `
+common.o/
+vdd-class.o/
+clk-regmap.o/
+clk-alpha-pll.o/
+clk-opp.o/
+clk-pll.o/
+clk-rcg.o/
+clk-rcg2.o/
+clk-branch.o/
+clk-regmap-divider.o/
+clk-regmap-mux.o/
+clk-regmap-mux-div.o/
+clk-hfpll.o/
+reset.o/
+clk-debug.o/
+gdsc-regulator.o/
+gdsc.o/
+clk-dummy.o/
+clk-aop-qmp.o/
+clk-rpmh.o/
+camcc-yupik.o/
+dispcc-yupik.o/
+gcc-yupik.o/
+gpucc-yupik.o/
+videocc-yupik.o/
+/0              0           0     0     644     41700     `
+/10             0           0     0     644     16632     `
+/23             0           0     0     644     22672     `
+/37             0           0     0     644     140408    `
+/54             0           0     0     644     16864     `
+/65             0           0     0     644     25128     `
+/76             0           0     0     644     32724     `
+/87             0           0     0     644     60088     `
+/99             0           0     0     644     25612     `
+/113            0           0     0     644     14512     `
+/135            0           0     0     644     9452      `
+/153            0           0     0     644     18356     `
+/175            0           0     0     644     15720     `
+/188            0           0     0     644     9676      `
+/197            0           0     0     644     21648     `
+/210            0           0     0     644     42396     `
+/228            0           0     0     644     16560     `
+/236            0           0     0     644     19624     `
+/249            0           0     0     644     18700     `
+/264            0           0     0     644     39984     `
+/276            0           0     0     644     59172     `
+/291            0           0     0     644     29844     `
+/307            0           0     0     644     75888     `
+/320            0           0     0     644     19548     `
+/335            0           0     0     644     16948     `

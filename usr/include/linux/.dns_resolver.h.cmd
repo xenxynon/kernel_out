@@ -1,0 +1,1 @@
+cmd_usr/include/linux/dns_resolver.h := sh /home/rayan/r/kernel/nothing/sm7325/scripts/headers_install.sh /home/rayan/r/kernel/nothing/sm7325/include/uapi/linux/dns_resolver.h usr/include/linux/dns_resolver.h

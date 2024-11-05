@@ -1,0 +1,7 @@
+__crc_crypto_alloc_acomp = 0xc6b3f93d;
+__crc_acomp_request_alloc = 0x70e8c3ff;
+__crc_acomp_request_free = 0x008cafcf;
+__crc_crypto_register_acomp = 0x3f651b8b;
+__crc_crypto_unregister_acomp = 0x39d415fa;
+__crc_crypto_register_acomps = 0xf51585d7;
+__crc_crypto_unregister_acomps = 0x9c318d2a;

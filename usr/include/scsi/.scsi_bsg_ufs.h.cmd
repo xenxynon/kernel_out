@@ -1,0 +1,1 @@
+cmd_usr/include/scsi/scsi_bsg_ufs.h := sh /home/rayan/r/kernel/nothing/sm7325/scripts/headers_install.sh /home/rayan/r/kernel/nothing/sm7325/include/uapi/scsi/scsi_bsg_ufs.h usr/include/scsi/scsi_bsg_ufs.h

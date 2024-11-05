@@ -1,0 +1,7 @@
+__crc_fib_new_table = 0x79f444a0;
+__crc_inet_addr_type_table = 0xc6b4333d;
+__crc_inet_addr_type = 0x553416d1;
+__crc_inet_dev_addr_type = 0x2c5dacb8;
+__crc_inet_addr_type_dev_table = 0xa756bd47;
+__crc_fib_info_nh_uses_dev = 0x2b2e0634;
+__crc_ip_valid_fib_dump_req = 0xc418e80c;

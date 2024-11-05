@@ -1,0 +1,1 @@
+cmd_drivers/hwmon/built-in.a := rm -f drivers/hwmon/built-in.a.symversions; for i in  drivers/hwmon/hwmon.o  ; do cat $$i.symversions >> drivers/hwmon/built-in.a.symversions; done; rm -f drivers/hwmon/built-in.a; /home/rayan/r/prebuilts/clang/host/linux-x86/clang-r522817/bin/llvm-ar cDPrST drivers/hwmon/built-in.a drivers/hwmon/hwmon.o drivers/hwmon/qti_amoled_ecm.o

@@ -1,0 +1,1 @@
+cmd_usr/include/linux/v4l2-subdev.h := sh /home/rayan/r/kernel/nothing/sm7325/scripts/headers_install.sh /home/rayan/r/kernel/nothing/sm7325/include/uapi/linux/v4l2-subdev.h usr/include/linux/v4l2-subdev.h

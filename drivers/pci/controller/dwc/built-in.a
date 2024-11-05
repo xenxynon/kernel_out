@@ -1,0 +1,18 @@
+!<thin>
+//                                              140       `
+pcie-designware.o/
+pcie-designware-host.o/
+pcie-designware-ep.o/
+pcie-designware-plat.o/
+pcie-qcom.o/
+pcie-kirin.o/
+pcie-al.o/
+pcie-hisi.o/
+/0              0           0     0     644     52052     `
+/19             0           0     0     644     46916     `
+/43             0           0     0     644     36780     `
+/65             0           0     0     644     11696     `
+/89             0           0     0     644     48656     `
+/102            0           0     0     644     22088     `
+/116            0           0     0     644     3276      `
+/127            0           0     0     644     3280      `

@@ -1,0 +1,2 @@
+__crc_xfrm6_protocol_register = 0xeb47415e;
+__crc_xfrm6_protocol_deregister = 0x724a38cb;

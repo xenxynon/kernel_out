@@ -1,0 +1,1 @@
+cmd_usr/include/asm/bpf_perf_event.h := sh /home/rayan/r/kernel/nothing/sm7325/scripts/headers_install.sh /home/rayan/r/kernel/nothing/sm7325/arch/arm64/include/uapi/asm/bpf_perf_event.h usr/include/asm/bpf_perf_event.h

@@ -1,0 +1,2 @@
+__crc_iommu_logger_register = 0x0c2d7349;
+__crc_iommu_logger_unregister = 0x87bc81d7;

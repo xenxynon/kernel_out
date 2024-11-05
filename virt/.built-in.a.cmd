@@ -1,0 +1,1 @@
+cmd_virt/built-in.a := rm -f virt/built-in.a.symversions; for i in  ; do cat $$i.symversions >> virt/built-in.a.symversions; done; rm -f virt/built-in.a; /home/rayan/r/prebuilts/clang/host/linux-x86/clang-r522817/bin/llvm-ar cDPrST virt/built-in.a virt/lib/built-in.a

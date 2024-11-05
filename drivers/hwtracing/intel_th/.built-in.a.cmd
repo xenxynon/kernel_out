@@ -1,0 +1,1 @@
+cmd_drivers/hwtracing/intel_th/built-in.a := rm -f drivers/hwtracing/intel_th/built-in.a.symversions; for i in ; do cat $$i.symversions >> drivers/hwtracing/intel_th/built-in.a.symversions; done; rm -f drivers/hwtracing/intel_th/built-in.a; /home/rayan/r/prebuilts/clang/host/linux-x86/clang-r522817/bin/llvm-ar cDPrST drivers/hwtracing/intel_th/built-in.a 

@@ -1,0 +1,1 @@
+cmd_drivers/idle/built-in.a := rm -f drivers/idle/built-in.a.symversions; for i in ; do cat $$i.symversions >> drivers/idle/built-in.a.symversions; done; rm -f drivers/idle/built-in.a; /home/rayan/r/prebuilts/clang/host/linux-x86/clang-r522817/bin/llvm-ar cDPrST drivers/idle/built-in.a 

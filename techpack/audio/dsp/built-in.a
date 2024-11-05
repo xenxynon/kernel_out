@@ -1,0 +1,97 @@
+!<thin>
+//                                              876       `
+codecs/q6audio_v2.o/
+codecs/q6audio_v2_aio.o/
+codecs/audio_utils_aio.o/
+codecs/audio_utils.o/
+codecs/audio_native.o/
+codecs/aac_in.o/
+codecs/amrnb_in.o/
+codecs/amrwb_in.o/
+codecs/audio_aac.o/
+codecs/audio_alac.o/
+codecs/audio_amrnb.o/
+codecs/audio_amrwb.o/
+codecs/audio_amrwbplus.o/
+codecs/audio_ape.o/
+codecs/audio_evrc.o/
+codecs/audio_g711alaw.o/
+codecs/audio_g711mlaw.o/
+codecs/audio_hwacc_effects.o/
+codecs/audio_mp3.o/
+codecs/audio_multi_aac.o/
+codecs/audio_qcelp.o/
+codecs/audio_wma.o/
+codecs/audio_wmapro.o/
+codecs/evrc_in.o/
+codecs/g711alaw_in.o/
+codecs/g711mlaw_in.o/
+codecs/qcelp_in.o/
+msm-audio-event-notify.o/
+audio_calibration.o/
+audio_cal_utils.o/
+q6adm.o/
+q6afe.o/
+q6asm.o/
+q6audio-v2.o/
+q6voice.o/
+q6core.o/
+q6common.o/
+rtac.o/
+q6lsm.o/
+adsp_err.o/
+msm_audio_ion.o/
+q6_init.o/
+digital-cdc-rsc-mgr.o/
+adsp-loader.o/
+audio_pdr.o/
+audio_notifier.o/
+audio_ssr.o/
+
+/0              0           0     0     644     11412     `
+/21             0           0     0     644     14724     `
+/46             0           0     0     644     73720     `
+/72             0           0     0     644     46048     `
+/94             0           0     0     644     12888     `
+/117            0           0     0     644     43076     `
+/134            0           0     0     644     39088     `
+/153            0           0     0     644     38832     `
+/172            0           0     0     644     39280     `
+/192            0           0     0     644     38972     `
+/213            0           0     0     644     17044     `
+/235            0           0     0     644     16564     `
+/257            0           0     0     644     36948     `
+/283            0           0     0     644     37608     `
+/303            0           0     0     644     15924     `
+/324            0           0     0     644     38624     `
+/349            0           0     0     644     38576     `
+/374            0           0     0     644     52472     `
+/404            0           0     0     644     16356     `
+/424            0           0     0     644     40032     `
+/450            0           0     0     644     15524     `
+/472            0           0     0     644     36812     `
+/492            0           0     0     644     38048     `
+/515            0           0     0     644     38980     `
+/533            0           0     0     644     37860     `
+/555            0           0     0     644     37860     `
+/577            0           0     0     644     39028     `
+/596            0           0     0     644     13516     `
+/622            0           0     0     644     39956     `
+/643            0           0     0     644     34916     `
+/662            0           0     0     644     168756    `
+/671            0           0     0     644     315896    `
+/680            0           0     0     644     331084    `
+/689            0           0     0     644     20924     `
+/703            0           0     0     644     243604    `
+/714            0           0     0     644     80752     `
+/724            0           0     0     644     12548     `
+/736            0           0     0     644     77268     `
+/744            0           0     0     644     106392    `
+/753            0           0     0     644     9324      `
+/765            0           0     0     644     40612     `
+/782            0           0     0     644     6860      `
+/793            0           0     0     644     13668     `
+/816            0           0     0     644     20312     `
+/831            0           0     0     644     17976     `
+/844            0           0     0     644     26276     `
+/862            0           0     0     644     9188      `

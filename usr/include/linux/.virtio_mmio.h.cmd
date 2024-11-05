@@ -1,0 +1,1 @@
+cmd_usr/include/linux/virtio_mmio.h := sh /home/rayan/r/kernel/nothing/sm7325/scripts/headers_install.sh /home/rayan/r/kernel/nothing/sm7325/include/uapi/linux/virtio_mmio.h usr/include/linux/virtio_mmio.h

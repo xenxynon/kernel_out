@@ -1,0 +1,3 @@
+__crc_get_compat_bpf_fprog = 0x93922111;
+__crc_compat_mc_setsockopt = 0xb4b065cb;
+__crc_compat_mc_getsockopt = 0xdf3c8517;

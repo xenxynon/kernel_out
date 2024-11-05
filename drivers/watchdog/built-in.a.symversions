@@ -1,0 +1,5 @@
+__crc_watchdog_init_timeout = 0x7e0bb5e1;
+__crc_watchdog_set_restart_priority = 0x4cbec7f7;
+__crc_watchdog_register_device = 0x1b8b7c5b;
+__crc_watchdog_unregister_device = 0x6ecbb808;
+__crc_devm_watchdog_register_device = 0x6e91e906;

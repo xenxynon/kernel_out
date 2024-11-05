@@ -1,0 +1,6 @@
+__crc_u_audio_start_capture = 0x30bd4547;
+__crc_u_audio_stop_capture = 0x4a008601;
+__crc_u_audio_start_playback = 0x8bbd40e3;
+__crc_u_audio_stop_playback = 0x14781985;
+__crc_g_audio_setup = 0x0cc50ebd;
+__crc_g_audio_cleanup = 0x36e33572;

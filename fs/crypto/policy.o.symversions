@@ -1,0 +1,8 @@
+__crc_fscrypt_ioctl_set_policy = 0x2e93172f;
+__crc_fscrypt_ioctl_get_policy = 0x6fec0150;
+__crc_fscrypt_ioctl_get_policy_ex = 0xd93990bf;
+__crc_fscrypt_ioctl_get_nonce = 0x14c9b59d;
+__crc_fscrypt_has_permitted_context = 0xb34d6d9a;
+__crc_fscrypt_inherit_context = 0xc638779f;
+__crc_fscrypt_set_test_dummy_encryption = 0x7f2c94e7;
+__crc_fscrypt_show_test_dummy_encryption = 0x2d617f3d;

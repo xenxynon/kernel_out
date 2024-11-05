@@ -1,0 +1,5 @@
+__crc_ieee80211_restart_hw = 0xf89b7633;
+__crc_ieee80211_alloc_hw_nm = 0x1bf4a104;
+__crc_ieee80211_register_hw = 0x193e9d3e;
+__crc_ieee80211_unregister_hw = 0xff18cf20;
+__crc_ieee80211_free_hw = 0x8f5adad0;

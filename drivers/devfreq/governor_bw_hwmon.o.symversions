@@ -1,0 +1,3 @@
+__crc_bw_hwmon_sample_end = 0xce2861b7;
+__crc_update_bw_hwmon = 0xeec0c767;
+__crc_register_bw_hwmon = 0xbbd217aa;

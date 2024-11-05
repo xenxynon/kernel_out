@@ -1,0 +1,1 @@
+cmd_drivers/usb/gadget/legacy/built-in.a := rm -f drivers/usb/gadget/legacy/built-in.a.symversions; for i in ; do cat $$i.symversions >> drivers/usb/gadget/legacy/built-in.a.symversions; done; rm -f drivers/usb/gadget/legacy/built-in.a; /home/rayan/r/prebuilts/clang/host/linux-x86/clang-r522817/bin/llvm-ar cDPrST drivers/usb/gadget/legacy/built-in.a 

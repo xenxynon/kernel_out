@@ -1,0 +1,5 @@
+__crc___inet6_lookup_established = 0x1c42171e;
+__crc_inet6_lookup_listener = 0x2cb69114;
+__crc_inet6_lookup = 0x1881a70c;
+__crc_inet6_hash_connect = 0x9727065e;
+__crc_inet6_hash = 0x56fac28b;

@@ -1,0 +1,10 @@
+__crc_configfs_remove_default_groups = 0xc100ad41;
+__crc_configfs_depend_item = 0xb32c8588;
+__crc_configfs_undepend_item = 0x0a7a4a96;
+__crc_configfs_depend_item_unlocked = 0x72e3d59a;
+__crc_configfs_register_group = 0xe369fa8f;
+__crc_configfs_unregister_group = 0xfb5cf9ae;
+__crc_configfs_register_default_group = 0x42c08001;
+__crc_configfs_unregister_default_group = 0x1a3ded99;
+__crc_configfs_register_subsystem = 0x5fc63980;
+__crc_configfs_unregister_subsystem = 0xd6fd84d4;

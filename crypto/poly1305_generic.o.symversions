@@ -1,0 +1,7 @@
+__crc_crypto_poly1305_init = 0x9711e64d;
+__crc_poly1305_core_setkey = 0x299fbb2e;
+__crc_crypto_poly1305_setdesckey = 0x65267047;
+__crc_poly1305_core_blocks = 0x30dbed6e;
+__crc_crypto_poly1305_update = 0xab0f6b76;
+__crc_poly1305_core_emit = 0x5ef1870c;
+__crc_crypto_poly1305_final = 0x5dd59da8;

@@ -1,0 +1,6 @@
+__crc_inet_twsk_put = 0xf7f762bb;
+__crc_inet_twsk_hashdance = 0xebd73cfb;
+__crc_inet_twsk_alloc = 0xe06a3ee3;
+__crc_inet_twsk_deschedule_put = 0x3d63ee8d;
+__crc___inet_twsk_schedule = 0x3ad2f24f;
+__crc_inet_twsk_purge = 0x57732438;

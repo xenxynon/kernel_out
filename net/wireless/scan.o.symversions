@@ -1,0 +1,15 @@
+__crc_cfg80211_is_element_inherited = 0xcc1a7c48;
+__crc_cfg80211_scan_done = 0x7a3ad337;
+__crc_cfg80211_sched_scan_results = 0x5c6de598;
+__crc_cfg80211_sched_scan_stopped_rtnl = 0x75598754;
+__crc_cfg80211_sched_scan_stopped = 0xe8775c06;
+__crc_cfg80211_find_elem_match = 0x9d6cba30;
+__crc_cfg80211_find_vendor_elem = 0x79b82a71;
+__crc_cfg80211_get_bss = 0xe2a4bc60;
+__crc_cfg80211_merge_profile = 0x117aca91;
+__crc_cfg80211_inform_bss_data = 0x91f8e3e3;
+__crc_cfg80211_inform_bss_frame_data = 0xded7b686;
+__crc_cfg80211_ref_bss = 0x80d68d74;
+__crc_cfg80211_put_bss = 0xf566daca;
+__crc_cfg80211_unlink_bss = 0xe62b9152;
+__crc_cfg80211_bss_iter = 0x4faa607d;

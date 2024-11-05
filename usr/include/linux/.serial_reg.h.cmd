@@ -1,0 +1,1 @@
+cmd_usr/include/linux/serial_reg.h := sh /home/rayan/r/kernel/nothing/sm7325/scripts/headers_install.sh /home/rayan/r/kernel/nothing/sm7325/include/uapi/linux/serial_reg.h usr/include/linux/serial_reg.h

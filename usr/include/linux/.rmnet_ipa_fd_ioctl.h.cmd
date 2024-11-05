@@ -1,0 +1,1 @@
+cmd_usr/include/linux/rmnet_ipa_fd_ioctl.h := sh /home/rayan/r/kernel/nothing/sm7325/scripts/headers_install.sh /home/rayan/r/kernel/nothing/sm7325/include/uapi/linux/rmnet_ipa_fd_ioctl.h usr/include/linux/rmnet_ipa_fd_ioctl.h

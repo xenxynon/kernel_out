@@ -1,0 +1,7 @@
+__crc_ipv6_dev_get_saddr = 0xeff9fc06;
+__crc_ipv6_chk_addr = 0xaed5a49c;
+__crc_ipv6_chk_addr_and_flags = 0x821b28d4;
+__crc_ipv6_chk_custom_prefix = 0x27366b49;
+__crc_ipv6_chk_prefix = 0x6f30601e;
+__crc_addrconf_prefix_rcv_add_addr = 0x333614ab;
+__crc_addrconf_add_linklocal = 0x03461baf;

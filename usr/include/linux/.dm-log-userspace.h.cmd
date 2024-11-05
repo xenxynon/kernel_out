@@ -1,0 +1,1 @@
+cmd_usr/include/linux/dm-log-userspace.h := sh /home/rayan/r/kernel/nothing/sm7325/scripts/headers_install.sh /home/rayan/r/kernel/nothing/sm7325/include/uapi/linux/dm-log-userspace.h usr/include/linux/dm-log-userspace.h

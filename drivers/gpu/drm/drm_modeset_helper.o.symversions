@@ -1,0 +1,5 @@
+__crc_drm_helper_move_panel_connectors_to_head = 0xbd75b03a;
+__crc_drm_helper_mode_fill_fb_struct = 0xb4f20b49;
+__crc_drm_crtc_init = 0x74e59c24;
+__crc_drm_mode_config_helper_suspend = 0x8bfe9f6b;
+__crc_drm_mode_config_helper_resume = 0x9459a61f;

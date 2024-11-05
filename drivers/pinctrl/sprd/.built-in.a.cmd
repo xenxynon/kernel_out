@@ -1,0 +1,1 @@
+cmd_drivers/pinctrl/sprd/built-in.a := rm -f drivers/pinctrl/sprd/built-in.a.symversions; for i in ; do cat $$i.symversions >> drivers/pinctrl/sprd/built-in.a.symversions; done; rm -f drivers/pinctrl/sprd/built-in.a; /home/rayan/r/prebuilts/clang/host/linux-x86/clang-r522817/bin/llvm-ar cDPrST drivers/pinctrl/sprd/built-in.a 

@@ -1,0 +1,14 @@
+__crc_dst_discard_out = 0x5011d68c;
+__crc_dst_default_metrics = 0xccfb9e07;
+__crc_dst_init = 0x7d4c9215;
+__crc_dst_alloc = 0x71038bc2;
+__crc_dst_destroy = 0xad93d22e;
+__crc_dst_dev_put = 0x1e495091;
+__crc_dst_release = 0x7d481f9a;
+__crc_dst_release_immediate = 0x1a8dff24;
+__crc_dst_cow_metrics_generic = 0x88bb3bd3;
+__crc___dst_destroy_metrics_generic = 0xab0f5c8e;
+__crc_metadata_dst_alloc = 0x270f4779;
+__crc_metadata_dst_free = 0x060651b4;
+__crc_metadata_dst_alloc_percpu = 0x914c6d8a;
+__crc_metadata_dst_free_percpu = 0x9c24c9a7;

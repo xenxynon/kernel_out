@@ -1,0 +1,4 @@
+__crc_ebt_unregister_table_pre_exit = 0x3194a5ac;
+__crc_ebt_register_table = 0x358610a5;
+__crc_ebt_unregister_table = 0x5fb3099d;
+__crc_ebt_do_table = 0x8be4fcba;

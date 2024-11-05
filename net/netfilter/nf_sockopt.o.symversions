@@ -1,0 +1,6 @@
+__crc_nf_register_sockopt = 0x70b797c4;
+__crc_nf_unregister_sockopt = 0x5656be2f;
+__crc_nf_setsockopt = 0x77eb5d17;
+__crc_nf_getsockopt = 0x55e13826;
+__crc_compat_nf_setsockopt = 0x5077ee79;
+__crc_compat_nf_getsockopt = 0x8ff2cf9b;

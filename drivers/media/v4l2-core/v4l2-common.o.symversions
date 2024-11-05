@@ -1,0 +1,9 @@
+__crc_v4l2_ctrl_query_fill = 0x89e3897d;
+__crc_v4l_bound_align_image = 0xf5ef842e;
+__crc___v4l2_find_nearest_size = 0xe2822320;
+__crc_v4l2_g_parm_cap = 0xc8038379;
+__crc_v4l2_s_parm_cap = 0x53be34c4;
+__crc_v4l2_format_info = 0x30be69e8;
+__crc_v4l2_apply_frmsize_constraints = 0x9fef35ac;
+__crc_v4l2_fill_pixfmt_mp = 0x6e9acc41;
+__crc_v4l2_fill_pixfmt = 0xcc501597;

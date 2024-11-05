@@ -1,0 +1,9 @@
+__crc_tcp_register_congestion_control = 0xccf82d61;
+__crc_tcp_unregister_congestion_control = 0xf431e692;
+__crc_tcp_ca_get_key_by_name = 0x9029509d;
+__crc_tcp_ca_get_name_by_key = 0x6735d56e;
+__crc_tcp_slow_start = 0xa40a38bc;
+__crc_tcp_cong_avoid_ai = 0xc1450709;
+__crc_tcp_reno_cong_avoid = 0x8bea7e93;
+__crc_tcp_reno_ssthresh = 0x4e728b18;
+__crc_tcp_reno_undo_cwnd = 0xe97062db;

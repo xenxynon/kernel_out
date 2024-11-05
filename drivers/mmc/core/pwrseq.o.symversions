@@ -1,0 +1,2 @@
+__crc_mmc_pwrseq_register = 0x4851c6bc;
+__crc_mmc_pwrseq_unregister = 0xe799ef7a;

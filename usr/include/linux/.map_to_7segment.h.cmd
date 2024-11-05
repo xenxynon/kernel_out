@@ -1,0 +1,1 @@
+cmd_usr/include/linux/map_to_7segment.h := sh /home/rayan/r/kernel/nothing/sm7325/scripts/headers_install.sh /home/rayan/r/kernel/nothing/sm7325/include/uapi/linux/map_to_7segment.h usr/include/linux/map_to_7segment.h

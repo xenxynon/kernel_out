@@ -1,0 +1,1 @@
+cmd_usr/include/linux/nfsd/stats.h := sh /home/rayan/r/kernel/nothing/sm7325/scripts/headers_install.sh /home/rayan/r/kernel/nothing/sm7325/include/uapi/linux/nfsd/stats.h usr/include/linux/nfsd/stats.h

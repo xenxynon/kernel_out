@@ -1,0 +1,1 @@
+cmd_drivers/iio/imu/bmi160/built-in.a := rm -f drivers/iio/imu/bmi160/built-in.a.symversions; for i in ; do cat $$i.symversions >> drivers/iio/imu/bmi160/built-in.a.symversions; done; rm -f drivers/iio/imu/bmi160/built-in.a; /home/rayan/r/prebuilts/clang/host/linux-x86/clang-r522817/bin/llvm-ar cDPrST drivers/iio/imu/bmi160/built-in.a 

@@ -1,0 +1,1 @@
+cmd_usr/include/audio/sound/wcd-dsp-glink.h := sh /home/rayan/r/kernel/nothing/sm7325/scripts/headers_install.sh /home/rayan/r/kernel/nothing/sm7325/techpack/audio/include/uapi/audio/sound/wcd-dsp-glink.h usr/include/audio/sound/wcd-dsp-glink.h

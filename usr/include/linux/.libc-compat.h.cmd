@@ -1,0 +1,1 @@
+cmd_usr/include/linux/libc-compat.h := sh /home/rayan/r/kernel/nothing/sm7325/scripts/headers_install.sh /home/rayan/r/kernel/nothing/sm7325/include/uapi/linux/libc-compat.h usr/include/linux/libc-compat.h

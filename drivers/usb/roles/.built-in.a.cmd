@@ -1,0 +1,1 @@
+cmd_drivers/usb/roles/built-in.a := rm -f drivers/usb/roles/built-in.a.symversions; for i in  drivers/usb/roles/class.o; do cat $$i.symversions >> drivers/usb/roles/built-in.a.symversions; done; rm -f drivers/usb/roles/built-in.a; /home/rayan/r/prebuilts/clang/host/linux-x86/clang-r522817/bin/llvm-ar cDPrST drivers/usb/roles/built-in.a drivers/usb/roles/class.o

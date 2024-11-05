@@ -1,0 +1,6 @@
+__crc_ipv6_proxy_select_ident = 0xdc81533b;
+__crc_ipv6_select_ident = 0x32530b7c;
+__crc_ip6_find_1stfragopt = 0x100e774c;
+__crc_ip6_dst_hoplimit = 0x68a7513a;
+__crc___ip6_local_out = 0x994bd9a9;
+__crc_ip6_local_out = 0xb45a499e;

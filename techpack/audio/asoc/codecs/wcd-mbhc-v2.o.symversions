@@ -1,0 +1,14 @@
+__crc_wcd_mbhc_jack_report = 0x3e9c9bb2;
+__crc_wcd_enable_curr_micbias = 0xdf07c58f;
+__crc_wcd_cancel_btn_work = 0x2462e0b9;
+__crc_wcd_swch_level_remove = 0xcc4163a5;
+__crc_wcd_mbhc_get_impedance = 0x518665bd;
+__crc_wcd_mbhc_hs_elec_irq = 0xc26c65d8;
+__crc_wcd_mbhc_report_plug = 0xe67c1a81;
+__crc_wcd_mbhc_elec_hs_report_unplug = 0x6b3cc5de;
+__crc_wcd_mbhc_find_plug_and_report = 0xbba4441b;
+__crc_wcd_mbhc_get_button_mask = 0xb0173d1a;
+__crc_wcd_mbhc_start = 0xceecc0fa;
+__crc_wcd_mbhc_stop = 0x44cd474b;
+__crc_wcd_mbhc_init = 0x8b3935bc;
+__crc_wcd_mbhc_deinit = 0xdc4b41b0;

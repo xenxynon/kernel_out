@@ -1,0 +1,10 @@
+__crc_cfg80211_shutdown_all_interfaces = 0xac826def;
+__crc_wiphy_new_nm = 0xcb2f755f;
+__crc_wiphy_register = 0xf405da64;
+__crc_wiphy_rfkill_start_polling = 0x3e9c6d7e;
+__crc_wiphy_rfkill_stop_polling = 0x186681ef;
+__crc_wiphy_unregister = 0xcf0836bf;
+__crc_wiphy_free = 0xbe703135;
+__crc_wiphy_rfkill_set_hw_state = 0x1c92f37f;
+__crc_cfg80211_unregister_wdev = 0x3ab88a3e;
+__crc_cfg80211_stop_iface = 0x1fd02a2a;

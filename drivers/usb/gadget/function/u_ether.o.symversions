@@ -1,0 +1,16 @@
+__crc_gether_setup_name = 0xfbbfa921;
+__crc_gether_setup_name_default = 0xd5892081;
+__crc_gether_register_netdev = 0xf9bd80e2;
+__crc_gether_set_gadget = 0x8e8973e9;
+__crc_gether_set_dev_addr = 0xe05b3ae1;
+__crc_gether_get_dev_addr = 0x050c41f9;
+__crc_gether_set_host_addr = 0x6b3ebbab;
+__crc_gether_get_host_addr = 0x7ae33d4d;
+__crc_gether_get_host_addr_cdc = 0x4c4a12ff;
+__crc_gether_get_host_addr_u8 = 0x64e87cb1;
+__crc_gether_set_qmult = 0x7f9cc6e8;
+__crc_gether_get_qmult = 0x7ca74307;
+__crc_gether_get_ifname = 0x66487285;
+__crc_gether_cleanup = 0x8878cfa6;
+__crc_gether_connect = 0xa50ba535;
+__crc_gether_disconnect = 0x5f8fa50c;

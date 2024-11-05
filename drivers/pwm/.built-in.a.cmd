@@ -1,0 +1,1 @@
+cmd_drivers/pwm/built-in.a := rm -f drivers/pwm/built-in.a.symversions; for i in  drivers/pwm/core.o    ; do cat $$i.symversions >> drivers/pwm/built-in.a.symversions; done; rm -f drivers/pwm/built-in.a; /home/rayan/r/prebuilts/clang/host/linux-x86/clang-r522817/bin/llvm-ar cDPrST drivers/pwm/built-in.a drivers/pwm/core.o drivers/pwm/sysfs.o drivers/pwm/pwm-qti-lpg.o

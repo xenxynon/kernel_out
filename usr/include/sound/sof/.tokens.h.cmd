@@ -1,0 +1,1 @@
+cmd_usr/include/sound/sof/tokens.h := sh /home/rayan/r/kernel/nothing/sm7325/scripts/headers_install.sh /home/rayan/r/kernel/nothing/sm7325/include/uapi/sound/sof/tokens.h usr/include/sound/sof/tokens.h

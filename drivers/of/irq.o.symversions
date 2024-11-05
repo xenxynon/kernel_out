@@ -1,0 +1,9 @@
+__crc_irq_of_parse_and_map = 0x307c0d82;
+__crc_of_irq_find_parent = 0x42765018;
+__crc_of_irq_parse_raw = 0xc6e2a448;
+__crc_of_irq_parse_one = 0x63ca22ba;
+__crc_of_irq_to_resource = 0x77629e02;
+__crc_of_irq_get = 0x8ebf874b;
+__crc_of_irq_get_byname = 0x889576a2;
+__crc_of_irq_to_resource_table = 0xe051b67b;
+__crc_of_msi_configure = 0xf5ef99f4;

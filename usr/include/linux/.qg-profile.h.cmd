@@ -1,0 +1,1 @@
+cmd_usr/include/linux/qg-profile.h := sh /home/rayan/r/kernel/nothing/sm7325/scripts/headers_install.sh /home/rayan/r/kernel/nothing/sm7325/include/uapi/linux/qg-profile.h usr/include/linux/qg-profile.h

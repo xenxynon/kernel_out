@@ -1,0 +1,5 @@
+__crc__snd_ctl_add_slave = 0x4ad6282f;
+__crc_snd_ctl_make_virtual_master = 0x5af7aaa5;
+__crc_snd_ctl_add_vmaster_hook = 0x0505268a;
+__crc_snd_ctl_sync_vmaster = 0x7c55e096;
+__crc_snd_ctl_apply_vmaster_slaves = 0x2cacbda4;

@@ -1,0 +1,1 @@
+cmd_usr/include/linux/media-bus-format.h := sh /home/rayan/r/kernel/nothing/sm7325/scripts/headers_install.sh /home/rayan/r/kernel/nothing/sm7325/include/uapi/linux/media-bus-format.h usr/include/linux/media-bus-format.h

@@ -1,0 +1,3 @@
+__crc_register_shrinker = 0xdc4aa534;
+__crc_unregister_shrinker = 0x419750d7;
+__crc_check_move_unevictable_pages = 0xcd8801e6;

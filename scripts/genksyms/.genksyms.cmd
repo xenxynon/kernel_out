@@ -1,0 +1,1 @@
+cmd_scripts/genksyms/genksyms := /home/rayan/r/prebuilts/clang/host/linux-x86/clang-r522817/bin/clang  -L/usr/lib/x86_64-linux-gnu -L/usr/lib64 -fuse-ld=lld -o scripts/genksyms/genksyms scripts/genksyms/genksyms.o scripts/genksyms/parse.tab.o scripts/genksyms/lex.lex.o   

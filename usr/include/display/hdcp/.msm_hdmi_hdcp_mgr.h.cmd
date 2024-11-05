@@ -1,0 +1,1 @@
+cmd_usr/include/display/hdcp/msm_hdmi_hdcp_mgr.h := sh /home/rayan/r/kernel/nothing/sm7325/scripts/headers_install.sh /home/rayan/r/kernel/nothing/sm7325/techpack/display/include/uapi/display/hdcp/msm_hdmi_hdcp_mgr.h usr/include/display/hdcp/msm_hdmi_hdcp_mgr.h

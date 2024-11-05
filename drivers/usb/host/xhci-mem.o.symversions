@@ -1,0 +1,2 @@
+__crc_xhci_sec_event_ring_cleanup = 0x0ac61965;
+__crc_xhci_sec_event_ring_setup = 0xe938831d;

@@ -1,0 +1,7 @@
+__crc_ttm_tt_set_placement_caching = 0x91091b9e;
+__crc_ttm_tt_init = 0x3b0ac07d;
+__crc_ttm_tt_fini = 0x0d4ca971;
+__crc_ttm_dma_tt_init = 0xe48ef734;
+__crc_ttm_sg_tt_init = 0xaade606b;
+__crc_ttm_dma_tt_fini = 0x47e53e09;
+__crc_ttm_tt_bind = 0x3e557805;

@@ -1,0 +1,1 @@
+cmd_drivers/nfc/built-in.a := rm -f drivers/nfc/built-in.a.symversions; for i in  ; do cat $$i.symversions >> drivers/nfc/built-in.a.symversions; done; rm -f drivers/nfc/built-in.a; /home/rayan/r/prebuilts/clang/host/linux-x86/clang-r522817/bin/llvm-ar cDPrST drivers/nfc/built-in.a drivers/nfc/qti/built-in.a

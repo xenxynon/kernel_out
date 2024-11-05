@@ -1,0 +1,17 @@
+__crc_vm_event_states = 0xfb0cecfd;
+__crc_all_vm_events = 0x7278d328;
+__crc_vm_zone_stat = 0xa8b3d90c;
+__crc_vm_numa_stat = 0x3958de9b;
+__crc_vm_node_stat = 0x5d78a8f6;
+__crc___mod_zone_page_state = 0xf1558d8a;
+__crc___mod_node_page_state = 0xb5b3b596;
+__crc___inc_zone_page_state = 0x71c0ffcc;
+__crc___inc_node_page_state = 0x76d1b227;
+__crc___dec_zone_page_state = 0x44b157a3;
+__crc___dec_node_page_state = 0x4549e0d6;
+__crc_mod_zone_page_state = 0xd9c3eece;
+__crc_inc_zone_page_state = 0x103d806d;
+__crc_dec_zone_page_state = 0x254c2802;
+__crc_mod_node_page_state = 0x86c2a0c4;
+__crc_inc_node_page_state = 0xecee80e9;
+__crc_dec_node_page_state = 0xdf76d218;

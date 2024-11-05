@@ -1,0 +1,3 @@
+__crc_adc_tm_channel_measure = 0xcacfe97e;
+__crc_adc_tm_disable_chan_meas = 0x1bbec323;
+__crc_get_adc_tm = 0xc715d2fd;

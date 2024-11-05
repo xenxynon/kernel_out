@@ -1,0 +1,4 @@
+__crc_llc_sap_list = 0x52d7b2fd;
+__crc_llc_sap_find = 0xdb81e363;
+__crc_llc_sap_open = 0xf26559e7;
+__crc_llc_sap_close = 0x90e0ef1c;

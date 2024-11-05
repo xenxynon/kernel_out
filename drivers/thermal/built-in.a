@@ -1,0 +1,75 @@
+!<thin>
+//                                              682       `
+thermal_core.o/
+thermal_sysfs.o/
+thermal_helpers.o/
+thermal_hwmon.o/
+of-thermal.o/
+step_wise.o/
+user_space.o/
+power_allocator.o/
+cpu_cooling.o/
+devfreq_cooling.o/
+thermal_debugfs.o/
+qcom/qcom-spmi-temp-alarm.o/
+qcom/adc-tm.o/
+qcom/adc-tm-common.o/
+qcom/adc-tm5.o/
+qcom/adc-tm7.o/
+qcom/thermal_sensor_service_v01.o/
+qcom/qmi_sensors.o/
+qcom/thermal_mitigation_device_service_v01.o/
+qcom/qmi_cooling.o/
+qcom/cpu_isolate.o/
+qcom/cpu_hotplug.o/
+qcom/bcl_pmic5.o/
+qcom/bcl_soc.o/
+qcom/msm_lmh_dcvs.o/
+qcom/cpu_voltage_cooling.o/
+qcom/policy_engine.o/
+qcom/sdpm_clk.o/
+qcom/ddr_cdev.o/
+qcom/max31760_fan.o/
+msm-tsens.o/
+tsens2xxx.o/
+tsens-dbg.o/
+tsens-mtc.o/
+tsens1xxx.o/
+tsens-calib.o/
+
+/0              0           0     0     644     152648    `
+/16             0           0     0     644     60836     `
+/33             0           0     0     644     22436     `
+/52             0           0     0     644     18828     `
+/69             0           0     0     644     66156     `
+/83             0           0     0     644     11000     `
+/96             0           0     0     644     6332      `
+/110            0           0     0     644     42220     `
+/129            0           0     0     644     35540     `
+/144            0           0     0     644     32748     `
+/163            0           0     0     644     7100      `
+/182            0           0     0     644     18336     `
+/211            0           0     0     644     29660     `
+/226            0           0     0     644     19516     `
+/248            0           0     0     644     30424     `
+/264            0           0     0     644     26072     `
+/280            0           0     0     644     4144      `
+/315            0           0     0     644     39260     `
+/335            0           0     0     644     4800      `
+/381            0           0     0     644     25368     `
+/401            0           0     0     644     30788     `
+/421            0           0     0     644     15288     `
+/441            0           0     0     644     27168     `
+/459            0           0     0     644     13908     `
+/475            0           0     0     644     29236     `
+/496            0           0     0     644     20224     `
+/524            0           0     0     644     13344     `
+/546            0           0     0     644     16780     `
+/563            0           0     0     644     12044     `
+/580            0           0     0     644     18096     `
+/601            0           0     0     644     26472     `
+/614            0           0     0     644     28408     `
+/627            0           0     0     644     24768     `
+/640            0           0     0     644     14352     `
+/653            0           0     0     644     21028     `
+/666            0           0     0     644     10552     `

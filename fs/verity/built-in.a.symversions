@@ -1,0 +1,8 @@
+__crc_fsverity_ioctl_enable = 0x01ca7b42;
+__crc_fsverity_ioctl_measure = 0xcf41acfb;
+__crc_fsverity_file_open = 0xf31d0d83;
+__crc_fsverity_prepare_setattr = 0xf22f03e5;
+__crc_fsverity_cleanup_inode = 0x5102db04;
+__crc_fsverity_verify_page = 0x87fdf971;
+__crc_fsverity_verify_bio = 0x237afcc8;
+__crc_fsverity_enqueue_verify_work = 0x57244555;

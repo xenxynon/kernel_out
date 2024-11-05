@@ -1,0 +1,1 @@
+cmd_usr/include/linux/openvswitch.h := sh /home/rayan/r/kernel/nothing/sm7325/scripts/headers_install.sh /home/rayan/r/kernel/nothing/sm7325/include/uapi/linux/openvswitch.h usr/include/linux/openvswitch.h

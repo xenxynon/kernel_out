@@ -1,0 +1,9 @@
+__crc_splice_to_pipe = 0xfd97c642;
+__crc_add_to_pipe = 0xf30d865f;
+__crc_generic_file_splice_read = 0xef066396;
+__crc_nosteal_pipe_buf_ops = 0x0e35d2e1;
+__crc___splice_from_pipe = 0x415dc279;
+__crc_iter_file_splice_write = 0xd9dbb616;
+__crc_generic_splice_sendpage = 0x93251c92;
+__crc_splice_direct_to_actor = 0x3c80336f;
+__crc_do_splice_direct = 0xc72b0c85;

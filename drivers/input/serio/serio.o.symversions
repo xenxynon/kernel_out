@@ -1,0 +1,11 @@
+__crc_serio_rescan = 0xb8122cd2;
+__crc_serio_reconnect = 0x92848572;
+__crc___serio_register_port = 0x68386544;
+__crc_serio_unregister_port = 0xae859c49;
+__crc_serio_unregister_child_port = 0x2ef1cf39;
+__crc___serio_register_driver = 0x84f063e9;
+__crc_serio_unregister_driver = 0x279c0337;
+__crc_serio_open = 0xb1bc3f74;
+__crc_serio_close = 0x49d6f867;
+__crc_serio_interrupt = 0xd42fee4f;
+__crc_serio_bus = 0x5357c56b;

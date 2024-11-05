@@ -1,0 +1,1 @@
+cmd_usr/include/audio/linux/mfd/wcd9xxx/wcd9320_registers.h := sh /home/rayan/r/kernel/nothing/sm7325/scripts/headers_install.sh /home/rayan/r/kernel/nothing/sm7325/techpack/audio/include/uapi/audio/linux/mfd/wcd9xxx/wcd9320_registers.h usr/include/audio/linux/mfd/wcd9xxx/wcd9320_registers.h

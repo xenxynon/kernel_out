@@ -1,0 +1,6 @@
+__crc_fsnotify_put_mark = 0x0a43d0b2;
+__crc_fsnotify_destroy_mark = 0xeb9cf7d7;
+__crc_fsnotify_add_mark = 0x6b2341e4;
+__crc_fsnotify_find_mark = 0x38c2d9e6;
+__crc_fsnotify_init_mark = 0x7bcf0112;
+__crc_fsnotify_wait_marks_destroyed = 0xbaf6850c;

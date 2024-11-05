@@ -1,0 +1,33 @@
+!<thin>
+//                                              240       `
+core.o/
+dummy.o/
+fixed-helper.o/
+helpers.o/
+devres.o/
+of_regulator.o/
+fixed.o/
+qti-fixed-regulator.o/
+proxy-consumer.o/
+qcom_pm8008-regulator.o/
+qpnp-lcdb-regulator.o/
+qpnp-amoled-regulator.o/
+refgen.o/
+rpmh-regulator.o/
+stub-regulator.o/
+
+/0              0           0     0     644     219488    `
+/8              0           0     0     644     11576     `
+/17             0           0     0     644     8904      `
+/33             0           0     0     644     40208     `
+/44             0           0     0     644     32696     `
+/54             0           0     0     644     27616     `
+/70             0           0     0     644     13568     `
+/79             0           0     0     644     14220     `
+/102            0           0     0     644     23488     `
+/120            0           0     0     644     37068     `
+/145            0           0     0     644     65596     `
+/168            0           0     0     644     23476     `
+/193            0           0     0     644     16412     `
+/203            0           0     0     644     42268     `
+/221            0           0     0     644     20140     `

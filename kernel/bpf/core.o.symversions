@@ -1,0 +1,9 @@
+__crc_bpf_prog_alloc = 0xeb792b1a;
+__crc_arch_bpf_jit_check_func = 0xdf3288fb;
+__crc___bpf_call_base = 0xc9827693;
+__crc_bpf_prog_select_runtime = 0x6ee26245;
+__crc_bpf_prog_free = 0xb18bb61c;
+__crc_bpf_event_output = 0xb4b02591;
+__crc_bpf_stats_enabled_key = 0xf84bd6ee;
+__crc___tracepoint_xdp_exception = 0x666b755a;
+__crc___tracepoint_xdp_bulk_tx = 0x9e08d700;

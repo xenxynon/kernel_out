@@ -1,0 +1,9 @@
+__crc_badblocks_check = 0xa21fb8b1;
+__crc_badblocks_set = 0xca93406a;
+__crc_badblocks_clear = 0x6f5ab461;
+__crc_ack_all_badblocks = 0x169850d7;
+__crc_badblocks_show = 0x1c030465;
+__crc_badblocks_store = 0x6b1f38ed;
+__crc_badblocks_init = 0x82031a7e;
+__crc_devm_init_badblocks = 0x1e09ffae;
+__crc_badblocks_exit = 0xb842ce8e;

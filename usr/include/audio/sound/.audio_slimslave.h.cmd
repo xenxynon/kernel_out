@@ -1,0 +1,1 @@
+cmd_usr/include/audio/sound/audio_slimslave.h := sh /home/rayan/r/kernel/nothing/sm7325/scripts/headers_install.sh /home/rayan/r/kernel/nothing/sm7325/techpack/audio/include/uapi/audio/sound/audio_slimslave.h usr/include/audio/sound/audio_slimslave.h

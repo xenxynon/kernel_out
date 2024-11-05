@@ -1,0 +1,4 @@
+__crc_tipc_nl_sk_walk = 0x384c7966;
+__crc_tipc_dump_start = 0x93dca7cd;
+__crc_tipc_dump_done = 0x2b5fd3d2;
+__crc_tipc_sk_fill_sock_diag = 0x34cbccc1;

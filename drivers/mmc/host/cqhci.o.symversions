@@ -1,0 +1,5 @@
+__crc_cqhci_deactivate = 0x7b50a029;
+__crc_cqhci_resume = 0x7c3e6cb9;
+__crc_cqhci_irq = 0x52b27e14;
+__crc_cqhci_pltfm_init = 0x50074f3d;
+__crc_cqhci_init = 0x7a225701;

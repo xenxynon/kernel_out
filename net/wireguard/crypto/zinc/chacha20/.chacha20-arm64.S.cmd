@@ -1,0 +1,1 @@
+cmd_net/wireguard/crypto/zinc/chacha20/chacha20-arm64.S := perl /home/rayan/r/kernel/nothing/sm7325/net/wireguard/crypto/zinc/chacha20/chacha20-arm64.pl > net/wireguard/crypto/zinc/chacha20/chacha20-arm64.S

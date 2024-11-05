@@ -1,0 +1,1 @@
+cmd_techpack/stub/built-in.a := rm -f techpack/stub/built-in.a.symversions; for i in  ; do cat $$i.symversions >> techpack/stub/built-in.a.symversions; done; rm -f techpack/stub/built-in.a; /home/rayan/r/prebuilts/clang/host/linux-x86/clang-r522817/bin/llvm-ar cDPrST techpack/stub/built-in.a techpack/stub/stub.o

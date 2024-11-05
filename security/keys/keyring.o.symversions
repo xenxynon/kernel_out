@@ -1,0 +1,8 @@
+__crc_key_type_keyring = 0xa5364833;
+__crc_keyring_alloc = 0x73ad5718;
+__crc_keyring_search = 0x56031e60;
+__crc_keyring_restrict = 0x9f50b770;
+__crc_key_link = 0x839ae22e;
+__crc_key_unlink = 0xf2d5c60d;
+__crc_key_move = 0xf101cc9c;
+__crc_keyring_clear = 0xe93cf825;

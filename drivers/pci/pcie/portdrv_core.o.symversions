@@ -1,0 +1,3 @@
+__crc_pcie_port_find_device = 0xfc94e20e;
+__crc_pcie_port_service_register = 0xa5294897;
+__crc_pcie_port_service_unregister = 0x80a9f992;

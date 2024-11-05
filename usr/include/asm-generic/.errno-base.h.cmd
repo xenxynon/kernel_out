@@ -1,0 +1,1 @@
+cmd_usr/include/asm-generic/errno-base.h := sh /home/rayan/r/kernel/nothing/sm7325/scripts/headers_install.sh /home/rayan/r/kernel/nothing/sm7325/include/uapi/asm-generic/errno-base.h usr/include/asm-generic/errno-base.h

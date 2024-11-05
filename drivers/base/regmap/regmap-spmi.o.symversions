@@ -1,0 +1,4 @@
+__crc___regmap_init_spmi_base = 0xfcc6cfee;
+__crc___devm_regmap_init_spmi_base = 0xaf3185dc;
+__crc___regmap_init_spmi_ext = 0x390667ec;
+__crc___devm_regmap_init_spmi_ext = 0x7ddf651e;

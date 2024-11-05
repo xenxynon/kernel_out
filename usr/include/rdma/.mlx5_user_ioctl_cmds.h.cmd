@@ -1,0 +1,1 @@
+cmd_usr/include/rdma/mlx5_user_ioctl_cmds.h := sh /home/rayan/r/kernel/nothing/sm7325/scripts/headers_install.sh /home/rayan/r/kernel/nothing/sm7325/include/uapi/rdma/mlx5_user_ioctl_cmds.h usr/include/rdma/mlx5_user_ioctl_cmds.h

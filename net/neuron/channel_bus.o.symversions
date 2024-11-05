@@ -1,0 +1,3 @@
+__crc_neuron_channel_add = 0x446b649d;
+__crc_neuron_register_channel_driver = 0xcd7b9144;
+__crc_neuron_unregister_channel_driver = 0x7d741091;

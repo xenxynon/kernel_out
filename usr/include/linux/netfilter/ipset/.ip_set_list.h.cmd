@@ -1,0 +1,1 @@
+cmd_usr/include/linux/netfilter/ipset/ip_set_list.h := sh /home/rayan/r/kernel/nothing/sm7325/scripts/headers_install.sh /home/rayan/r/kernel/nothing/sm7325/include/uapi/linux/netfilter/ipset/ip_set_list.h usr/include/linux/netfilter/ipset/ip_set_list.h

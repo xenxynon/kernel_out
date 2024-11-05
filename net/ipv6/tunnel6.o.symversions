@@ -1,0 +1,2 @@
+__crc_xfrm6_tunnel_register = 0xaa412230;
+__crc_xfrm6_tunnel_deregister = 0x9baf39d1;

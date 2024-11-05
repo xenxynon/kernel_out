@@ -1,0 +1,1 @@
+cmd_net/qrtr/built-in.a := rm -f net/qrtr/built-in.a.symversions; for i in  net/qrtr/qrtr.o  net/qrtr/ns.o      ; do cat $$i.symversions >> net/qrtr/built-in.a.symversions; done; rm -f net/qrtr/built-in.a; /home/rayan/r/prebuilts/clang/host/linux-x86/clang-r522817/bin/llvm-ar cDPrST net/qrtr/built-in.a net/qrtr/qrtr.o net/qrtr/ns.o net/qrtr/smd.o net/qrtr/mhi.o net/qrtr/haven.o

@@ -1,0 +1,44 @@
+!<thin>
+//                                              414       `
+synx/synx.o/
+synx/synx_util.o/
+synx/synx_debugfs.o/
+cvp/cvp.o/
+cvp/msm_cvp_ioctl.o/
+cvp/msm_cvp_platform.o/
+cvp/msm_cvp_common.o/
+cvp/msm_cvp_core.o/
+cvp/msm_cvp.o/
+cvp/msm_smem.o/
+cvp/msm_cvp_debug.o/
+cvp/msm_cvp_res_parse.o/
+cvp/cvp_hfi.o/
+cvp/hfi_response_handler.o/
+cvp/hfi_packetization.o/
+cvp/cvp_core_hfi.o/
+cvp/msm_cvp_clocks.o/
+cvp/msm_cvp_dsp.o/
+cvp/msm_cvp_buf.o/
+cvp/msm_cvp_synx.o/
+cvp/cvp_fw_load.o/
+/0              0           0     0     644     94816     `
+/13             0           0     0     644     64888     `
+/31             0           0     0     644     8744      `
+/52             0           0     0     644     45644     `
+/63             0           0     0     644     177228    `
+/84             0           0     0     644     13264     `
+/108            0           0     0     644     73200     `
+/130            0           0     0     644     31200     `
+/150            0           0     0     644     61312     `
+/165            0           0     0     644     27728     `
+/181            0           0     0     644     14684     `
+/202            0           0     0     644     46564     `
+/227            0           0     0     644     155828    `
+/242            0           0     0     644     33216     `
+/270            0           0     0     644     22224     `
+/295            0           0     0     644     9692      `
+/315            0           0     0     644     7836      `
+/337            0           0     0     644     38592     `
+/356            0           0     0     644     48228     `
+/375            0           0     0     644     18180     `
+/395            0           0     0     644     8600      `

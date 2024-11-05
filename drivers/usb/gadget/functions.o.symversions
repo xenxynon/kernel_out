@@ -1,0 +1,6 @@
+__crc_usb_get_function_instance = 0x77793cdb;
+__crc_usb_get_function = 0xe1aa08c7;
+__crc_usb_put_function_instance = 0x322b891e;
+__crc_usb_put_function = 0x48f10c49;
+__crc_usb_function_register = 0xa603dbc1;
+__crc_usb_function_unregister = 0x4516572d;

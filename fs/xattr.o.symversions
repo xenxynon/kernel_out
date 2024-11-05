@@ -1,0 +1,11 @@
+__crc___vfs_setxattr = 0x9bf5a362;
+__crc___vfs_setxattr_locked = 0x9729a18f;
+__crc_vfs_setxattr = 0x8d6fe90a;
+__crc___vfs_getxattr = 0x5786cc0d;
+__crc_vfs_getxattr = 0x76aceb8a;
+__crc_vfs_listxattr = 0xca459dc2;
+__crc___vfs_removexattr = 0x63c84201;
+__crc___vfs_removexattr_locked = 0xb0350c42;
+__crc_vfs_removexattr = 0x3eda18a3;
+__crc_generic_listxattr = 0x287b67e4;
+__crc_xattr_full_name = 0xd485614f;

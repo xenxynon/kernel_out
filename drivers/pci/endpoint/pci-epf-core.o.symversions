@@ -1,0 +1,10 @@
+__crc_pci_epf_linkup = 0xc7d18377;
+__crc_pci_epf_unbind = 0xa3373757;
+__crc_pci_epf_bind = 0xe2a3b52f;
+__crc_pci_epf_free_space = 0x5790f423;
+__crc_pci_epf_alloc_space = 0xa7deb9a6;
+__crc_pci_epf_unregister_driver = 0x5565c0a1;
+__crc___pci_epf_register_driver = 0xb65268be;
+__crc_pci_epf_destroy = 0xc4bc8ee9;
+__crc_pci_epf_create = 0x04d58732;
+__crc_pci_epf_match_device = 0x5c0137be;

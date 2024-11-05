@@ -1,0 +1,10 @@
+__crc_snd_soc_dai_set_sysclk = 0x830e0f9b;
+__crc_snd_soc_dai_set_clkdiv = 0xc133c110;
+__crc_snd_soc_dai_set_pll = 0x973e2458;
+__crc_snd_soc_dai_set_bclk_ratio = 0x336a4fcd;
+__crc_snd_soc_dai_set_fmt = 0x07c0f52d;
+__crc_snd_soc_dai_set_tdm_slot = 0x01b40e5f;
+__crc_snd_soc_dai_set_channel_map = 0xb3a758cf;
+__crc_snd_soc_dai_get_channel_map = 0xc81eb097;
+__crc_snd_soc_dai_set_tristate = 0xd6997533;
+__crc_snd_soc_dai_digital_mute = 0xa2f390eb;
